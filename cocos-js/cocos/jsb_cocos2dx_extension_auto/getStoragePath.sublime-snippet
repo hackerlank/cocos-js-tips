@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStoragePath]]></content>
+    <tabTrigger>getStoragePath</tabTrigger>
+    <scope>source.js</scope>
+    <description>getStoragePath</description>
+</snippet>

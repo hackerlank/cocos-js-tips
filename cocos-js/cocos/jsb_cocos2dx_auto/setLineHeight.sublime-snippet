@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLineHeight]]></content>
+    <tabTrigger>setLineHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLineHeight</description>
+</snippet>

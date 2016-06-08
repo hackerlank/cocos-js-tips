@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getQuality]]></content>
+    <tabTrigger>getQuality</tabTrigger>
+    <scope>source.js</scope>
+    <description>getQuality</description>
+</snippet>

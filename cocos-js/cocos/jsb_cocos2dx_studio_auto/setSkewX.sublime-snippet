@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSkewX]]></content>
+    <tabTrigger>setSkewX</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSkewX</description>
+</snippet>

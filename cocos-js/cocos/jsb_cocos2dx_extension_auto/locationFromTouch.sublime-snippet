@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[locationFromTouch]]></content>
+    <tabTrigger>locationFromTouch</tabTrigger>
+    <scope>source.js</scope>
+    <description>locationFromTouch</description>
+</snippet>

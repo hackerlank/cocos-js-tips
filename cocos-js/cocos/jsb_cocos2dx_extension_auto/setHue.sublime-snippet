@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setHue]]></content>
+    <tabTrigger>setHue</tabTrigger>
+    <scope>source.js</scope>
+    <description>setHue</description>
+</snippet>

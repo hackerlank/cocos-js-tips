@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNodeToWorldTransform3D]]></content>
+    <tabTrigger>getNodeToWorldTransform3D</tabTrigger>
+    <scope>source.js</scope>
+    <description>getNodeToWorldTransform3D</description>
+</snippet>

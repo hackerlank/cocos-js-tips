@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTangentialAccelVar]]></content>
+    <tabTrigger>setTangentialAccelVar</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTangentialAccelVar</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isBright]]></content>
+    <tabTrigger>isBright</tabTrigger>
+    <scope>source.js</scope>
+    <description>isBright</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBottomMargin]]></content>
+    <tabTrigger>getBottomMargin</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBottomMargin</description>
+</snippet>

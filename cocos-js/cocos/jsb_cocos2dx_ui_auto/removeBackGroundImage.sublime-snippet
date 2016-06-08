@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeBackGroundImage]]></content>
+    <tabTrigger>removeBackGroundImage</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeBackGroundImage</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[seekWidgetByName]]></content>
+    <tabTrigger>seekWidgetByName</tabTrigger>
+    <scope>source.js</scope>
+    <description>seekWidgetByName</description>
+</snippet>

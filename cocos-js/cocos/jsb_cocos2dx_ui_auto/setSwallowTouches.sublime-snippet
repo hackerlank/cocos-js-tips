@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSwallowTouches]]></content>
+    <tabTrigger>setSwallowTouches</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSwallowTouches</description>
+</snippet>

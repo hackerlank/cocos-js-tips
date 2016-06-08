@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBackGroundStartColor]]></content>
+    <tabTrigger>getBackGroundStartColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBackGroundStartColor</description>
+</snippet>

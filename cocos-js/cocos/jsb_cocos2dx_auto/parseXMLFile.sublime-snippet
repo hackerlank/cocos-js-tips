@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[parseXMLFile]]></content>
+    <tabTrigger>parseXMLFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>parseXMLFile</description>
+</snippet>

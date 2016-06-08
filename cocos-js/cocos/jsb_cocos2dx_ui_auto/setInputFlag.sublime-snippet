@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setInputFlag]]></content>
+    <tabTrigger>setInputFlag</tabTrigger>
+    <scope>source.js</scope>
+    <description>setInputFlag</description>
+</snippet>

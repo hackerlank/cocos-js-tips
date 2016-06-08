@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isComplete]]></content>
+    <tabTrigger>isComplete</tabTrigger>
+    <scope>source.js</scope>
+    <description>isComplete</description>
+</snippet>

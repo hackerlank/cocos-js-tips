@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeTextureData]]></content>
+    <tabTrigger>removeTextureData</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeTextureData</description>
+</snippet>

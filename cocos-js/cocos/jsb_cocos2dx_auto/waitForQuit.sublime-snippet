@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[waitForQuit]]></content>
+    <tabTrigger>waitForQuit</tabTrigger>
+    <scope>source.js</scope>
+    <description>waitForQuit</description>
+</snippet>

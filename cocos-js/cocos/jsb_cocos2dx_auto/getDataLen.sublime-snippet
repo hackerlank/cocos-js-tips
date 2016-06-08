@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDataLen]]></content>
+    <tabTrigger>getDataLen</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDataLen</description>
+</snippet>

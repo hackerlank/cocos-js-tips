@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getImageHeight]]></content>
+    <tabTrigger>getImageHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>getImageHeight</description>
+</snippet>

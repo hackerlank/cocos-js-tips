@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getQuadsToDraw]]></content>
+    <tabTrigger>getQuadsToDraw</tabTrigger>
+    <scope>source.js</scope>
+    <description>getQuadsToDraw</description>
+</snippet>

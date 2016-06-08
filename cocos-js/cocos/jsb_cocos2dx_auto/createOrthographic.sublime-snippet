@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createOrthographic]]></content>
+    <tabTrigger>createOrthographic</tabTrigger>
+    <scope>source.js</scope>
+    <description>createOrthographic</description>
+</snippet>

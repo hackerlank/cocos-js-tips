@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCurrentTime]]></content>
+    <tabTrigger>setCurrentTime</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCurrentTime</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeFromMap]]></content>
+    <tabTrigger>removeFromMap</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeFromMap</description>
+</snippet>

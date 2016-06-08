@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isRotated]]></content>
+    <tabTrigger>isRotated</tabTrigger>
+    <scope>source.js</scope>
+    <description>isRotated</description>
+</snippet>

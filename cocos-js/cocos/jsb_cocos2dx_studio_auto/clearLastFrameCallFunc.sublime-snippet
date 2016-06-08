@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearLastFrameCallFunc]]></content>
+    <tabTrigger>clearLastFrameCallFunc</tabTrigger>
+    <scope>source.js</scope>
+    <description>clearLastFrameCallFunc</description>
+</snippet>

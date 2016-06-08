@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStep]]></content>
+    <tabTrigger>setStep</tabTrigger>
+    <scope>source.js</scope>
+    <description>setStep</description>
+</snippet>

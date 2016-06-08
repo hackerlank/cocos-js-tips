@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isFastMode]]></content>
+    <tabTrigger>isFastMode</tabTrigger>
+    <scope>source.js</scope>
+    <description>isFastMode</description>
+</snippet>

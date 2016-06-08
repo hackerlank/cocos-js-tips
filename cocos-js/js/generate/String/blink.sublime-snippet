@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[blink]]></content>
+    <tabTrigger>blink</tabTrigger>
+    <scope>source.js</scope>
+    <description>blink</description>
+</snippet>

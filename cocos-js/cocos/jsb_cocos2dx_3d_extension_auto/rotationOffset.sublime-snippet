@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rotationOffset]]></content>
+    <tabTrigger>rotationOffset</tabTrigger>
+    <scope>source.js</scope>
+    <description>rotationOffset</description>
+</snippet>

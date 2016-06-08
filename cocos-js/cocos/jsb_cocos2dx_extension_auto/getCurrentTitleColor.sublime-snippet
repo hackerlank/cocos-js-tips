@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCurrentTitleColor]]></content>
+    <tabTrigger>getCurrentTitleColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCurrentTitleColor</description>
+</snippet>

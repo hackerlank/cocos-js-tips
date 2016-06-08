@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawSolidPoly]]></content>
+    <tabTrigger>drawSolidPoly</tabTrigger>
+    <scope>source.js</scope>
+    <description>drawSolidPoly</description>
+</snippet>

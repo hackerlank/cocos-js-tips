@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOpenGLView]]></content>
+    <tabTrigger>setOpenGLView</tabTrigger>
+    <scope>source.js</scope>
+    <description>setOpenGLView</description>
+</snippet>

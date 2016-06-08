@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addEventListenerWithFixedPriority]]></content>
+    <tabTrigger>addEventListenerWithFixedPriority</tabTrigger>
+    <scope>source.js</scope>
+    <description>addEventListenerWithFixedPriority</description>
+</snippet>

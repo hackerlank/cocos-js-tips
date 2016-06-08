@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPackageUrl]]></content>
+    <tabTrigger>getPackageUrl</tabTrigger>
+    <scope>source.js</scope>
+    <description>getPackageUrl</description>
+</snippet>

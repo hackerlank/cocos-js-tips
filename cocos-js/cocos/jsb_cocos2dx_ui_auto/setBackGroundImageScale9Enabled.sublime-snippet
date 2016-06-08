@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBackGroundImageScale9Enabled]]></content>
+    <tabTrigger>setBackGroundImageScale9Enabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBackGroundImageScale9Enabled</description>
+</snippet>

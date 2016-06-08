@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTitleAndFontNameAndFontSize]]></content>
+    <tabTrigger>initWithTitleAndFontNameAndFontSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithTitleAndFontNameAndFontSize</description>
+</snippet>

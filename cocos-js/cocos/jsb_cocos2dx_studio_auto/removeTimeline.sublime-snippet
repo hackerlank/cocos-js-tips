@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeTimeline]]></content>
+    <tabTrigger>removeTimeline</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeTimeline</description>
+</snippet>

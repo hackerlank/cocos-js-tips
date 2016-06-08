@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAutoPlaySequenceId]]></content>
+    <tabTrigger>setAutoPlaySequenceId</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAutoPlaySequenceId</description>
+</snippet>

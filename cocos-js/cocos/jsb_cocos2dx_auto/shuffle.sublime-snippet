@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[shuffle]]></content>
+    <tabTrigger>shuffle</tabTrigger>
+    <scope>source.js</scope>
+    <description>shuffle</description>
+</snippet>

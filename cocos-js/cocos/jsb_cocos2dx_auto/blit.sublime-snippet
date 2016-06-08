@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[blit]]></content>
+    <tabTrigger>blit</tabTrigger>
+    <scope>source.js</scope>
+    <description>blit</description>
+</snippet>

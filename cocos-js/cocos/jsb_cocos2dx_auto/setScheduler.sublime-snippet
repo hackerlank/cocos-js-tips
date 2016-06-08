@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScheduler]]></content>
+    <tabTrigger>setScheduler</tabTrigger>
+    <scope>source.js</scope>
+    <description>setScheduler</description>
+</snippet>

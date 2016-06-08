@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onDraw]]></content>
+    <tabTrigger>onDraw</tabTrigger>
+    <scope>source.js</scope>
+    <description>onDraw</description>
+</snippet>

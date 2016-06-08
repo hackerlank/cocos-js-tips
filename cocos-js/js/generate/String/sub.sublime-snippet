@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sub]]></content>
+    <tabTrigger>sub</tabTrigger>
+    <scope>source.js</scope>
+    <description>sub</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setReverseAction]]></content>
+    <tabTrigger>setReverseAction</tabTrigger>
+    <scope>source.js</scope>
+    <description>setReverseAction</description>
+</snippet>

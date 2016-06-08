@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createNode]]></content>
+    <tabTrigger>createNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>createNode</description>
+</snippet>

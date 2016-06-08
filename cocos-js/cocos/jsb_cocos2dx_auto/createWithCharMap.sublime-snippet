@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createWithCharMap]]></content>
+    <tabTrigger>createWithCharMap</tabTrigger>
+    <scope>source.js</scope>
+    <description>createWithCharMap</description>
+</snippet>

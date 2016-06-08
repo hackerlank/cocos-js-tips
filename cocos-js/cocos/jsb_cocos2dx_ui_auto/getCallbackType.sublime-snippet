@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCallbackType]]></content>
+    <tabTrigger>getCallbackType</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCallbackType</description>
+</snippet>

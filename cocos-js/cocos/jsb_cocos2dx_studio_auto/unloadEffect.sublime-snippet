@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unloadEffect]]></content>
+    <tabTrigger>unloadEffect</tabTrigger>
+    <scope>source.js</scope>
+    <description>unloadEffect</description>
+</snippet>

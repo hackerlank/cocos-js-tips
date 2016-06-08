@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithDictionary]]></content>
+    <tabTrigger>initWithDictionary</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithDictionary</description>
+</snippet>

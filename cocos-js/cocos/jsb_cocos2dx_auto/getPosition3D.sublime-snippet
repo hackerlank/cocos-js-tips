@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPosition3D]]></content>
+    <tabTrigger>getPosition3D</tabTrigger>
+    <scope>source.js</scope>
+    <description>getPosition3D</description>
+</snippet>

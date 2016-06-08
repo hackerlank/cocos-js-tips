@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOffsetPoints]]></content>
+    <tabTrigger>getOffsetPoints</tabTrigger>
+    <scope>source.js</scope>
+    <description>getOffsetPoints</description>
+</snippet>

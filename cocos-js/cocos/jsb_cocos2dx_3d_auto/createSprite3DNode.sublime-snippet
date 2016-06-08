@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createSprite3DNode]]></content>
+    <tabTrigger>createSprite3DNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>createSprite3DNode</description>
+</snippet>

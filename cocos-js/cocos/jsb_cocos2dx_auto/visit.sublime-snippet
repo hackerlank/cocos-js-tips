@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[visit]]></content>
+    <tabTrigger>visit</tabTrigger>
+    <scope>source.js</scope>
+    <description>visit</description>
+</snippet>

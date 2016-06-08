@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPrimitiveType]]></content>
+    <tabTrigger>getPrimitiveType</tabTrigger>
+    <scope>source.js</scope>
+    <description>getPrimitiveType</description>
+</snippet>

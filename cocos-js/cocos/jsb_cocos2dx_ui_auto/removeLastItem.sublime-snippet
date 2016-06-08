@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeLastItem]]></content>
+    <tabTrigger>removeLastItem</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeLastItem</description>
+</snippet>

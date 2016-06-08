@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[renameFile]]></content>
+    <tabTrigger>renameFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>renameFile</description>
+</snippet>

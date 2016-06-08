@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rebuildIndexInOrder]]></content>
+    <tabTrigger>rebuildIndexInOrder</tabTrigger>
+    <scope>source.js</scope>
+    <description>rebuildIndexInOrder</description>
+</snippet>

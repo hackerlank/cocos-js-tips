@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setParentElement]]></content>
+    <tabTrigger>setParentElement</tabTrigger>
+    <scope>source.js</scope>
+    <description>setParentElement</description>
+</snippet>

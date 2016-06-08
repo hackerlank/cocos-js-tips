@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndSpin]]></content>
+    <tabTrigger>setEndSpin</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEndSpin</description>
+</snippet>

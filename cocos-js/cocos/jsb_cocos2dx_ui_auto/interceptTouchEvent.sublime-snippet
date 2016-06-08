@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[interceptTouchEvent]]></content>
+    <tabTrigger>interceptTouchEvent</tabTrigger>
+    <scope>source.js</scope>
+    <description>interceptTouchEvent</description>
+</snippet>

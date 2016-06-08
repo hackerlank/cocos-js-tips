@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reorderBatch]]></content>
+    <tabTrigger>reorderBatch</tabTrigger>
+    <scope>source.js</scope>
+    <description>reorderBatch</description>
+</snippet>

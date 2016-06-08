@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVersion]]></content>
+    <tabTrigger>setVersion</tabTrigger>
+    <scope>source.js</scope>
+    <description>setVersion</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addDocumentCallbackNode]]></content>
+    <tabTrigger>addDocumentCallbackNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>addDocumentCallbackNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSelectedIndex]]></content>
+    <tabTrigger>getSelectedIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>getSelectedIndex</description>
+</snippet>

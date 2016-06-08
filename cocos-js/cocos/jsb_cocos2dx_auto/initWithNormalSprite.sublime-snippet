@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithNormalSprite]]></content>
+    <tabTrigger>initWithNormalSprite</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithNormalSprite</description>
+</snippet>

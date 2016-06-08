@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ctor]]></content>
+    <tabTrigger>ctor</tabTrigger>
+    <scope>source.js</scope>
+    <description>ctor</description>
+</snippet>

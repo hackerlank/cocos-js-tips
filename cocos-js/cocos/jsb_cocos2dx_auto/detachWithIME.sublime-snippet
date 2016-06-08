@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[detachWithIME]]></content>
+    <tabTrigger>detachWithIME</tabTrigger>
+    <scope>source.js</scope>
+    <description>detachWithIME</description>
+</snippet>

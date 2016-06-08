@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAlign]]></content>
+    <tabTrigger>setAlign</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAlign</description>
+</snippet>

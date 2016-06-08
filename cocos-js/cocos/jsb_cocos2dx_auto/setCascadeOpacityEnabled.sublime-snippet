@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCascadeOpacityEnabled]]></content>
+    <tabTrigger>setCascadeOpacityEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCascadeOpacityEnabled</description>
+</snippet>

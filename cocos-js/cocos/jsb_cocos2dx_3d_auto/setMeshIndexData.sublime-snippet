@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMeshIndexData]]></content>
+    <tabTrigger>setMeshIndexData</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMeshIndexData</description>
+</snippet>

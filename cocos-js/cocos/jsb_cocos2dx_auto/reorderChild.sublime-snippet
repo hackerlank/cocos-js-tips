@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reorderChild]]></content>
+    <tabTrigger>reorderChild</tabTrigger>
+    <scope>source.js</scope>
+    <description>reorderChild</description>
+</snippet>

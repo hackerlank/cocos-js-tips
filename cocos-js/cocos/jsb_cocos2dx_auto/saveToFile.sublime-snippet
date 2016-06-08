@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[saveToFile]]></content>
+    <tabTrigger>saveToFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>saveToFile</description>
+</snippet>

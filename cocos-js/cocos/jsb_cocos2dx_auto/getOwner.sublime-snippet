@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOwner]]></content>
+    <tabTrigger>getOwner</tabTrigger>
+    <scope>source.js</scope>
+    <description>getOwner</description>
+</snippet>

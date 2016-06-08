@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStroke]]></content>
+    <tabTrigger>setStroke</tabTrigger>
+    <scope>source.js</scope>
+    <description>setStroke</description>
+</snippet>

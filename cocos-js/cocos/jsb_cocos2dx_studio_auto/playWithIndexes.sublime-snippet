@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playWithIndexes]]></content>
+    <tabTrigger>playWithIndexes</tabTrigger>
+    <scope>source.js</scope>
+    <description>playWithIndexes</description>
+</snippet>

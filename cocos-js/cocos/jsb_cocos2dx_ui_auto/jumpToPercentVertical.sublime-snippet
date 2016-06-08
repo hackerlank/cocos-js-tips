@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[jumpToPercentVertical]]></content>
+    <tabTrigger>jumpToPercentVertical</tabTrigger>
+    <scope>source.js</scope>
+    <description>jumpToPercentVertical</description>
+</snippet>

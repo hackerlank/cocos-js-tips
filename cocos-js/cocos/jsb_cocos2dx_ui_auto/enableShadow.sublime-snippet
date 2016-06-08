@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableShadow]]></content>
+    <tabTrigger>enableShadow</tabTrigger>
+    <scope>source.js</scope>
+    <description>enableShadow</description>
+</snippet>

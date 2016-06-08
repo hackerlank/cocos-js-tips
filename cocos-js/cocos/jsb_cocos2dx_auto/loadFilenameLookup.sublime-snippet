@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadFilenameLookup]]></content>
+    <tabTrigger>loadFilenameLookup</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadFilenameLookup</description>
+</snippet>

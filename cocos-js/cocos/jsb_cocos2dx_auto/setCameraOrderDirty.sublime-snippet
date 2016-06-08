@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCameraOrderDirty]]></content>
+    <tabTrigger>setCameraOrderDirty</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCameraOrderDirty</description>
+</snippet>

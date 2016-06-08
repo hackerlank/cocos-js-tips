@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDimensions]]></content>
+    <tabTrigger>getDimensions</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDimensions</description>
+</snippet>

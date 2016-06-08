@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVirtualRenderer]]></content>
+    <tabTrigger>getVirtualRenderer</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVirtualRenderer</description>
+</snippet>

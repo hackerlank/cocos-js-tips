@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAngleVar]]></content>
+    <tabTrigger>setAngleVar</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAngleVar</description>
+</snippet>

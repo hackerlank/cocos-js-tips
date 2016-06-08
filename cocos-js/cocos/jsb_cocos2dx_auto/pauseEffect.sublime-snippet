@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pauseEffect]]></content>
+    <tabTrigger>pauseEffect</tabTrigger>
+    <scope>source.js</scope>
+    <description>pauseEffect</description>
+</snippet>

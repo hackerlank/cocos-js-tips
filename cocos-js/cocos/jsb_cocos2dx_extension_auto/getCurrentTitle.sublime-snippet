@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCurrentTitle]]></content>
+    <tabTrigger>getCurrentTitle</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCurrentTitle</description>
+</snippet>

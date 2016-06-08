@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithMinusSpriteAndPlusSprite]]></content>
+    <tabTrigger>initWithMinusSpriteAndPlusSprite</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithMinusSpriteAndPlusSprite</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithFilePathAndMaterialPath]]></content>
+    <tabTrigger>initWithFilePathAndMaterialPath</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithFilePathAndMaterialPath</description>
+</snippet>

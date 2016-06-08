@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isUnifySizeEnabled]]></content>
+    <tabTrigger>isUnifySizeEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isUnifySizeEnabled</description>
+</snippet>

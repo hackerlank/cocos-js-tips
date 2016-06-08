@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMaxSupportDirLightInShader]]></content>
+    <tabTrigger>getMaxSupportDirLightInShader</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMaxSupportDirLightInShader</description>
+</snippet>

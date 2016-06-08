@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getValueMapFromFile]]></content>
+    <tabTrigger>getValueMapFromFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>getValueMapFromFile</description>
+</snippet>

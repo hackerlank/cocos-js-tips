@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeSpriteFrameByName]]></content>
+    <tabTrigger>removeSpriteFrameByName</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeSpriteFrameByName</description>
+</snippet>

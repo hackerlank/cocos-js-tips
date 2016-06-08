@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLayer]]></content>
+    <tabTrigger>getLayer</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLayer</description>
+</snippet>

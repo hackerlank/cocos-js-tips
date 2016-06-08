@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getViewSize]]></content>
+    <tabTrigger>getViewSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getViewSize</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNeedDepthTestForBlit]]></content>
+    <tabTrigger>setNeedDepthTestForBlit</tabTrigger>
+    <scope>source.js</scope>
+    <description>setNeedDepthTestForBlit</description>
+</snippet>

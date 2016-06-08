@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isFrameDisplayed]]></content>
+    <tabTrigger>isFrameDisplayed</tabTrigger>
+    <scope>source.js</scope>
+    <description>isFrameDisplayed</description>
+</snippet>

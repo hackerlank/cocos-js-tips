@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVerticalFillOrder]]></content>
+    <tabTrigger>getVerticalFillOrder</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVerticalFillOrder</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+for (${1:initialize};${2:condition};${3:increment}){
+	${4:--todo}
+}
+]]></content>
+	<tabTrigger>for</tabTrigger>
+	<scope>source.js</scope>
+	<description>for</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFontSize]]></content>
+    <tabTrigger>setFontSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>setFontSize</description>
+</snippet>

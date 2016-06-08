@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAttachWithIME]]></content>
+    <tabTrigger>getAttachWithIME</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAttachWithIME</description>
+</snippet>

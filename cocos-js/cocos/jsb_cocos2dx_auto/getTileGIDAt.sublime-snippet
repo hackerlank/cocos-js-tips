@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTileGIDAt]]></content>
+    <tabTrigger>getTileGIDAt</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTileGIDAt</description>
+</snippet>

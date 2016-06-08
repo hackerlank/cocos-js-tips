@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isCascadeColorEnabled]]></content>
+    <tabTrigger>isCascadeColorEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isCascadeColorEnabled</description>
+</snippet>

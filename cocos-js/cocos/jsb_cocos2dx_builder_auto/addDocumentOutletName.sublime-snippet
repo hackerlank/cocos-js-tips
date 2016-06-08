@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addDocumentOutletName]]></content>
+    <tabTrigger>addDocumentOutletName</tabTrigger>
+    <scope>source.js</scope>
+    <description>addDocumentOutletName</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[restart]]></content>
+    <tabTrigger>restart</tabTrigger>
+    <scope>source.js</scope>
+    <description>restart</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRelativeToWidgetName]]></content>
+    <tabTrigger>setRelativeToWidgetName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setRelativeToWidgetName</description>
+</snippet>

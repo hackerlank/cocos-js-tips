@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEye]]></content>
+    <tabTrigger>setEye</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEye</description>
+</snippet>

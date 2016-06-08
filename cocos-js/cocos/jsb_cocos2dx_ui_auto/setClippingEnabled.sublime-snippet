@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClippingEnabled]]></content>
+    <tabTrigger>setClippingEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setClippingEnabled</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMipmaps]]></content>
+    <tabTrigger>getMipmaps</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMipmaps</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCapInsetsProgressBarRebderer]]></content>
+    <tabTrigger>getCapInsetsProgressBarRebderer</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCapInsetsProgressBarRebderer</description>
+</snippet>

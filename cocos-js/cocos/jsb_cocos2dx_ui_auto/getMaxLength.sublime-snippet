@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMaxLength]]></content>
+    <tabTrigger>getMaxLength</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMaxLength</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMusicVolume]]></content>
+    <tabTrigger>getMusicVolume</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMusicVolume</description>
+</snippet>

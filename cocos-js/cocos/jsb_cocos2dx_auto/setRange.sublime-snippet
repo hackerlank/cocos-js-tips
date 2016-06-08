@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRange]]></content>
+    <tabTrigger>setRange</tabTrigger>
+    <scope>source.js</scope>
+    <description>setRange</description>
+</snippet>

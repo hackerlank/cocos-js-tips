@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLifeVar]]></content>
+    <tabTrigger>setLifeVar</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLifeVar</description>
+</snippet>

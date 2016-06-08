@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMaxLineWidth]]></content>
+    <tabTrigger>getMaxLineWidth</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMaxLineWidth</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBlendDirty]]></content>
+    <tabTrigger>setBlendDirty</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBlendDirty</description>
+</snippet>

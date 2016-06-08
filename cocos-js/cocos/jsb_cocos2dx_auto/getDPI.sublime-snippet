@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDPI]]></content>
+    <tabTrigger>getDPI</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDPI</description>
+</snippet>

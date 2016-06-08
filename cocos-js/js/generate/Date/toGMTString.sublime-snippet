@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[toGMTString]]></content>
+    <tabTrigger>toGMTString</tabTrigger>
+    <scope>source.js</scope>
+    <description>toGMTString</description>
+</snippet>

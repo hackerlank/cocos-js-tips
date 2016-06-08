@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAttachment]]></content>
+    <tabTrigger>setAttachment</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAttachment</description>
+</snippet>

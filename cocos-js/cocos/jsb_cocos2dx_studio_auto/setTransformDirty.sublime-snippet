@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTransformDirty]]></content>
+    <tabTrigger>setTransformDirty</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTransformDirty</description>
+</snippet>

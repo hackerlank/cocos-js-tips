@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pauseBackgroundMusic]]></content>
+    <tabTrigger>pauseBackgroundMusic</tabTrigger>
+    <scope>source.js</scope>
+    <description>pauseBackgroundMusic</description>
+</snippet>

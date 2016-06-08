@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateLayoutUsingTouchLocation]]></content>
+    <tabTrigger>updateLayoutUsingTouchLocation</tabTrigger>
+    <scope>source.js</scope>
+    <description>updateLayoutUsingTouchLocation</description>
+</snippet>

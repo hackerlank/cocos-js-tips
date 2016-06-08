@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[destroyInstance]]></content>
+    <tabTrigger>destroyInstance</tabTrigger>
+    <scope>source.js</scope>
+    <description>destroyInstance</description>
+</snippet>

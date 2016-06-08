@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAttachNode]]></content>
+    <tabTrigger>getAttachNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAttachNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVertexZ]]></content>
+    <tabTrigger>getVertexZ</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVertexZ</description>
+</snippet>

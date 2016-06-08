@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[convertToGL]]></content>
+    <tabTrigger>convertToGL</tabTrigger>
+    <scope>source.js</scope>
+    <description>convertToGL</description>
+</snippet>

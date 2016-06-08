@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOrderOfArrival]]></content>
+    <tabTrigger>setOrderOfArrival</tabTrigger>
+    <scope>source.js</scope>
+    <description>setOrderOfArrival</description>
+</snippet>

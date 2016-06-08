@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformFloat]]></content>
+    <tabTrigger>setUniformFloat</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUniformFloat</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRemoteManifest]]></content>
+    <tabTrigger>getRemoteManifest</tabTrigger>
+    <scope>source.js</scope>
+    <description>getRemoteManifest</description>
+</snippet>

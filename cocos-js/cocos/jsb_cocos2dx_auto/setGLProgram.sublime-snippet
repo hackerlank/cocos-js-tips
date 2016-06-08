@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGLProgram]]></content>
+    <tabTrigger>setGLProgram</tabTrigger>
+    <scope>source.js</scope>
+    <description>setGLProgram</description>
+</snippet>

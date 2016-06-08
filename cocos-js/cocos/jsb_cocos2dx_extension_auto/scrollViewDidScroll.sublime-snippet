@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollViewDidScroll]]></content>
+    <tabTrigger>scrollViewDidScroll</tabTrigger>
+    <scope>source.js</scope>
+    <description>scrollViewDidScroll</description>
+</snippet>

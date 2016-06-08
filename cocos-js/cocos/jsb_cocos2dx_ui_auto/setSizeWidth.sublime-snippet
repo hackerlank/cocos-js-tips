@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSizeWidth]]></content>
+    <tabTrigger>setSizeWidth</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSizeWidth</description>
+</snippet>

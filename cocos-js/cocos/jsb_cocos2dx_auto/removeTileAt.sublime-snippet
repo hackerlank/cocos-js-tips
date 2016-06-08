@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeTileAt]]></content>
+    <tabTrigger>removeTileAt</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeTileAt</description>
+</snippet>

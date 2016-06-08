@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllPages]]></content>
+    <tabTrigger>removeAllPages</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeAllPages</description>
+</snippet>

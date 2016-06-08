@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[supportsS3TC]]></content>
+    <tabTrigger>supportsS3TC</tabTrigger>
+    <scope>source.js</scope>
+    <description>supportsS3TC</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTimeScale]]></content>
+    <tabTrigger>setTimeScale</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTimeScale</description>
+</snippet>

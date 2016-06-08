@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[actionForCallbackChannel]]></content>
+    <tabTrigger>actionForCallbackChannel</tabTrigger>
+    <scope>source.js</scope>
+    <description>actionForCallbackChannel</description>
+</snippet>

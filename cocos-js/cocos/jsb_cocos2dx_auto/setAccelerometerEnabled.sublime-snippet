@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAccelerometerEnabled]]></content>
+    <tabTrigger>setAccelerometerEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAccelerometerEnabled</description>
+</snippet>

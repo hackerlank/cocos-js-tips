@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformTexture]]></content>
+    <tabTrigger>setUniformTexture</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUniformTexture</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[tintWithColor]]></content>
+    <tabTrigger>tintWithColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>tintWithColor</description>
+</snippet>

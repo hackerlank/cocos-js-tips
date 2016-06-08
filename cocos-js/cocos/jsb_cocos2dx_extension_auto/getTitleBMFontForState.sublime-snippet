@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitleBMFontForState]]></content>
+    <tabTrigger>getTitleBMFontForState</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTitleBMFontForState</description>
+</snippet>

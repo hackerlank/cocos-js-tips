@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDebugBonesEnabled]]></content>
+    <tabTrigger>setDebugBonesEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDebugBonesEnabled</description>
+</snippet>

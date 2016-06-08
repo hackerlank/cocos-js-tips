@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithMaskSprite]]></content>
+    <tabTrigger>initWithMaskSprite</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithMaskSprite</description>
+</snippet>

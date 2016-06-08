@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBarChangeRate]]></content>
+    <tabTrigger>getBarChangeRate</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBarChangeRate</description>
+</snippet>

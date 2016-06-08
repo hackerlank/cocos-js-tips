@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitleRenderer]]></content>
+    <tabTrigger>getTitleRenderer</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTitleRenderer</description>
+</snippet>

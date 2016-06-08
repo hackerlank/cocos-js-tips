@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getViewPortRect]]></content>
+    <tabTrigger>getViewPortRect</tabTrigger>
+    <scope>source.js</scope>
+    <description>getViewPortRect</description>
+</snippet>

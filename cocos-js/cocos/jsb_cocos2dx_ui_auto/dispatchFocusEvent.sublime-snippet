@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[dispatchFocusEvent]]></content>
+    <tabTrigger>dispatchFocusEvent</tabTrigger>
+    <scope>source.js</scope>
+    <description>dispatchFocusEvent</description>
+</snippet>

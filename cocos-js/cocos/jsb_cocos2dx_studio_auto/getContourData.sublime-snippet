@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getContourData]]></content>
+    <tabTrigger>getContourData</tabTrigger>
+    <scope>source.js</scope>
+    <description>getContourData</description>
+</snippet>

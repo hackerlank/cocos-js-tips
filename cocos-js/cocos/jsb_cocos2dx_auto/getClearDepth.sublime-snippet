@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getClearDepth]]></content>
+    <tabTrigger>getClearDepth</tabTrigger>
+    <scope>source.js</scope>
+    <description>getClearDepth</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getcolourPicker]]></content>
+    <tabTrigger>getcolourPicker</tabTrigger>
+    <scope>source.js</scope>
+    <description>getcolourPicker</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sendActionsForControlEvents]]></content>
+    <tabTrigger>sendActionsForControlEvents</tabTrigger>
+    <scope>source.js</scope>
+    <description>sendActionsForControlEvents</description>
+</snippet>

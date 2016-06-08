@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithPlaceHolder]]></content>
+    <tabTrigger>initWithPlaceHolder</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithPlaceHolder</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[UTC]]></content>
+    <tabTrigger>UTC</tabTrigger>
+    <scope>source.js</scope>
+    <description>UTC</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLeftMargin]]></content>
+    <tabTrigger>setLeftMargin</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLeftMargin</description>
+</snippet>

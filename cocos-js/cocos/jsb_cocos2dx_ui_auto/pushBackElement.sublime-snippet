@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pushBackElement]]></content>
+    <tabTrigger>pushBackElement</tabTrigger>
+    <scope>source.js</scope>
+    <description>pushBackElement</description>
+</snippet>

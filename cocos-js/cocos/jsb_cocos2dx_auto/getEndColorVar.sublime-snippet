@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getEndColorVar]]></content>
+    <tabTrigger>getEndColorVar</tabTrigger>
+    <scope>source.js</scope>
+    <description>getEndColorVar</description>
+</snippet>

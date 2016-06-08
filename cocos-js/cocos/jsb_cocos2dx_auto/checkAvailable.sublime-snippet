@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkAvailable]]></content>
+    <tabTrigger>checkAvailable</tabTrigger>
+    <scope>source.js</scope>
+    <description>checkAvailable</description>
+</snippet>

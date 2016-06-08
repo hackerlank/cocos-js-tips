@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDocumentControllerName]]></content>
+    <tabTrigger>setDocumentControllerName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDocumentControllerName</description>
+</snippet>

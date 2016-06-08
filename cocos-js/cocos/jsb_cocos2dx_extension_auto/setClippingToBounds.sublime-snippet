@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClippingToBounds]]></content>
+    <tabTrigger>setClippingToBounds</tabTrigger>
+    <scope>source.js</scope>
+    <description>setClippingToBounds</description>
+</snippet>

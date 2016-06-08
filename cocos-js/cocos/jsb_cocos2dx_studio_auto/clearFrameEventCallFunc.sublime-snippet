@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearFrameEventCallFunc]]></content>
+    <tabTrigger>clearFrameEventCallFunc</tabTrigger>
+    <scope>source.js</scope>
+    <description>clearFrameEventCallFunc</description>
+</snippet>

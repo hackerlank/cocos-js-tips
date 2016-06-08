@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnimate3DQuality]]></content>
+    <tabTrigger>getAnimate3DQuality</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAnimate3DQuality</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNormal]]></content>
+    <tabTrigger>getNormal</tabTrigger>
+    <scope>source.js</scope>
+    <description>getNormal</description>
+</snippet>

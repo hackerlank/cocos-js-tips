@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isNodeVisible]]></content>
+    <tabTrigger>isNodeVisible</tabTrigger>
+    <scope>source.js</scope>
+    <description>isNodeVisible</description>
+</snippet>

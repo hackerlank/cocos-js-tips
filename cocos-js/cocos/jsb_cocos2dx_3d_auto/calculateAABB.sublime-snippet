@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[calculateAABB]]></content>
+    <tabTrigger>calculateAABB</tabTrigger>
+    <scope>source.js</scope>
+    <description>calculateAABB</description>
+</snippet>

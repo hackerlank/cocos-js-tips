@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hasVertexAttrib]]></content>
+    <tabTrigger>hasVertexAttrib</tabTrigger>
+    <scope>source.js</scope>
+    <description>hasVertexAttrib</description>
+</snippet>

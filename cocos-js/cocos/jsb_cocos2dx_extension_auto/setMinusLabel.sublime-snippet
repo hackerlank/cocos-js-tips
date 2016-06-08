@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMinusLabel]]></content>
+    <tabTrigger>setMinusLabel</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMinusLabel</description>
+</snippet>

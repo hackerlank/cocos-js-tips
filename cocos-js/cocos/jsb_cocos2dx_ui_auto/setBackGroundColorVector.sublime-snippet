@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBackGroundColorVector]]></content>
+    <tabTrigger>setBackGroundColorVector</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBackGroundColorVector</description>
+</snippet>

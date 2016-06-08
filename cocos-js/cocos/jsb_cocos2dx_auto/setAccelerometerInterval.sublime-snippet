@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAccelerometerInterval]]></content>
+    <tabTrigger>setAccelerometerInterval</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAccelerometerInterval</description>
+</snippet>

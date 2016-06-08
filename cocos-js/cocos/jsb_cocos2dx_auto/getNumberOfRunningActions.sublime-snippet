@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNumberOfRunningActions]]></content>
+    <tabTrigger>getNumberOfRunningActions</tabTrigger>
+    <scope>source.js</scope>
+    <description>getNumberOfRunningActions</description>
+</snippet>

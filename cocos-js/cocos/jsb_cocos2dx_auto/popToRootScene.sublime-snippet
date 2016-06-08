@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[popToRootScene]]></content>
+    <tabTrigger>popToRootScene</tabTrigger>
+    <scope>source.js</scope>
+    <description>popToRootScene</description>
+</snippet>

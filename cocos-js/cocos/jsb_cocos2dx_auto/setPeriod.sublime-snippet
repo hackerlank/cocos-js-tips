@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPeriod]]></content>
+    <tabTrigger>setPeriod</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPeriod</description>
+</snippet>

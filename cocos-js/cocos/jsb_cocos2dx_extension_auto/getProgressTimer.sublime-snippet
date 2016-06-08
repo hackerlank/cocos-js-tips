@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getProgressTimer]]></content>
+    <tabTrigger>getProgressTimer</tabTrigger>
+    <scope>source.js</scope>
+    <description>getProgressTimer</description>
+</snippet>

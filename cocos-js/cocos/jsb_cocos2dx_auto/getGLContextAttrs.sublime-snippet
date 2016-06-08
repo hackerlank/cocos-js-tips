@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getGLContextAttrs]]></content>
+    <tabTrigger>getGLContextAttrs</tabTrigger>
+    <scope>source.js</scope>
+    <description>getGLContextAttrs</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reloadDefaultShaders]]></content>
+    <tabTrigger>reloadDefaultShaders</tabTrigger>
+    <scope>source.js</scope>
+    <description>reloadDefaultShaders</description>
+</snippet>

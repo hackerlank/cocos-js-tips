@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[newImage]]></content>
+    <tabTrigger>newImage</tabTrigger>
+    <scope>source.js</scope>
+    <description>newImage</description>
+</snippet>

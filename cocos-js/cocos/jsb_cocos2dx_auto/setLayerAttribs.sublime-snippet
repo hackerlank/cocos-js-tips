@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayerAttribs]]></content>
+    <tabTrigger>setLayerAttribs</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLayerAttribs</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[increaseAtlasCapacity]]></content>
+    <tabTrigger>increaseAtlasCapacity</tabTrigger>
+    <scope>source.js</scope>
+    <description>increaseAtlasCapacity</description>
+</snippet>

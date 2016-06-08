@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMinHeight]]></content>
+    <tabTrigger>getMinHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMinHeight</description>
+</snippet>

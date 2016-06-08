@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateTweenAction]]></content>
+    <tabTrigger>updateTweenAction</tabTrigger>
+    <scope>source.js</scope>
+    <description>updateTweenAction</description>
+</snippet>

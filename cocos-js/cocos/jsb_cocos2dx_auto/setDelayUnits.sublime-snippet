@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDelayUnits]]></content>
+    <tabTrigger>setDelayUnits</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDelayUnits</description>
+</snippet>

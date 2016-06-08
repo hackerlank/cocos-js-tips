@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDrawWire]]></content>
+    <tabTrigger>setDrawWire</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDrawWire</description>
+</snippet>

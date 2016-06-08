@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayoutType]]></content>
+    <tabTrigger>setLayoutType</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLayoutType</description>
+</snippet>

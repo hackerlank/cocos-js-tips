@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVerticalMargin]]></content>
+    <tabTrigger>getVerticalMargin</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVerticalMargin</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTouchPriority]]></content>
+    <tabTrigger>setTouchPriority</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTouchPriority</description>
+</snippet>

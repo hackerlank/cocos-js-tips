@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUniformCount]]></content>
+    <tabTrigger>getUniformCount</tabTrigger>
+    <scope>source.js</scope>
+    <description>getUniformCount</description>
+</snippet>

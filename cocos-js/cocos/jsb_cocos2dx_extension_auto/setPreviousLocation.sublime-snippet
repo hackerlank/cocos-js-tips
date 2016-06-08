@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPreviousLocation]]></content>
+    <tabTrigger>setPreviousLocation</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPreviousLocation</description>
+</snippet>

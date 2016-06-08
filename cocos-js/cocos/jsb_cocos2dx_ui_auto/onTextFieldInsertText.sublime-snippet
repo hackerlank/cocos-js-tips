@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onTextFieldInsertText]]></content>
+    <tabTrigger>onTextFieldInsertText</tabTrigger>
+    <scope>source.js</scope>
+    <description>onTextFieldInsertText</description>
+</snippet>

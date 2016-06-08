@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addDocumentOutletNode]]></content>
+    <tabTrigger>addDocumentOutletNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>addDocumentOutletNode</description>
+</snippet>

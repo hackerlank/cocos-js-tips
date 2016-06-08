@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRunningSequenceName]]></content>
+    <tabTrigger>getRunningSequenceName</tabTrigger>
+    <scope>source.js</scope>
+    <description>getRunningSequenceName</description>
+</snippet>

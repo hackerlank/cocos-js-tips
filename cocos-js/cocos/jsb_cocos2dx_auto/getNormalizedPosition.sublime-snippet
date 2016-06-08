@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNormalizedPosition]]></content>
+    <tabTrigger>getNormalizedPosition</tabTrigger>
+    <scope>source.js</scope>
+    <description>getNormalizedPosition</description>
+</snippet>

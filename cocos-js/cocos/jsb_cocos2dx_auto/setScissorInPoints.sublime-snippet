@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScissorInPoints]]></content>
+    <tabTrigger>setScissorInPoints</tabTrigger>
+    <scope>source.js</scope>
+    <description>setScissorInPoints</description>
+</snippet>

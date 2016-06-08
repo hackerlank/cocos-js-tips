@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resumeBackgroundMusic]]></content>
+    <tabTrigger>resumeBackgroundMusic</tabTrigger>
+    <scope>source.js</scope>
+    <description>resumeBackgroundMusic</description>
+</snippet>

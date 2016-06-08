@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVertexAttribCallback]]></content>
+    <tabTrigger>setVertexAttribCallback</tabTrigger>
+    <scope>source.js</scope>
+    <description>setVertexAttribCallback</description>
+</snippet>

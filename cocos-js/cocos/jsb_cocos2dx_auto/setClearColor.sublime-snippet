@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClearColor]]></content>
+    <tabTrigger>setClearColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>setClearColor</description>
+</snippet>

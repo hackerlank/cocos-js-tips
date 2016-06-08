@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTimeline]]></content>
+    <tabTrigger>getTimeline</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTimeline</description>
+</snippet>

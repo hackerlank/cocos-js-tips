@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onDrawGLPoint]]></content>
+    <tabTrigger>onDrawGLPoint</tabTrigger>
+    <scope>source.js</scope>
+    <description>onDrawGLPoint</description>
+</snippet>

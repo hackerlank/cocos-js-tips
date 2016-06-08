@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCustomScrollThreshold]]></content>
+    <tabTrigger>setCustomScrollThreshold</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCustomScrollThreshold</description>
+</snippet>

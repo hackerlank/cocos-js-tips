@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNormalSpriteFrame]]></content>
+    <tabTrigger>setNormalSpriteFrame</tabTrigger>
+    <scope>source.js</scope>
+    <description>setNormalSpriteFrame</description>
+</snippet>

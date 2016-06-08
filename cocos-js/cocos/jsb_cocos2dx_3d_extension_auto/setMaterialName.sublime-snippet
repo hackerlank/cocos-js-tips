@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMaterialName]]></content>
+    <tabTrigger>setMaterialName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMaterialName</description>
+</snippet>

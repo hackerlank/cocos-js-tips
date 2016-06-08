@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[openURL]]></content>
+    <tabTrigger>openURL</tabTrigger>
+    <scope>source.js</scope>
+    <description>openURL</description>
+</snippet>

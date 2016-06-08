@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[closeIME]]></content>
+    <tabTrigger>closeIME</tabTrigger>
+    <scope>source.js</scope>
+    <description>closeIME</description>
+</snippet>

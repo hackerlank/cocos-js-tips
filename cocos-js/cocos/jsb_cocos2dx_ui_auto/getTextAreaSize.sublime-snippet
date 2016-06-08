@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTextAreaSize]]></content>
+    <tabTrigger>getTextAreaSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTextAreaSize</description>
+</snippet>

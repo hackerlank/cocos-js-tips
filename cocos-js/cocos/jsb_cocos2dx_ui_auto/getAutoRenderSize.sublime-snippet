@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAutoRenderSize]]></content>
+    <tabTrigger>getAutoRenderSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAutoRenderSize</description>
+</snippet>

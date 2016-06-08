@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisplayStats]]></content>
+    <tabTrigger>setDisplayStats</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDisplayStats</description>
+</snippet>

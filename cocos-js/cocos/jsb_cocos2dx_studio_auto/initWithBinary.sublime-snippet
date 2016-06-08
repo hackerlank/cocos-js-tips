@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithBinary]]></content>
+    <tabTrigger>initWithBinary</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithBinary</description>
+</snippet>

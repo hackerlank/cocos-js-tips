@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDepthTest]]></content>
+    <tabTrigger>setDepthTest</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDepthTest</description>
+</snippet>

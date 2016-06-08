@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTimeElapsedSinceStart]]></content>
+    <tabTrigger>getTimeElapsedSinceStart</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTimeElapsedSinceStart</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDuration]]></content>
+    <tabTrigger>setDuration</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDuration</description>
+</snippet>

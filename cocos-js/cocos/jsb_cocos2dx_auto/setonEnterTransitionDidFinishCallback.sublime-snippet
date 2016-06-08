@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setonEnterTransitionDidFinishCallback]]></content>
+    <tabTrigger>setonEnterTransitionDidFinishCallback</tabTrigger>
+    <scope>source.js</scope>
+    <description>setonEnterTransitionDidFinishCallback</description>
+</snippet>

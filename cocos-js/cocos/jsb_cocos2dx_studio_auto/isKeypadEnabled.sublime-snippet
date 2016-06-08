@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isKeypadEnabled]]></content>
+    <tabTrigger>isKeypadEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isKeypadEnabled</description>
+</snippet>

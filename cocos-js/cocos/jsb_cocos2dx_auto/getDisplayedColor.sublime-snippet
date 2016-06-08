@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDisplayedColor]]></content>
+    <tabTrigger>getDisplayedColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDisplayedColor</description>
+</snippet>

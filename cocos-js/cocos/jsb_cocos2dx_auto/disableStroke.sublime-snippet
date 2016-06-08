@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableStroke]]></content>
+    <tabTrigger>disableStroke</tabTrigger>
+    <scope>source.js</scope>
+    <description>disableStroke</description>
+</snippet>

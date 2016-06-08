@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVector]]></content>
+    <tabTrigger>getVector</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVector</description>
+</snippet>

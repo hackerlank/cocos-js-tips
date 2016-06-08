@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[atlasIndexForChild]]></content>
+    <tabTrigger>atlasIndexForChild</tabTrigger>
+    <scope>source.js</scope>
+    <description>atlasIndexForChild</description>
+</snippet>

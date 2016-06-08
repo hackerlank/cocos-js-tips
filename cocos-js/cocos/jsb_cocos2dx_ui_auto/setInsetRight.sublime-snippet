@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setInsetRight]]></content>
+    <tabTrigger>setInsetRight</tabTrigger>
+    <scope>source.js</scope>
+    <description>setInsetRight</description>
+</snippet>

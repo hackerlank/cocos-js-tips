@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isTextureRectRotated]]></content>
+    <tabTrigger>isTextureRectRotated</tabTrigger>
+    <scope>source.js</scope>
+    <description>isTextureRectRotated</description>
+</snippet>

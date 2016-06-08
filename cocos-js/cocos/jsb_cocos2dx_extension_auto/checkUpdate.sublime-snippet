@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[checkUpdate]]></content>
+    <tabTrigger>checkUpdate</tabTrigger>
+    <scope>source.js</scope>
+    <description>checkUpdate</description>
+</snippet>

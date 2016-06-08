@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addMovement]]></content>
+    <tabTrigger>addMovement</tabTrigger>
+    <scope>source.js</scope>
+    <description>addMovement</description>
+</snippet>

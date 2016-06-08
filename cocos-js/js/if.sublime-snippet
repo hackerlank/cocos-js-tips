@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[if (${1:conditions}){
+	${2:--todo}
+}
+]]></content>
+	<tabTrigger>if</tabTrigger>
+	<scope>source.js</scope>
+    <description>if</description>
+</snippet>

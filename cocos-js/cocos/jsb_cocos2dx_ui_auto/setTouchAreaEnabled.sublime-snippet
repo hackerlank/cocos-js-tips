@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTouchAreaEnabled]]></content>
+    <tabTrigger>setTouchAreaEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTouchAreaEnabled</description>
+</snippet>

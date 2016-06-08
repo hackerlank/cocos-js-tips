@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPixelsHigh]]></content>
+    <tabTrigger>getPixelsHigh</tabTrigger>
+    <scope>source.js</scope>
+    <description>getPixelsHigh</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRootCount]]></content>
+    <tabTrigger>getRootCount</tabTrigger>
+    <scope>source.js</scope>
+    <description>getRootCount</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isScheduled]]></content>
+    <tabTrigger>isScheduled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isScheduled</description>
+</snippet>

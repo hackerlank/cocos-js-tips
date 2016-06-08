@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeChildAtIndex]]></content>
+    <tabTrigger>removeChildAtIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeChildAtIndex</description>
+</snippet>

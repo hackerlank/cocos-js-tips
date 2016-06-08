@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[propagateTouchEvent]]></content>
+    <tabTrigger>propagateTouchEvent</tabTrigger>
+    <scope>source.js</scope>
+    <description>propagateTouchEvent</description>
+</snippet>

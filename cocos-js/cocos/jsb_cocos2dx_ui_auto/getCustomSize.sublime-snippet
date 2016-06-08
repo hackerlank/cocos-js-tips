@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCustomSize]]></content>
+    <tabTrigger>getCustomSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCustomSize</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBackGroundImageTextureSize]]></content>
+    <tabTrigger>getBackGroundImageTextureSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBackGroundImageTextureSize</description>
+</snippet>

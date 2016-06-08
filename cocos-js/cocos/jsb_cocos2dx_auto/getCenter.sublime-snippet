@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCenter]]></content>
+    <tabTrigger>getCenter</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCenter</description>
+</snippet>

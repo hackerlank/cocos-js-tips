@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLightFlag]]></content>
+    <tabTrigger>getLightFlag</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLightFlag</description>
+</snippet>

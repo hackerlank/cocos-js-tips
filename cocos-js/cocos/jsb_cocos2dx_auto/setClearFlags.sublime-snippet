@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClearFlags]]></content>
+    <tabTrigger>setClearFlags</tabTrigger>
+    <scope>source.js</scope>
+    <description>setClearFlags</description>
+</snippet>

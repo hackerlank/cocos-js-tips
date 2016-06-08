@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateUniforms]]></content>
+    <tabTrigger>updateUniforms</tabTrigger>
+    <scope>source.js</scope>
+    <description>updateUniforms</description>
+</snippet>

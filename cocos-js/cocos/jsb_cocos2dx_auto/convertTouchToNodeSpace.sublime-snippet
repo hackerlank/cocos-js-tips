@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[convertTouchToNodeSpace]]></content>
+    <tabTrigger>convertTouchToNodeSpace</tabTrigger>
+    <scope>source.js</scope>
+    <description>convertTouchToNodeSpace</description>
+</snippet>

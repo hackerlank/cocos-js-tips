@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getIndexCount]]></content>
+    <tabTrigger>getIndexCount</tabTrigger>
+    <scope>source.js</scope>
+    <description>getIndexCount</description>
+</snippet>

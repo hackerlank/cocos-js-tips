@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOrientation]]></content>
+    <tabTrigger>getOrientation</tabTrigger>
+    <scope>source.js</scope>
+    <description>getOrientation</description>
+</snippet>

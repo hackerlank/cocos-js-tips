@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLocalManifest]]></content>
+    <tabTrigger>getLocalManifest</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLocalManifest</description>
+</snippet>

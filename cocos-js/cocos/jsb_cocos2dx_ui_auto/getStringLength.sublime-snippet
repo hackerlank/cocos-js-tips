@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStringLength]]></content>
+    <tabTrigger>getStringLength</tabTrigger>
+    <scope>source.js</scope>
+    <description>getStringLength</description>
+</snippet>

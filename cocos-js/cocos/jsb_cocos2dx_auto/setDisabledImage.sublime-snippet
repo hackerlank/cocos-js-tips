@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisabledImage]]></content>
+    <tabTrigger>setDisabledImage</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDisabledImage</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawSegment]]></content>
+    <tabTrigger>drawSegment</tabTrigger>
+    <scope>source.js</scope>
+    <description>drawSegment</description>
+</snippet>

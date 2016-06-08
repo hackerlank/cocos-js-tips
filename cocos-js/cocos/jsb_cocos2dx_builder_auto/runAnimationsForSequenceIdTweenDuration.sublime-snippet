@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[runAnimationsForSequenceIdTweenDuration]]></content>
+    <tabTrigger>runAnimationsForSequenceIdTweenDuration</tabTrigger>
+    <scope>source.js</scope>
+    <description>runAnimationsForSequenceIdTweenDuration</description>
+</snippet>

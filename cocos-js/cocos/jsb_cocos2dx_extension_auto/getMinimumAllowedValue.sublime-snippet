@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMinimumAllowedValue]]></content>
+    <tabTrigger>getMinimumAllowedValue</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMinimumAllowedValue</description>
+</snippet>

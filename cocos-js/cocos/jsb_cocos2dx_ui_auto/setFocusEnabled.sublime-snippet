@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFocusEnabled]]></content>
+    <tabTrigger>setFocusEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setFocusEnabled</description>
+</snippet>

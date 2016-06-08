@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawTriangle]]></content>
+    <tabTrigger>drawTriangle</tabTrigger>
+    <scope>source.js</scope>
+    <description>drawTriangle</description>
+</snippet>

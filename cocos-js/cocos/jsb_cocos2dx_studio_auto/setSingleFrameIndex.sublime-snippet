@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSingleFrameIndex]]></content>
+    <tabTrigger>setSingleFrameIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSingleFrameIndex</description>
+</snippet>

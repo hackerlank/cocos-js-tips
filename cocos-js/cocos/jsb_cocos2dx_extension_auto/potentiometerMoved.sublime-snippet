@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[potentiometerMoved]]></content>
+    <tabTrigger>potentiometerMoved</tabTrigger>
+    <scope>source.js</scope>
+    <description>potentiometerMoved</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPositionPercentY]]></content>
+    <tabTrigger>setPositionPercentY</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPositionPercentY</description>
+</snippet>

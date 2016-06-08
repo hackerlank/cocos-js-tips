@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPercent]]></content>
+    <tabTrigger>setPercent</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPercent</description>
+</snippet>

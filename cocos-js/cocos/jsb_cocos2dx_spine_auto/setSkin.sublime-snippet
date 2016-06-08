@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSkin]]></content>
+    <tabTrigger>setSkin</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSkin</description>
+</snippet>

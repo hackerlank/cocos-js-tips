@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDirty]]></content>
+    <tabTrigger>setDirty</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDirty</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateQuadWithParticle]]></content>
+    <tabTrigger>updateQuadWithParticle</tabTrigger>
+    <scope>source.js</scope>
+    <description>updateQuadWithParticle</description>
+</snippet>

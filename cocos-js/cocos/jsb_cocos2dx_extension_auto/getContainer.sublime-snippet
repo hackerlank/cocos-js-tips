@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getContainer]]></content>
+    <tabTrigger>getContainer</tabTrigger>
+    <scope>source.js</scope>
+    <description>getContainer</description>
+</snippet>

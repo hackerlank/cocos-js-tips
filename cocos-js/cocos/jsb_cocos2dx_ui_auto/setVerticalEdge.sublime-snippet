@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVerticalEdge]]></content>
+    <tabTrigger>setVerticalEdge</tabTrigger>
+    <scope>source.js</scope>
+    <description>setVerticalEdge</description>
+</snippet>

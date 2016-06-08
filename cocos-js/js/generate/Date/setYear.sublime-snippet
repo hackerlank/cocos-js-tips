@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setYear]]></content>
+    <tabTrigger>setYear</tabTrigger>
+    <scope>source.js</scope>
+    <description>setYear</description>
+</snippet>

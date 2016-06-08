@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isTouchInside]]></content>
+    <tabTrigger>isTouchInside</tabTrigger>
+    <scope>source.js</scope>
+    <description>isTouchInside</description>
+</snippet>

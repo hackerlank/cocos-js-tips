@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRootNode]]></content>
+    <tabTrigger>getRootNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>getRootNode</description>
+</snippet>

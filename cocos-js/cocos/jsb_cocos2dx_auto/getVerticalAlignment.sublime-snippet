@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVerticalAlignment]]></content>
+    <tabTrigger>getVerticalAlignment</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVerticalAlignment</description>
+</snippet>

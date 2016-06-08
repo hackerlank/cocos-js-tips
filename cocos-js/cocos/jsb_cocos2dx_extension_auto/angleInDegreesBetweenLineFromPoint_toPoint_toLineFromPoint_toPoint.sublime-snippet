@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[angleInDegreesBetweenLineFromPoint_toPoint_toLineFromPoint_toPoint]]></content>
+    <tabTrigger>angleInDegreesBetweenLineFromPoint_toPoint_toLineFromPoint_toPoint</tabTrigger>
+    <scope>source.js</scope>
+    <description>angleInDegreesBetweenLineFromPoint_toPoint_toLineFromPoint_toPoint</description>
+</snippet>

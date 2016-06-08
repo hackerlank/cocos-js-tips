@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParallaxArray]]></content>
+    <tabTrigger>getParallaxArray</tabTrigger>
+    <scope>source.js</scope>
+    <description>getParallaxArray</description>
+</snippet>

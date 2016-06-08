@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndFrameIndex]]></content>
+    <tabTrigger>setEndFrameIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEndFrameIndex</description>
+</snippet>

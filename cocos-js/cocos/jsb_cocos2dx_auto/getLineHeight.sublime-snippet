@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLineHeight]]></content>
+    <tabTrigger>getLineHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLineHeight</description>
+</snippet>

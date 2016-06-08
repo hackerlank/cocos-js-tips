@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMarkedForEmission]]></content>
+    <tabTrigger>setMarkedForEmission</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMarkedForEmission</description>
+</snippet>

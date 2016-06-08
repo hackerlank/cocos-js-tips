@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isClippingToBounds]]></content>
+    <tabTrigger>isClippingToBounds</tabTrigger>
+    <scope>source.js</scope>
+    <description>isClippingToBounds</description>
+</snippet>

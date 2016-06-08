@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setScaleRatio]]></content>
+    <tabTrigger>setScaleRatio</tabTrigger>
+    <scope>source.js</scope>
+    <description>setScaleRatio</description>
+</snippet>

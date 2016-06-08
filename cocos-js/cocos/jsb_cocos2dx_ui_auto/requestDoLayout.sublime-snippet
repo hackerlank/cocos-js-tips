@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[requestDoLayout]]></content>
+    <tabTrigger>requestDoLayout</tabTrigger>
+    <scope>source.js</scope>
+    <description>requestDoLayout</description>
+</snippet>

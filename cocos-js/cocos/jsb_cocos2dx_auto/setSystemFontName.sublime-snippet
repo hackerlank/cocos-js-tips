@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSystemFontName]]></content>
+    <tabTrigger>setSystemFontName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSystemFontName</description>
+</snippet>

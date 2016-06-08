@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setViewPortInPoints]]></content>
+    <tabTrigger>setViewPortInPoints</tabTrigger>
+    <scope>source.js</scope>
+    <description>setViewPortInPoints</description>
+</snippet>

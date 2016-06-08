@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fullPathForFilename]]></content>
+    <tabTrigger>fullPathForFilename</tabTrigger>
+    <scope>source.js</scope>
+    <description>fullPathForFilename</description>
+</snippet>

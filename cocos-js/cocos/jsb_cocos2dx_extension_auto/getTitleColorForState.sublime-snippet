@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitleColorForState]]></content>
+    <tabTrigger>getTitleColorForState</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTitleColorForState</description>
+</snippet>

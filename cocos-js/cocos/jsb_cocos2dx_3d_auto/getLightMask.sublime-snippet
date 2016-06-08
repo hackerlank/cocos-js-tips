@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLightMask]]></content>
+    <tabTrigger>getLightMask</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLightMask</description>
+</snippet>

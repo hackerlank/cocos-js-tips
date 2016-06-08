@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setObjectGroups]]></content>
+    <tabTrigger>setObjectGroups</tabTrigger>
+    <scope>source.js</scope>
+    <description>setObjectGroups</description>
+</snippet>

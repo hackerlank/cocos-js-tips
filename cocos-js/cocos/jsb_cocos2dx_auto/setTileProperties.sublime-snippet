@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTileProperties]]></content>
+    <tabTrigger>setTileProperties</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTileProperties</description>
+</snippet>

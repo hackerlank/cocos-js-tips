@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resetMatrixStack]]></content>
+    <tabTrigger>resetMatrixStack</tabTrigger>
+    <scope>source.js</scope>
+    <description>resetMatrixStack</description>
+</snippet>

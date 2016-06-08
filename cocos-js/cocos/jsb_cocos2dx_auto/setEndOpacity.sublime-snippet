@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndOpacity]]></content>
+    <tabTrigger>setEndOpacity</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEndOpacity</description>
+</snippet>

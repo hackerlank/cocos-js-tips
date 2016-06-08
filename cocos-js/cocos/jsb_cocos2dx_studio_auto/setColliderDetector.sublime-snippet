@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setColliderDetector]]></content>
+    <tabTrigger>setColliderDetector</tabTrigger>
+    <scope>source.js</scope>
+    <description>setColliderDetector</description>
+</snippet>

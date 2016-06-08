@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAdditionalKerning]]></content>
+    <tabTrigger>getAdditionalKerning</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAdditionalKerning</description>
+</snippet>

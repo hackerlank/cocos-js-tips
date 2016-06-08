@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayerSize]]></content>
+    <tabTrigger>setLayerSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLayerSize</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTextColor]]></content>
+    <tabTrigger>getTextColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTextColor</description>
+</snippet>

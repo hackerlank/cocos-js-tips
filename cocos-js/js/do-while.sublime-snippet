@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+do {
+	${1:--todo}
+}while(${2:--conditions})
+]]></content>
+	<tabTrigger>dowhile</tabTrigger>
+	<scope>source.js</scope>
+    <description>while</description>
+</snippet>

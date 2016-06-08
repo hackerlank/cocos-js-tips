@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onDrawGLLine]]></content>
+    <tabTrigger>onDrawGLLine</tabTrigger>
+    <scope>source.js</scope>
+    <description>onDrawGLLine</description>
+</snippet>

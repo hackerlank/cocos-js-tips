@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRotation3D]]></content>
+    <tabTrigger>getRotation3D</tabTrigger>
+    <scope>source.js</scope>
+    <description>getRotation3D</description>
+</snippet>

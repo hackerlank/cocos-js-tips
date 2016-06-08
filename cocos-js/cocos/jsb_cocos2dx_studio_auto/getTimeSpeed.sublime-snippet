@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTimeSpeed]]></content>
+    <tabTrigger>getTimeSpeed</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTimeSpeed</description>
+</snippet>

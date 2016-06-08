@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removePageAtIndex]]></content>
+    <tabTrigger>removePageAtIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>removePageAtIndex</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadTextureFrontCross]]></content>
+    <tabTrigger>loadTextureFrontCross</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadTextureFrontCross</description>
+</snippet>

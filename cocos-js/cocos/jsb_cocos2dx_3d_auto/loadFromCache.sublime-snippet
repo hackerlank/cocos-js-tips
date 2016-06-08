@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadFromCache]]></content>
+    <tabTrigger>loadFromCache</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadFromCache</description>
+</snippet>

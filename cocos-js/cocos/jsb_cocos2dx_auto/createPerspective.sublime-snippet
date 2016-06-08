@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createPerspective]]></content>
+    <tabTrigger>createPerspective</tabTrigger>
+    <scope>source.js</scope>
+    <description>createPerspective</description>
+</snippet>

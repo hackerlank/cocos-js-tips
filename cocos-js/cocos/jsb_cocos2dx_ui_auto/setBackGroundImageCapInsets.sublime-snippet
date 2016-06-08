@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBackGroundImageCapInsets]]></content>
+    <tabTrigger>setBackGroundImageCapInsets</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBackGroundImageCapInsets</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[supportsDiscardFramebuffer]]></content>
+    <tabTrigger>supportsDiscardFramebuffer</tabTrigger>
+    <scope>source.js</scope>
+    <description>supportsDiscardFramebuffer</description>
+</snippet>

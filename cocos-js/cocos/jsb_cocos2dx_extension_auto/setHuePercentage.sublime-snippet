@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setHuePercentage]]></content>
+    <tabTrigger>setHuePercentage</tabTrigger>
+    <scope>source.js</scope>
+    <description>setHuePercentage</description>
+</snippet>

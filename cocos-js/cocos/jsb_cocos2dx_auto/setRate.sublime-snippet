@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRate]]></content>
+    <tabTrigger>setRate</tabTrigger>
+    <scope>source.js</scope>
+    <description>setRate</description>
+</snippet>

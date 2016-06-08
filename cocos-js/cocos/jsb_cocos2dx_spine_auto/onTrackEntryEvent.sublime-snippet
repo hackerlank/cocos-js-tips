@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onTrackEntryEvent]]></content>
+    <tabTrigger>onTrackEntryEvent</tabTrigger>
+    <scope>source.js</scope>
+    <description>onTrackEntryEvent</description>
+</snippet>

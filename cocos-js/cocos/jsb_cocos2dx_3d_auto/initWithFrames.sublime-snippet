@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithFrames]]></content>
+    <tabTrigger>initWithFrames</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithFrames</description>
+</snippet>

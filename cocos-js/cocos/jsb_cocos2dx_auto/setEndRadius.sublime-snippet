@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndRadius]]></content>
+    <tabTrigger>setEndRadius</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEndRadius</description>
+</snippet>

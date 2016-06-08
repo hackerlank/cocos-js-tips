@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTilesets]]></content>
+    <tabTrigger>getTilesets</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTilesets</description>
+</snippet>

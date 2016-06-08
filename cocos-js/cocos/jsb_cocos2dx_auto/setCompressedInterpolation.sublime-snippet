@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCompressedInterpolation]]></content>
+    <tabTrigger>setCompressedInterpolation</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCompressedInterpolation</description>
+</snippet>

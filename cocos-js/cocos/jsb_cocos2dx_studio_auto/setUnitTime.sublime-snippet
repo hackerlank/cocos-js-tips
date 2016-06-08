@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUnitTime]]></content>
+    <tabTrigger>setUnitTime</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUnitTime</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDisplayManager]]></content>
+    <tabTrigger>getDisplayManager</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDisplayManager</description>
+</snippet>

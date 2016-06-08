@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isPercentHeightEnabled]]></content>
+    <tabTrigger>isPercentHeightEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isPercentHeightEnabled</description>
+</snippet>

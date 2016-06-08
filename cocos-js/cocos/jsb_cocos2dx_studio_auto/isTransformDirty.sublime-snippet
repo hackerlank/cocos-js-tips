@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isTransformDirty]]></content>
+    <tabTrigger>isTransformDirty</tabTrigger>
+    <scope>source.js</scope>
+    <description>isTransformDirty</description>
+</snippet>

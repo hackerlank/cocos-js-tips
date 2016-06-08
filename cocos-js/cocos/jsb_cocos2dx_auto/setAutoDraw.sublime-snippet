@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAutoDraw]]></content>
+    <tabTrigger>setAutoDraw</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAutoDraw</description>
+</snippet>

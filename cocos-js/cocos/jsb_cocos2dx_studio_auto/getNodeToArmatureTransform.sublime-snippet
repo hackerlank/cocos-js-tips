@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNodeToArmatureTransform]]></content>
+    <tabTrigger>getNodeToArmatureTransform</tabTrigger>
+    <scope>source.js</scope>
+    <description>getNodeToArmatureTransform</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLocationX]]></content>
+    <tabTrigger>getLocationX</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLocationX</description>
+</snippet>

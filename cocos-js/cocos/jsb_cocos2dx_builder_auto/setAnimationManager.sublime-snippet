@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAnimationManager]]></content>
+    <tabTrigger>setAnimationManager</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAnimationManager</description>
+</snippet>

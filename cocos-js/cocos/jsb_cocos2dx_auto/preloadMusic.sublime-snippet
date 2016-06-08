@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[preloadMusic]]></content>
+    <tabTrigger>preloadMusic</tabTrigger>
+    <scope>source.js</scope>
+    <description>preloadMusic</description>
+</snippet>

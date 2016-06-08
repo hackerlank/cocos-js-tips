@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAutoRemoveOnFinish]]></content>
+    <tabTrigger>setAutoRemoveOnFinish</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAutoRemoveOnFinish</description>
+</snippet>

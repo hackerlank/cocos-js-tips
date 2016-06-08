@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBoneByIndex]]></content>
+    <tabTrigger>getBoneByIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBoneByIndex</description>
+</snippet>

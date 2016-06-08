@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[convertTouchToNodeSpaceAR]]></content>
+    <tabTrigger>convertTouchToNodeSpaceAR</tabTrigger>
+    <scope>source.js</scope>
+    <description>convertTouchToNodeSpaceAR</description>
+</snippet>

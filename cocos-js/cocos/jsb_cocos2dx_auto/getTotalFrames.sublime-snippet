@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTotalFrames]]></content>
+    <tabTrigger>getTotalFrames</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTotalFrames</description>
+</snippet>

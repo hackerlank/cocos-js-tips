@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithFlipX]]></content>
+    <tabTrigger>initWithFlipX</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithFlipX</description>
+</snippet>

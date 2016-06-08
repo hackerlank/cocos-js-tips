@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[readCallbackKeyframesForSeq]]></content>
+    <tabTrigger>readCallbackKeyframesForSeq</tabTrigger>
+    <scope>source.js</scope>
+    <description>readCallbackKeyframesForSeq</description>
+</snippet>

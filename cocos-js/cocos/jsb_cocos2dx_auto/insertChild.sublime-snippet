@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[insertChild]]></content>
+    <tabTrigger>insertChild</tabTrigger>
+    <scope>source.js</scope>
+    <description>insertChild</description>
+</snippet>

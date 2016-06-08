@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[reloadTexture]]></content>
+    <tabTrigger>reloadTexture</tabTrigger>
+    <scope>source.js</scope>
+    <description>reloadTexture</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setProjection]]></content>
+    <tabTrigger>setProjection</tabTrigger>
+    <scope>source.js</scope>
+    <description>setProjection</description>
+</snippet>

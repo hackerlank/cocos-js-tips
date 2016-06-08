@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setKeepScreenOn]]></content>
+    <tabTrigger>setKeepScreenOn</tabTrigger>
+    <scope>source.js</scope>
+    <description>setKeepScreenOn</description>
+</snippet>

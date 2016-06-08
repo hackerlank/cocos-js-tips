@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayoutComponentEnabled]]></content>
+    <tabTrigger>setLayoutComponentEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLayoutComponentEnabled</description>
+</snippet>

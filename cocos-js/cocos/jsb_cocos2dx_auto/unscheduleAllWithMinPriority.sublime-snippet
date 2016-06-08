@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unscheduleAllWithMinPriority]]></content>
+    <tabTrigger>unscheduleAllWithMinPriority</tabTrigger>
+    <scope>source.js</scope>
+    <description>unscheduleAllWithMinPriority</description>
+</snippet>

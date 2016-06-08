@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNormalTextureSize]]></content>
+    <tabTrigger>getNormalTextureSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getNormalTextureSize</description>
+</snippet>

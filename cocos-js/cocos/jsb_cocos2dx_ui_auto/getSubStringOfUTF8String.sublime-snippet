@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSubStringOfUTF8String]]></content>
+    <tabTrigger>getSubStringOfUTF8String</tabTrigger>
+    <scope>source.js</scope>
+    <description>getSubStringOfUTF8String</description>
+</snippet>

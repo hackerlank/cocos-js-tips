@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFrameIndex]]></content>
+    <tabTrigger>getFrameIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>getFrameIndex</description>
+</snippet>

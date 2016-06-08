@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getIndexFormat]]></content>
+    <tabTrigger>getIndexFormat</tabTrigger>
+    <scope>source.js</scope>
+    <description>getIndexFormat</description>
+</snippet>

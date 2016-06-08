@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStringFromFile]]></content>
+    <tabTrigger>getStringFromFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>getStringFromFile</description>
+</snippet>

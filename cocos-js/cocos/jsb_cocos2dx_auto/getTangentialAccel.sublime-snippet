@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTangentialAccel]]></content>
+    <tabTrigger>getTangentialAccel</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTangentialAccel</description>
+</snippet>

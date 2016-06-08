@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOriginalSizeInPixels]]></content>
+    <tabTrigger>setOriginalSizeInPixels</tabTrigger>
+    <scope>source.js</scope>
+    <description>setOriginalSizeInPixels</description>
+</snippet>

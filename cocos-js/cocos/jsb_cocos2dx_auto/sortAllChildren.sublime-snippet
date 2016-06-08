@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sortAllChildren]]></content>
+    <tabTrigger>sortAllChildren</tabTrigger>
+    <scope>source.js</scope>
+    <description>sortAllChildren</description>
+</snippet>

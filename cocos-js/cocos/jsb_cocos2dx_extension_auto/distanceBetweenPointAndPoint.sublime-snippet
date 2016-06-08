@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[distanceBetweenPointAndPoint]]></content>
+    <tabTrigger>distanceBetweenPointAndPoint</tabTrigger>
+    <scope>source.js</scope>
+    <description>distanceBetweenPointAndPoint</description>
+</snippet>

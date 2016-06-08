@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[formatText]]></content>
+    <tabTrigger>formatText</tabTrigger>
+    <scope>source.js</scope>
+    <description>formatText</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopParticleSystem]]></content>
+    <tabTrigger>stopParticleSystem</tabTrigger>
+    <scope>source.js</scope>
+    <description>stopParticleSystem</description>
+</snippet>

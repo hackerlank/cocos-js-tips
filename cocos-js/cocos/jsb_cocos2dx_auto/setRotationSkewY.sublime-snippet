@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRotationSkewY]]></content>
+    <tabTrigger>setRotationSkewY</tabTrigger>
+    <scope>source.js</scope>
+    <description>setRotationSkewY</description>
+</snippet>

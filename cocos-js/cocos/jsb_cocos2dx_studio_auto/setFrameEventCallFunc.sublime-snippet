@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFrameEventCallFunc]]></content>
+    <tabTrigger>setFrameEventCallFunc</tabTrigger>
+    <scope>source.js</scope>
+    <description>setFrameEventCallFunc</description>
+</snippet>

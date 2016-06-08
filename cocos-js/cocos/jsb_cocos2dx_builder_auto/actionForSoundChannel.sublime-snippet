@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[actionForSoundChannel]]></content>
+    <tabTrigger>actionForSoundChannel</tabTrigger>
+    <scope>source.js</scope>
+    <description>actionForSoundChannel</description>
+</snippet>

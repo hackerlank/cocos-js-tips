@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMinScale]]></content>
+    <tabTrigger>setMinScale</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMinScale</description>
+</snippet>

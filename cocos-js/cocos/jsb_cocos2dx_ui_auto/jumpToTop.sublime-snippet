@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[jumpToTop]]></content>
+    <tabTrigger>jumpToTop</tabTrigger>
+    <scope>source.js</scope>
+    <description>jumpToTop</description>
+</snippet>

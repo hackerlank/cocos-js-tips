@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCameraFlag]]></content>
+    <tabTrigger>setCameraFlag</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCameraFlag</description>
+</snippet>

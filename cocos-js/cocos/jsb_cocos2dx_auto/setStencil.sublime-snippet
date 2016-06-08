@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStencil]]></content>
+    <tabTrigger>setStencil</tabTrigger>
+    <scope>source.js</scope>
+    <description>setStencil</description>
+</snippet>

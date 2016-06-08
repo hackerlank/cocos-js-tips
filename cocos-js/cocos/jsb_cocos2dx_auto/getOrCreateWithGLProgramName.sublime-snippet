@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOrCreateWithGLProgramName]]></content>
+    <tabTrigger>getOrCreateWithGLProgramName</tabTrigger>
+    <scope>source.js</scope>
+    <description>getOrCreateWithGLProgramName</description>
+</snippet>

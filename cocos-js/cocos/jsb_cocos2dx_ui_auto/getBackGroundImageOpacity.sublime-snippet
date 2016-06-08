@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBackGroundImageOpacity]]></content>
+    <tabTrigger>getBackGroundImageOpacity</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBackGroundImageOpacity</description>
+</snippet>

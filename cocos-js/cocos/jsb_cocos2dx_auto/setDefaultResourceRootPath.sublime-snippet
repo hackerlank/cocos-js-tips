@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDefaultResourceRootPath]]></content>
+    <tabTrigger>setDefaultResourceRootPath</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDefaultResourceRootPath</description>
+</snippet>

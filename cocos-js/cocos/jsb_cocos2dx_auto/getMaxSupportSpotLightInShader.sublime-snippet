@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMaxSupportSpotLightInShader]]></content>
+    <tabTrigger>getMaxSupportSpotLightInShader</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMaxSupportSpotLightInShader</description>
+</snippet>

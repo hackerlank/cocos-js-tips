@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIsEnableFrustumCull]]></content>
+    <tabTrigger>setIsEnableFrustumCull</tabTrigger>
+    <scope>source.js</scope>
+    <description>setIsEnableFrustumCull</description>
+</snippet>

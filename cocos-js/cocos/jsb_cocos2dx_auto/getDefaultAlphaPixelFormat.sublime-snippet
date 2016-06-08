@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDefaultAlphaPixelFormat]]></content>
+    <tabTrigger>getDefaultAlphaPixelFormat</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDefaultAlphaPixelFormat</description>
+</snippet>

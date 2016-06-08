@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDefaultDepth]]></content>
+    <tabTrigger>setDefaultDepth</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDefaultDepth</description>
+</snippet>

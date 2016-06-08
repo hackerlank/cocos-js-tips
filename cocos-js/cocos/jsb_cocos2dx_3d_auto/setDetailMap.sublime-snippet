@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDetailMap]]></content>
+    <tabTrigger>setDetailMap</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDetailMap</description>
+</snippet>

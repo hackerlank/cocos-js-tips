@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIsComplete]]></content>
+    <tabTrigger>setIsComplete</tabTrigger>
+    <scope>source.js</scope>
+    <description>setIsComplete</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMaxHeight]]></content>
+    <tabTrigger>getMaxHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMaxHeight</description>
+</snippet>

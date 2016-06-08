@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNextDeltaTimeZero]]></content>
+    <tabTrigger>setNextDeltaTimeZero</tabTrigger>
+    <scope>source.js</scope>
+    <description>setNextDeltaTimeZero</description>
+</snippet>

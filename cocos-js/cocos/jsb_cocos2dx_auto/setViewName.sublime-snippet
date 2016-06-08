@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setViewName]]></content>
+    <tabTrigger>setViewName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setViewName</description>
+</snippet>

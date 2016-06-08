@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTitleText]]></content>
+    <tabTrigger>setTitleText</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTitleText</description>
+</snippet>

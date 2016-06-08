@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getHorizontalOrigin]]></content>
+    <tabTrigger>getHorizontalOrigin</tabTrigger>
+    <scope>source.js</scope>
+    <description>getHorizontalOrigin</description>
+</snippet>

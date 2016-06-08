@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initSystem]]></content>
+    <tabTrigger>initSystem</tabTrigger>
+    <scope>source.js</scope>
+    <description>initSystem</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVisibleSize]]></content>
+    <tabTrigger>getVisibleSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVisibleSize</description>
+</snippet>

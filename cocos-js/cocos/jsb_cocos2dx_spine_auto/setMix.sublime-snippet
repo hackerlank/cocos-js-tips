@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMix]]></content>
+    <tabTrigger>setMix</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMix</description>
+</snippet>

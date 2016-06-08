@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setInnerAction]]></content>
+    <tabTrigger>setInnerAction</tabTrigger>
+    <scope>source.js</scope>
+    <description>setInnerAction</description>
+</snippet>

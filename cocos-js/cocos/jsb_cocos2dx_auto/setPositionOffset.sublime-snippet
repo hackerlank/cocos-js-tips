@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPositionOffset]]></content>
+    <tabTrigger>setPositionOffset</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPositionOffset</description>
+</snippet>

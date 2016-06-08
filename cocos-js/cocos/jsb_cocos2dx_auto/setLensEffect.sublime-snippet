@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLensEffect]]></content>
+    <tabTrigger>setLensEffect</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLensEffect</description>
+</snippet>

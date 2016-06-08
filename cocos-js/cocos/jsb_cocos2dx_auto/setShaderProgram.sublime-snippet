@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setShaderProgram]]></content>
+    <tabTrigger>setShaderProgram</tabTrigger>
+    <scope>source.js</scope>
+    <description>setShaderProgram</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[strike]]></content>
+    <tabTrigger>strike</tabTrigger>
+    <scope>source.js</scope>
+    <description>strike</description>
+</snippet>

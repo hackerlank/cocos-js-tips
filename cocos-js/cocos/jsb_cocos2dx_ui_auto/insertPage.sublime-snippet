@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[insertPage]]></content>
+    <tabTrigger>insertPage</tabTrigger>
+    <scope>source.js</scope>
+    <description>insertPage</description>
+</snippet>

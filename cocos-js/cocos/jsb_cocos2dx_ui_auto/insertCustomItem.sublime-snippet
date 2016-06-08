@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[insertCustomItem]]></content>
+    <tabTrigger>insertCustomItem</tabTrigger>
+    <scope>source.js</scope>
+    <description>insertCustomItem</description>
+</snippet>

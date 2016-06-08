@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFloat]]></content>
+    <tabTrigger>setFloat</tabTrigger>
+    <scope>source.js</scope>
+    <description>setFloat</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getInsetBottom]]></content>
+    <tabTrigger>getInsetBottom</tabTrigger>
+    <scope>source.js</scope>
+    <description>getInsetBottom</description>
+</snippet>

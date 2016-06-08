@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndColor]]></content>
+    <tabTrigger>setEndColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEndColor</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isFull]]></content>
+    <tabTrigger>isFull</tabTrigger>
+    <scope>source.js</scope>
+    <description>isFull</description>
+</snippet>

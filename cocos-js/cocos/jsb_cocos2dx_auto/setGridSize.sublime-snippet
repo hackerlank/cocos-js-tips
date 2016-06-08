@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGridSize]]></content>
+    <tabTrigger>setGridSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>setGridSize</description>
+</snippet>

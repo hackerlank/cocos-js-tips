@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollToPage]]></content>
+    <tabTrigger>scrollToPage</tabTrigger>
+    <scope>source.js</scope>
+    <description>scrollToPage</description>
+</snippet>

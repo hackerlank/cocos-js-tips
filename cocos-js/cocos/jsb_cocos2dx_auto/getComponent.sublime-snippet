@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getComponent]]></content>
+    <tabTrigger>getComponent</tabTrigger>
+    <scope>source.js</scope>
+    <description>getComponent</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isMaxLengthEnabled]]></content>
+    <tabTrigger>isMaxLengthEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isMaxLengthEnabled</description>
+</snippet>

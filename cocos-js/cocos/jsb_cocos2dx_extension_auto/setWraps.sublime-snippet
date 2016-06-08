@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setWraps]]></content>
+    <tabTrigger>setWraps</tabTrigger>
+    <scope>source.js</scope>
+    <description>setWraps</description>
+</snippet>

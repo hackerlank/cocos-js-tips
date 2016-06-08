@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformInt]]></content>
+    <tabTrigger>setUniformInt</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUniformInt</description>
+</snippet>

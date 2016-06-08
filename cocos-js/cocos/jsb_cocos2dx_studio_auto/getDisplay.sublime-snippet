@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDisplay]]></content>
+    <tabTrigger>getDisplay</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDisplay</description>
+</snippet>

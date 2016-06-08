@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addEventListenerWithSceneGraphPriority]]></content>
+    <tabTrigger>addEventListenerWithSceneGraphPriority</tabTrigger>
+    <scope>source.js</scope>
+    <description>addEventListenerWithSceneGraphPriority</description>
+</snippet>

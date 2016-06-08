@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadConfigFile]]></content>
+    <tabTrigger>loadConfigFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadConfigFile</description>
+</snippet>

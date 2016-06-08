@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[switchToAndReleaseMe]]></content>
+    <tabTrigger>switchToAndReleaseMe</tabTrigger>
+    <scope>source.js</scope>
+    <description>switchToAndReleaseMe</description>
+</snippet>

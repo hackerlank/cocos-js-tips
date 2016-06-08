@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllItems]]></content>
+    <tabTrigger>removeAllItems</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeAllItems</description>
+</snippet>

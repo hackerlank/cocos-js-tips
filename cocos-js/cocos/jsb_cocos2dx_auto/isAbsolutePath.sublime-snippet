@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isAbsolutePath]]></content>
+    <tabTrigger>isAbsolutePath</tabTrigger>
+    <scope>source.js</scope>
+    <description>isAbsolutePath</description>
+</snippet>

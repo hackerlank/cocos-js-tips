@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDelegate]]></content>
+    <tabTrigger>setDelegate</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDelegate</description>
+</snippet>

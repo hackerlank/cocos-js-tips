@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLineBreakWithoutSpace]]></content>
+    <tabTrigger>setLineBreakWithoutSpace</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLineBreakWithoutSpace</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTweenType]]></content>
+    <tabTrigger>setTweenType</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTweenType</description>
+</snippet>

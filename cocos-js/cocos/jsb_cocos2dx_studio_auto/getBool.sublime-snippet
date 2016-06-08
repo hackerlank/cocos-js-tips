@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBool]]></content>
+    <tabTrigger>getBool</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBool</description>
+</snippet>

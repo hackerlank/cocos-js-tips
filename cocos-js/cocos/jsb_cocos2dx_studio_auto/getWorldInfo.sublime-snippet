@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getWorldInfo]]></content>
+    <tabTrigger>getWorldInfo</tabTrigger>
+    <scope>source.js</scope>
+    <description>getWorldInfo</description>
+</snippet>

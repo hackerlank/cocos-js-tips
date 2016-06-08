@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRunningScene]]></content>
+    <tabTrigger>getRunningScene</tabTrigger>
+    <scope>source.js</scope>
+    <description>getRunningScene</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addOwnerCallbackControlEvents]]></content>
+    <tabTrigger>addOwnerCallbackControlEvents</tabTrigger>
+    <scope>source.js</scope>
+    <description>addOwnerCallbackControlEvents</description>
+</snippet>

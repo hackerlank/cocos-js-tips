@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isAutoLoadSpriteFile]]></content>
+    <tabTrigger>isAutoLoadSpriteFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>isAutoLoadSpriteFile</description>
+</snippet>

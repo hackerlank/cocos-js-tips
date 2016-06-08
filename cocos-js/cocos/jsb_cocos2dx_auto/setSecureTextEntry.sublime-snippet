@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSecureTextEntry]]></content>
+    <tabTrigger>setSecureTextEntry</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSecureTextEntry</description>
+</snippet>

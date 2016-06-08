@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDefaultDepth]]></content>
+    <tabTrigger>getDefaultDepth</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDefaultDepth</description>
+</snippet>

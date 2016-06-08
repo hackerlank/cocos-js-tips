@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAliveParticleCount]]></content>
+    <tabTrigger>getAliveParticleCount</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAliveParticleCount</description>
+</snippet>

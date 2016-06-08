@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithColor]]></content>
+    <tabTrigger>initWithColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithColor</description>
+</snippet>

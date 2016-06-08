@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[multiplyMatrix]]></content>
+    <tabTrigger>multiplyMatrix</tabTrigger>
+    <scope>source.js</scope>
+    <description>multiplyMatrix</description>
+</snippet>

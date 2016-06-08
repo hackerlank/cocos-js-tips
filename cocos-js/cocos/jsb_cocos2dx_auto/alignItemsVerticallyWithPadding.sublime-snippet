@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[alignItemsVerticallyWithPadding]]></content>
+    <tabTrigger>alignItemsVerticallyWithPadding</tabTrigger>
+    <scope>source.js</scope>
+    <description>alignItemsVerticallyWithPadding</description>
+</snippet>

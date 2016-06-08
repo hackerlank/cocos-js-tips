@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBlendAdditive]]></content>
+    <tabTrigger>setBlendAdditive</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBlendAdditive</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initParticle]]></content>
+    <tabTrigger>initParticle</tabTrigger>
+    <scope>source.js</scope>
+    <description>initParticle</description>
+</snippet>

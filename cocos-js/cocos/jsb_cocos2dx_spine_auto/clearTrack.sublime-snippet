@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearTrack]]></content>
+    <tabTrigger>clearTrack</tabTrigger>
+    <scope>source.js</scope>
+    <description>clearTrack</description>
+</snippet>

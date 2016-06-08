@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAngle]]></content>
+    <tabTrigger>getAngle</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAngle</description>
+</snippet>

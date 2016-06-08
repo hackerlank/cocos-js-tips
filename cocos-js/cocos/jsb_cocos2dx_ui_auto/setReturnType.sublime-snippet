@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setReturnType]]></content>
+    <tabTrigger>setReturnType</tabTrigger>
+    <scope>source.js</scope>
+    <description>setReturnType</description>
+</snippet>

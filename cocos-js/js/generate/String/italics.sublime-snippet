@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[italics]]></content>
+    <tabTrigger>italics</tabTrigger>
+    <scope>source.js</scope>
+    <description>italics</description>
+</snippet>

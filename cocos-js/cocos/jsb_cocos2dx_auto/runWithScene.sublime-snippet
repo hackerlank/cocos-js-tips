@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[runWithScene]]></content>
+    <tabTrigger>runWithScene</tabTrigger>
+    <scope>source.js</scope>
+    <description>runWithScene</description>
+</snippet>

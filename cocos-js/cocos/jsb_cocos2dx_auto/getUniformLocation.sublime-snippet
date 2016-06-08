@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUniformLocation]]></content>
+    <tabTrigger>getUniformLocation</tabTrigger>
+    <scope>source.js</scope>
+    <description>getUniformLocation</description>
+</snippet>

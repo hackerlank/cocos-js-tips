@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEffectsVolume]]></content>
+    <tabTrigger>setEffectsVolume</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEffectsVolume</description>
+</snippet>

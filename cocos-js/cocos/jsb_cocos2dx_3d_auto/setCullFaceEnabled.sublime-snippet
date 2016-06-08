@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCullFaceEnabled]]></content>
+    <tabTrigger>setCullFaceEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCullFaceEnabled</description>
+</snippet>

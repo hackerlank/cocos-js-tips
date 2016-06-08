@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUp]]></content>
+    <tabTrigger>getUp</tabTrigger>
+    <scope>source.js</scope>
+    <description>getUp</description>
+</snippet>

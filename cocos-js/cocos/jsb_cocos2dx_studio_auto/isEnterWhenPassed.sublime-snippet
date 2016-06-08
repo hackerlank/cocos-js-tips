@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isEnterWhenPassed]]></content>
+    <tabTrigger>isEnterWhenPassed</tabTrigger>
+    <scope>source.js</scope>
+    <description>isEnterWhenPassed</description>
+</snippet>

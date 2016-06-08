@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[colourSliderValueChanged]]></content>
+    <tabTrigger>colourSliderValueChanged</tabTrigger>
+    <scope>source.js</scope>
+    <description>colourSliderValueChanged</description>
+</snippet>

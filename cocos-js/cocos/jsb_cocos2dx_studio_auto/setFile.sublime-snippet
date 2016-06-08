@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFile]]></content>
+    <tabTrigger>setFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>setFile</description>
+</snippet>

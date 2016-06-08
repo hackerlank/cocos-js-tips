@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[startAutorepeat]]></content>
+    <tabTrigger>startAutorepeat</tabTrigger>
+    <scope>source.js</scope>
+    <description>startAutorepeat</description>
+</snippet>

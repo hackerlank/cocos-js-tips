@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getClearColor]]></content>
+    <tabTrigger>getClearColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>getClearColor</description>
+</snippet>

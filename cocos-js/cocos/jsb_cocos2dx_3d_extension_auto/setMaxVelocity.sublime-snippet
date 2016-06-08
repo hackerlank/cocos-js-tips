@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMaxVelocity]]></content>
+    <tabTrigger>setMaxVelocity</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMaxVelocity</description>
+</snippet>

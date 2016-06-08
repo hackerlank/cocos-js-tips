@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMaxModelviewStackDepth]]></content>
+    <tabTrigger>getMaxModelviewStackDepth</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMaxModelviewStackDepth</description>
+</snippet>

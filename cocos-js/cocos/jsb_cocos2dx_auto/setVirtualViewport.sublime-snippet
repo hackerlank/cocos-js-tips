@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVirtualViewport]]></content>
+    <tabTrigger>setVirtualViewport</tabTrigger>
+    <scope>source.js</scope>
+    <description>setVirtualViewport</description>
+</snippet>

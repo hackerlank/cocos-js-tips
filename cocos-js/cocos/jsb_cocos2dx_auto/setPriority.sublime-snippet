@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPriority]]></content>
+    <tabTrigger>setPriority</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPriority</description>
+</snippet>

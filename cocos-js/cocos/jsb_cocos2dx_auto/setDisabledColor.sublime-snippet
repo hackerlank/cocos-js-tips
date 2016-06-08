@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisabledColor]]></content>
+    <tabTrigger>setDisabledColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDisabledColor</description>
+</snippet>

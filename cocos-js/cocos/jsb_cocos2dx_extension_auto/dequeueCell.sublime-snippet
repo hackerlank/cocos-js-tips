@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[dequeueCell]]></content>
+    <tabTrigger>dequeueCell</tabTrigger>
+    <scope>source.js</scope>
+    <description>dequeueCell</description>
+</snippet>

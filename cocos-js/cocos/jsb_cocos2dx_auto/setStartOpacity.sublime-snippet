@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStartOpacity]]></content>
+    <tabTrigger>setStartOpacity</tabTrigger>
+    <scope>source.js</scope>
+    <description>setStartOpacity</description>
+</snippet>

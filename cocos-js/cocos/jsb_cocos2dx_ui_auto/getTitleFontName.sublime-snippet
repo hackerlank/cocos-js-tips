@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitleFontName]]></content>
+    <tabTrigger>getTitleFontName</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTitleFontName</description>
+</snippet>

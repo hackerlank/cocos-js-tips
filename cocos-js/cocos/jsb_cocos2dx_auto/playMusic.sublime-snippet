@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playMusic]]></content>
+    <tabTrigger>playMusic</tabTrigger>
+    <scope>source.js</scope>
+    <description>playMusic</description>
+</snippet>

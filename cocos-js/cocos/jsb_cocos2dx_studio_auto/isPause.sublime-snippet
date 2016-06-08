@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isPause]]></content>
+    <tabTrigger>isPause</tabTrigger>
+    <scope>source.js</scope>
+    <description>isPause</description>
+</snippet>

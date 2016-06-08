@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[valueOf]]></content>
+    <tabTrigger>valueOf</tabTrigger>
+    <scope>source.js</scope>
+    <description>valueOf</description>
+</snippet>

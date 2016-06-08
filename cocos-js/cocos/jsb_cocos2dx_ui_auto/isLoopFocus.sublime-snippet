@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isLoopFocus]]></content>
+    <tabTrigger>isLoopFocus</tabTrigger>
+    <scope>source.js</scope>
+    <description>isLoopFocus</description>
+</snippet>

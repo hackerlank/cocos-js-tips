@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[supportsETC]]></content>
+    <tabTrigger>supportsETC</tabTrigger>
+    <scope>source.js</scope>
+    <description>supportsETC</description>
+</snippet>

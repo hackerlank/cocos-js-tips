@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getZOrder]]></content>
+    <tabTrigger>getZOrder</tabTrigger>
+    <scope>source.js</scope>
+    <description>getZOrder</description>
+</snippet>

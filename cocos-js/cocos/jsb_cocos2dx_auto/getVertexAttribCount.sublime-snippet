@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVertexAttribCount]]></content>
+    <tabTrigger>getVertexAttribCount</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVertexAttribCount</description>
+</snippet>

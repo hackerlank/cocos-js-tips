@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initHeightMap]]></content>
+    <tabTrigger>initHeightMap</tabTrigger>
+    <scope>source.js</scope>
+    <description>initHeightMap</description>
+</snippet>

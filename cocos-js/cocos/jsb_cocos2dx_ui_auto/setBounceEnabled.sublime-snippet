@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBounceEnabled]]></content>
+    <tabTrigger>setBounceEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBounceEnabled</description>
+</snippet>

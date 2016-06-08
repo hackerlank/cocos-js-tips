@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unscheduleScriptEntry]]></content>
+    <tabTrigger>unscheduleScriptEntry</tabTrigger>
+    <scope>source.js</scope>
+    <description>unscheduleScriptEntry</description>
+</snippet>

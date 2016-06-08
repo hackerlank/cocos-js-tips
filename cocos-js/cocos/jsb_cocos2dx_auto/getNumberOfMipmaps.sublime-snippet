@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNumberOfMipmaps]]></content>
+    <tabTrigger>getNumberOfMipmaps</tabTrigger>
+    <scope>source.js</scope>
+    <description>getNumberOfMipmaps</description>
+</snippet>

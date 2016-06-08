@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[openIME]]></content>
+    <tabTrigger>openIME</tabTrigger>
+    <scope>source.js</scope>
+    <description>openIME</description>
+</snippet>

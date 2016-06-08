@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFrameRate]]></content>
+    <tabTrigger>getFrameRate</tabTrigger>
+    <scope>source.js</scope>
+    <description>getFrameRate</description>
+</snippet>

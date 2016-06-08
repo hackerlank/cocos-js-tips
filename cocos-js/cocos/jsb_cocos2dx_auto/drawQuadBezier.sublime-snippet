@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawQuadBezier]]></content>
+    <tabTrigger>drawQuadBezier</tabTrigger>
+    <scope>source.js</scope>
+    <description>drawQuadBezier</description>
+</snippet>

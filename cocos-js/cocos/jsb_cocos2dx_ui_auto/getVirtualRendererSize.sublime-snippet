@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVirtualRendererSize]]></content>
+    <tabTrigger>getVirtualRendererSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVirtualRendererSize</description>
+</snippet>

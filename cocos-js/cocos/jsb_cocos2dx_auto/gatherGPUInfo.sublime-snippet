@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[gatherGPUInfo]]></content>
+    <tabTrigger>gatherGPUInfo</tabTrigger>
+    <scope>source.js</scope>
+    <description>gatherGPUInfo</description>
+</snippet>

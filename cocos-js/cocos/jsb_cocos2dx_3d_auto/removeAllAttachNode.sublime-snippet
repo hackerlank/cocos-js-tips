@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllAttachNode]]></content>
+    <tabTrigger>removeAllAttachNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeAllAttachNode</description>
+</snippet>

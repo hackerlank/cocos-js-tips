@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVertexBuffer]]></content>
+    <tabTrigger>getVertexBuffer</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVertexBuffer</description>
+</snippet>

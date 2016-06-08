@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setValueWithSendingEvent]]></content>
+    <tabTrigger>setValueWithSendingEvent</tabTrigger>
+    <scope>source.js</scope>
+    <description>setValueWithSendingEvent</description>
+</snippet>

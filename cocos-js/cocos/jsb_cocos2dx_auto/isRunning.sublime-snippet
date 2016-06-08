@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isRunning]]></content>
+    <tabTrigger>isRunning</tabTrigger>
+    <scope>source.js</scope>
+    <description>isRunning</description>
+</snippet>

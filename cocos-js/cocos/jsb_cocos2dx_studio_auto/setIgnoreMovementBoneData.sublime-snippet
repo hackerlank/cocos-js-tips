@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIgnoreMovementBoneData]]></content>
+    <tabTrigger>setIgnoreMovementBoneData</tabTrigger>
+    <scope>source.js</scope>
+    <description>setIgnoreMovementBoneData</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createCloneInstance]]></content>
+    <tabTrigger>createCloneInstance</tabTrigger>
+    <scope>source.js</scope>
+    <description>createCloneInstance</description>
+</snippet>

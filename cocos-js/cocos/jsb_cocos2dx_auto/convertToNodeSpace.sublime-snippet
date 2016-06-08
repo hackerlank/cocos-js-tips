@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[convertToNodeSpace]]></content>
+    <tabTrigger>convertToNodeSpace</tabTrigger>
+    <scope>source.js</scope>
+    <description>convertToNodeSpace</description>
+</snippet>

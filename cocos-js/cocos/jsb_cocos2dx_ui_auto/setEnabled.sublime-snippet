@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEnabled]]></content>
+    <tabTrigger>setEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEnabled</description>
+</snippet>

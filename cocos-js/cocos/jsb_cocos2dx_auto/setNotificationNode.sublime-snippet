@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNotificationNode]]></content>
+    <tabTrigger>setNotificationNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>setNotificationNode</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[forceUpdate]]></content>
+    <tabTrigger>forceUpdate</tabTrigger>
+    <scope>source.js</scope>
+    <description>forceUpdate</description>
+</snippet>

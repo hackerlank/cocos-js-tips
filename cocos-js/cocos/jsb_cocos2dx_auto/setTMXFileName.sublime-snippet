@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTMXFileName]]></content>
+    <tabTrigger>setTMXFileName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTMXFileName</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOriginInterval]]></content>
+    <tabTrigger>setOriginInterval</tabTrigger>
+    <scope>source.js</scope>
+    <description>setOriginInterval</description>
+</snippet>

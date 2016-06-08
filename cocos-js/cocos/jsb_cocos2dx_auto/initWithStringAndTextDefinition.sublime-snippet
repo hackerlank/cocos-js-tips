@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithStringAndTextDefinition]]></content>
+    <tabTrigger>initWithStringAndTextDefinition</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithStringAndTextDefinition</description>
+</snippet>

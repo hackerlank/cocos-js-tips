@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEnterWithName]]></content>
+    <tabTrigger>setEnterWithName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEnterWithName</description>
+</snippet>

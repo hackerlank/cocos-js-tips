@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lowestAtlasIndexInChild]]></content>
+    <tabTrigger>lowestAtlasIndexInChild</tabTrigger>
+    <scope>source.js</scope>
+    <description>lowestAtlasIndexInChild</description>
+</snippet>

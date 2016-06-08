@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setGravity]]></content>
+    <tabTrigger>setGravity</tabTrigger>
+    <scope>source.js</scope>
+    <description>setGravity</description>
+</snippet>

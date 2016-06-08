@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopTasks]]></content>
+    <tabTrigger>stopTasks</tabTrigger>
+    <scope>source.js</scope>
+    <description>stopTasks</description>
+</snippet>

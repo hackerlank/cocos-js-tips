@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFrameZoomFactor]]></content>
+    <tabTrigger>getFrameZoomFactor</tabTrigger>
+    <scope>source.js</scope>
+    <description>getFrameZoomFactor</description>
+</snippet>

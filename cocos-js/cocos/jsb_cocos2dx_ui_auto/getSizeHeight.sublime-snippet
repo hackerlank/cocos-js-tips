@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSizeHeight]]></content>
+    <tabTrigger>getSizeHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>getSizeHeight</description>
+</snippet>

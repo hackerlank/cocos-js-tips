@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTrackStartListener]]></content>
+    <tabTrigger>setTrackStartListener</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTrackStartListener</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAlphaMap]]></content>
+    <tabTrigger>setAlphaMap</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAlphaMap</description>
+</snippet>

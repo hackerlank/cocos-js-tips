@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getChildByTag]]></content>
+    <tabTrigger>getChildByTag</tabTrigger>
+    <scope>source.js</scope>
+    <description>getChildByTag</description>
+</snippet>

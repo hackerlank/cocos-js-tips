@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[adaptRenderers]]></content>
+    <tabTrigger>adaptRenderers</tabTrigger>
+    <scope>source.js</scope>
+    <description>adaptRenderers</description>
+</snippet>

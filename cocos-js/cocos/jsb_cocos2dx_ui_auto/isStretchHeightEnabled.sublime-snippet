@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isStretchHeightEnabled]]></content>
+    <tabTrigger>isStretchHeightEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isStretchHeightEnabled</description>
+</snippet>

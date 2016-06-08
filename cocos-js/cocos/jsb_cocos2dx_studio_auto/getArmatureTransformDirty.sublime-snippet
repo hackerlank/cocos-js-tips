@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getArmatureTransformDirty]]></content>
+    <tabTrigger>getArmatureTransformDirty</tabTrigger>
+    <scope>source.js</scope>
+    <description>getArmatureTransformDirty</description>
+</snippet>

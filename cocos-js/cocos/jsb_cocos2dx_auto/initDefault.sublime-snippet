@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initDefault]]></content>
+    <tabTrigger>initDefault</tabTrigger>
+    <scope>source.js</scope>
+    <description>initDefault</description>
+</snippet>

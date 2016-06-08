@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[changeHeight]]></content>
+    <tabTrigger>changeHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>changeHeight</description>
+</snippet>

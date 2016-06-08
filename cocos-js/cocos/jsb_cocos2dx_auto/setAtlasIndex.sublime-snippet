@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAtlasIndex]]></content>
+    <tabTrigger>setAtlasIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAtlasIndex</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawCatmullRom]]></content>
+    <tabTrigger>drawCatmullRom</tabTrigger>
+    <scope>source.js</scope>
+    <description>drawCatmullRom</description>
+</snippet>

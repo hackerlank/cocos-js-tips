@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[gotoAndPause]]></content>
+    <tabTrigger>gotoAndPause</tabTrigger>
+    <scope>source.js</scope>
+    <description>gotoAndPause</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOriginalTarget]]></content>
+    <tabTrigger>setOriginalTarget</tabTrigger>
+    <scope>source.js</scope>
+    <description>setOriginalTarget</description>
+</snippet>

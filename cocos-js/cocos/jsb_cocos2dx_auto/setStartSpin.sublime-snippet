@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStartSpin]]></content>
+    <tabTrigger>setStartSpin</tabTrigger>
+    <scope>source.js</scope>
+    <description>setStartSpin</description>
+</snippet>

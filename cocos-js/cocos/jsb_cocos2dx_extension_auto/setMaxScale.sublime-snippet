@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMaxScale]]></content>
+    <tabTrigger>setMaxScale</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMaxScale</description>
+</snippet>

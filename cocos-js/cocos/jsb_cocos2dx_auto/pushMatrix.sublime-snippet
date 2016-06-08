@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pushMatrix]]></content>
+    <tabTrigger>pushMatrix</tabTrigger>
+    <scope>source.js</scope>
+    <description>pushMatrix</description>
+</snippet>

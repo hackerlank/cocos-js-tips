@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTMXFile]]></content>
+    <tabTrigger>initWithTMXFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithTMXFile</description>
+</snippet>

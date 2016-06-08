@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformLocationI32]]></content>
+    <tabTrigger>setUniformLocationI32</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUniformLocationI32</description>
+</snippet>

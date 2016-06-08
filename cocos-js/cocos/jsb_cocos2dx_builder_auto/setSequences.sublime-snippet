@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSequences]]></content>
+    <tabTrigger>setSequences</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSequences</description>
+</snippet>

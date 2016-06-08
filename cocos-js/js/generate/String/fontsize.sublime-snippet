@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[fontsize]]></content>
+    <tabTrigger>fontsize</tabTrigger>
+    <scope>source.js</scope>
+    <description>fontsize</description>
+</snippet>

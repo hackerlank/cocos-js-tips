@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateWithSprite]]></content>
+    <tabTrigger>updateWithSprite</tabTrigger>
+    <scope>source.js</scope>
+    <description>updateWithSprite</description>
+</snippet>

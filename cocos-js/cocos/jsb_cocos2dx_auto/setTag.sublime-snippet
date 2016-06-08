@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTag]]></content>
+    <tabTrigger>setTag</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTag</description>
+</snippet>

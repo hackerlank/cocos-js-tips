@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOnEnterCallback]]></content>
+    <tabTrigger>getOnEnterCallback</tabTrigger>
+    <scope>source.js</scope>
+    <description>getOnEnterCallback</description>
+</snippet>

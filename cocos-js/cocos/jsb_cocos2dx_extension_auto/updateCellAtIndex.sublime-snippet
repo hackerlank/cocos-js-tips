@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateCellAtIndex]]></content>
+    <tabTrigger>updateCellAtIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>updateCellAtIndex</description>
+</snippet>

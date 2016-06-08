@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCachedTextureInfo]]></content>
+    <tabTrigger>getCachedTextureInfo</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCachedTextureInfo</description>
+</snippet>

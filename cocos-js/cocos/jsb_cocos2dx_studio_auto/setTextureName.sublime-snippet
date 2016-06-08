@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTextureName]]></content>
+    <tabTrigger>setTextureName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTextureName</description>
+</snippet>

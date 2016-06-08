@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDefaultCamera]]></content>
+    <tabTrigger>getDefaultCamera</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDefaultCamera</description>
+</snippet>

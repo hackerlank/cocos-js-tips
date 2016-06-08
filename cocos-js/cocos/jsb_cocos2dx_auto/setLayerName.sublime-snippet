@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayerName]]></content>
+    <tabTrigger>setLayerName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLayerName</description>
+</snippet>

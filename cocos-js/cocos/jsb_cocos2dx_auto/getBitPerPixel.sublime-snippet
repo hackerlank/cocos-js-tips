@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBitPerPixel]]></content>
+    <tabTrigger>getBitPerPixel</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBitPerPixel</description>
+</snippet>

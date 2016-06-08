@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDisplayName]]></content>
+    <tabTrigger>getDisplayName</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDisplayName</description>
+</snippet>

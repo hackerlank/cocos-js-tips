@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setActionTimeline]]></content>
+    <tabTrigger>setActionTimeline</tabTrigger>
+    <scope>source.js</scope>
+    <description>setActionTimeline</description>
+</snippet>

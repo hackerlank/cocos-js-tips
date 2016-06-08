@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBool]]></content>
+    <tabTrigger>setBool</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBool</description>
+</snippet>

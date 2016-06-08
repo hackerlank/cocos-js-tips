@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithFlipY]]></content>
+    <tabTrigger>initWithFlipY</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithFlipY</description>
+</snippet>

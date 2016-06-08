@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onAABBDirty]]></content>
+    <tabTrigger>onAABBDirty</tabTrigger>
+    <scope>source.js</scope>
+    <description>onAABBDirty</description>
+</snippet>

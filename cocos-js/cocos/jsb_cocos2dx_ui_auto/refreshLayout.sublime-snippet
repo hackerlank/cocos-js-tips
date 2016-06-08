@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[refreshLayout]]></content>
+    <tabTrigger>refreshLayout</tabTrigger>
+    <scope>source.js</scope>
+    <description>refreshLayout</description>
+</snippet>

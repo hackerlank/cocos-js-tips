@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setReverseDirection]]></content>
+    <tabTrigger>setReverseDirection</tabTrigger>
+    <scope>source.js</scope>
+    <description>setReverseDirection</description>
+</snippet>

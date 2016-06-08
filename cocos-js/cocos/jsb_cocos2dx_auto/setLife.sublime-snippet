@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLife]]></content>
+    <tabTrigger>setLife</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLife</description>
+</snippet>

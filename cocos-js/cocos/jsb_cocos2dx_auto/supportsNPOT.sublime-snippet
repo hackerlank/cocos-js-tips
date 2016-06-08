@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[supportsNPOT]]></content>
+    <tabTrigger>supportsNPOT</tabTrigger>
+    <scope>source.js</scope>
+    <description>supportsNPOT</description>
+</snippet>

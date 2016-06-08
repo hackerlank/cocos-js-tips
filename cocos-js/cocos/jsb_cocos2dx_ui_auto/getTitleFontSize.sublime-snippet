@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitleFontSize]]></content>
+    <tabTrigger>getTitleFontSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTitleFontSize</description>
+</snippet>

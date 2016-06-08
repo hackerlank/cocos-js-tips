@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isForceDepthWrite]]></content>
+    <tabTrigger>isForceDepthWrite</tabTrigger>
+    <scope>source.js</scope>
+    <description>isForceDepthWrite</description>
+</snippet>

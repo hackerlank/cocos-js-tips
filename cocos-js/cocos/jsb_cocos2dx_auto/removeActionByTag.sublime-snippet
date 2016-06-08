@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeActionByTag]]></content>
+    <tabTrigger>removeActionByTag</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeActionByTag</description>
+</snippet>

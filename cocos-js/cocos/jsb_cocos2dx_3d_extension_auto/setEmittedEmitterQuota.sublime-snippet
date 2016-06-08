@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEmittedEmitterQuota]]></content>
+    <tabTrigger>setEmittedEmitterQuota</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEmittedEmitterQuota</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bindLayoutComponent]]></content>
+    <tabTrigger>bindLayoutComponent</tabTrigger>
+    <scope>source.js</scope>
+    <description>bindLayoutComponent</description>
+</snippet>

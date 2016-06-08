@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTransitionTime]]></content>
+    <tabTrigger>setTransitionTime</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTransitionTime</description>
+</snippet>

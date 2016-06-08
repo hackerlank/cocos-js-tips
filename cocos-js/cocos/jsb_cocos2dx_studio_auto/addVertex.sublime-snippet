@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addVertex]]></content>
+    <tabTrigger>addVertex</tabTrigger>
+    <scope>source.js</scope>
+    <description>addVertex</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[beginWithClear]]></content>
+    <tabTrigger>beginWithClear</tabTrigger>
+    <scope>source.js</scope>
+    <description>beginWithClear</description>
+</snippet>

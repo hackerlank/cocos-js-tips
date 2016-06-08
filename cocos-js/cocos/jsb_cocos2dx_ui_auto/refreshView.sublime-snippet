@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[refreshView]]></content>
+    <tabTrigger>refreshView</tabTrigger>
+    <scope>source.js</scope>
+    <description>refreshView</description>
+</snippet>

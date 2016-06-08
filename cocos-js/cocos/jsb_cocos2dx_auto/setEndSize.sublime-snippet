@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEndSize]]></content>
+    <tabTrigger>setEndSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEndSize</description>
+</snippet>

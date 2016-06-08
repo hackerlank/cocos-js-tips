@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pushBackCustomItem]]></content>
+    <tabTrigger>pushBackCustomItem</tabTrigger>
+    <scope>source.js</scope>
+    <description>pushBackCustomItem</description>
+</snippet>

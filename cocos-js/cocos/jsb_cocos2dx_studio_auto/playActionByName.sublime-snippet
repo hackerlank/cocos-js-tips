@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playActionByName]]></content>
+    <tabTrigger>playActionByName</tabTrigger>
+    <scope>source.js</scope>
+    <description>playActionByName</description>
+</snippet>

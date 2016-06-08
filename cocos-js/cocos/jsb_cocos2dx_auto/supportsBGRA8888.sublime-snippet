@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[supportsBGRA8888]]></content>
+    <tabTrigger>supportsBGRA8888</tabTrigger>
+    <scope>source.js</scope>
+    <description>supportsBGRA8888</description>
+</snippet>

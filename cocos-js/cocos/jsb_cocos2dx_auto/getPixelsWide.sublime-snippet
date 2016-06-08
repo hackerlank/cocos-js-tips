@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPixelsWide]]></content>
+    <tabTrigger>getPixelsWide</tabTrigger>
+    <scope>source.js</scope>
+    <description>getPixelsWide</description>
+</snippet>

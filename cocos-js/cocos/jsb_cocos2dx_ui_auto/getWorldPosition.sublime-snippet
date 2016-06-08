@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getWorldPosition]]></content>
+    <tabTrigger>getWorldPosition</tabTrigger>
+    <scope>source.js</scope>
+    <description>getWorldPosition</description>
+</snippet>

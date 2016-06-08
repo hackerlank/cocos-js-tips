@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[search]]></content>
+    <tabTrigger>search</tabTrigger>
+    <scope>source.js</scope>
+    <description>search</description>
+</snippet>

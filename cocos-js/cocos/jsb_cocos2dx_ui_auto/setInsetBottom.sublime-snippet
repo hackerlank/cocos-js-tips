@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setInsetBottom]]></content>
+    <tabTrigger>setInsetBottom</tabTrigger>
+    <scope>source.js</scope>
+    <description>setInsetBottom</description>
+</snippet>

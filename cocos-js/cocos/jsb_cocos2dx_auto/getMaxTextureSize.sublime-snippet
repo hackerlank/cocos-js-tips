@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMaxTextureSize]]></content>
+    <tabTrigger>getMaxTextureSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMaxTextureSize</description>
+</snippet>

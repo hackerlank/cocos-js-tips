@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearDepth]]></content>
+    <tabTrigger>clearDepth</tabTrigger>
+    <scope>source.js</scope>
+    <description>clearDepth</description>
+</snippet>

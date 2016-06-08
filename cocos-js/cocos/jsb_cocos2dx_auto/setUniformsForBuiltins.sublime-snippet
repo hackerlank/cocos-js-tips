@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformsForBuiltins]]></content>
+    <tabTrigger>setUniformsForBuiltins</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUniformsForBuiltins</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setParentGID]]></content>
+    <tabTrigger>setParentGID</tabTrigger>
+    <scope>source.js</scope>
+    <description>setParentGID</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableEffect]]></content>
+    <tabTrigger>disableEffect</tabTrigger>
+    <scope>source.js</scope>
+    <description>disableEffect</description>
+</snippet>

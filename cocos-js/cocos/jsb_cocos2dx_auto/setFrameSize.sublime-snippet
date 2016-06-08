@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFrameSize]]></content>
+    <tabTrigger>setFrameSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>setFrameSize</description>
+</snippet>

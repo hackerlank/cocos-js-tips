@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getEndFrame]]></content>
+    <tabTrigger>getEndFrame</tabTrigger>
+    <scope>source.js</scope>
+    <description>getEndFrame</description>
+</snippet>

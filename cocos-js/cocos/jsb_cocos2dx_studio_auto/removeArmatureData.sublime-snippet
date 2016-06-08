@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeArmatureData]]></content>
+    <tabTrigger>removeArmatureData</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeArmatureData</description>
+</snippet>

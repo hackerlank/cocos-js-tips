@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTextDefinition]]></content>
+    <tabTrigger>setTextDefinition</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTextDefinition</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onTextFieldAttachWithIME]]></content>
+    <tabTrigger>onTextFieldAttachWithIME</tabTrigger>
+    <scope>source.js</scope>
+    <description>onTextFieldAttachWithIME</description>
+</snippet>

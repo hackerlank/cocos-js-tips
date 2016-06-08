@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOffsetInPixels]]></content>
+    <tabTrigger>getOffsetInPixels</tabTrigger>
+    <scope>source.js</scope>
+    <description>getOffsetInPixels</description>
+</snippet>

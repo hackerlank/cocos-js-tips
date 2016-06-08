@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRectInPixels]]></content>
+    <tabTrigger>setRectInPixels</tabTrigger>
+    <scope>source.js</scope>
+    <description>setRectInPixels</description>
+</snippet>

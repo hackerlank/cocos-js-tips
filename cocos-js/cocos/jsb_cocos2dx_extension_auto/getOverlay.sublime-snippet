@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOverlay]]></content>
+    <tabTrigger>getOverlay</tabTrigger>
+    <scope>source.js</scope>
+    <description>getOverlay</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getActive]]></content>
+    <tabTrigger>getActive</tabTrigger>
+    <scope>source.js</scope>
+    <description>getActive</description>
+</snippet>

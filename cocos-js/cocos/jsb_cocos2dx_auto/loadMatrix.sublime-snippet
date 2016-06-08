@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadMatrix]]></content>
+    <tabTrigger>loadMatrix</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadMatrix</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getGridSize]]></content>
+    <tabTrigger>getGridSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getGridSize</description>
+</snippet>

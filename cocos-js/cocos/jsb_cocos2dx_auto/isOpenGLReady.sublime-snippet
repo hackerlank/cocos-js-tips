@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isOpenGLReady]]></content>
+    <tabTrigger>isOpenGLReady</tabTrigger>
+    <scope>source.js</scope>
+    <description>isOpenGLReady</description>
+</snippet>

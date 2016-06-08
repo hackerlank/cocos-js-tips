@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enumerateChildren]]></content>
+    <tabTrigger>enumerateChildren</tabTrigger>
+    <scope>source.js</scope>
+    <description>enumerateChildren</description>
+</snippet>

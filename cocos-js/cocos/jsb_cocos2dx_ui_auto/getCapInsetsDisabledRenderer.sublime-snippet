@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCapInsetsDisabledRenderer]]></content>
+    <tabTrigger>getCapInsetsDisabledRenderer</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCapInsetsDisabledRenderer</description>
+</snippet>

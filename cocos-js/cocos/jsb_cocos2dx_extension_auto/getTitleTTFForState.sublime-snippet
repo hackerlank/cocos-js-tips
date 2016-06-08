@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitleTTFForState]]></content>
+    <tabTrigger>getTitleTTFForState</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTitleTTFForState</description>
+</snippet>

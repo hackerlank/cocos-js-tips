@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTrackCompleteListener]]></content>
+    <tabTrigger>setTrackCompleteListener</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTrackCompleteListener</description>
+</snippet>

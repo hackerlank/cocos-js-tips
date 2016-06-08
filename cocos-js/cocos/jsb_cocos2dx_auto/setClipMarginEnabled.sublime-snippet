@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setClipMarginEnabled]]></content>
+    <tabTrigger>setClipMarginEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setClipMarginEnabled</description>
+</snippet>

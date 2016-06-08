@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cleanup]]></content>
+    <tabTrigger>cleanup</tabTrigger>
+    <scope>source.js</scope>
+    <description>cleanup</description>
+</snippet>

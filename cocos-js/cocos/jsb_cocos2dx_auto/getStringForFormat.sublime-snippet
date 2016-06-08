@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getStringForFormat]]></content>
+    <tabTrigger>getStringForFormat</tabTrigger>
+    <scope>source.js</scope>
+    <description>getStringForFormat</description>
+</snippet>

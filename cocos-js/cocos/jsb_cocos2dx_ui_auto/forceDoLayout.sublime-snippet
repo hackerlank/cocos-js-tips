@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[forceDoLayout]]></content>
+    <tabTrigger>forceDoLayout</tabTrigger>
+    <scope>source.js</scope>
+    <description>forceDoLayout</description>
+</snippet>

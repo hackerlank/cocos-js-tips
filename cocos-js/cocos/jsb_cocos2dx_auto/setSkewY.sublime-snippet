@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSkewY]]></content>
+    <tabTrigger>setSkewY</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSkewY</description>
+</snippet>

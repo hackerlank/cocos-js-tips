@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getGroupName]]></content>
+    <tabTrigger>getGroupName</tabTrigger>
+    <scope>source.js</scope>
+    <description>getGroupName</description>
+</snippet>

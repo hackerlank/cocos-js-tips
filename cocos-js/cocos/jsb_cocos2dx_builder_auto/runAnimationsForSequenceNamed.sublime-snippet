@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[runAnimationsForSequenceNamed]]></content>
+    <tabTrigger>runAnimationsForSequenceNamed</tabTrigger>
+    <scope>source.js</scope>
+    <description>runAnimationsForSequenceNamed</description>
+</snippet>

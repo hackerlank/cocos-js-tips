@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawCardinalSpline]]></content>
+    <tabTrigger>drawCardinalSpline</tabTrigger>
+    <scope>source.js</scope>
+    <description>drawCardinalSpline</description>
+</snippet>

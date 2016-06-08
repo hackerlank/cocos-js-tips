@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[resumeEffect]]></content>
+    <tabTrigger>resumeEffect</tabTrigger>
+    <scope>source.js</scope>
+    <description>resumeEffect</description>
+</snippet>

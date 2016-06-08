@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDebugSlotsEnabled]]></content>
+    <tabTrigger>getDebugSlotsEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDebugSlotsEnabled</description>
+</snippet>

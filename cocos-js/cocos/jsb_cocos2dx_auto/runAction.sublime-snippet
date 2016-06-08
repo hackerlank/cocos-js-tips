@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[runAction]]></content>
+    <tabTrigger>runAction</tabTrigger>
+    <scope>source.js</scope>
+    <description>runAction</description>
+</snippet>

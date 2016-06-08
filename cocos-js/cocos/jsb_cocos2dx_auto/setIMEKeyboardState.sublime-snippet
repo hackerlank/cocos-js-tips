@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIMEKeyboardState]]></content>
+    <tabTrigger>setIMEKeyboardState</tabTrigger>
+    <scope>source.js</scope>
+    <description>setIMEKeyboardState</description>
+</snippet>

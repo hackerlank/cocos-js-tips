@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAllProtectedChildren]]></content>
+    <tabTrigger>removeAllProtectedChildren</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeAllProtectedChildren</description>
+</snippet>

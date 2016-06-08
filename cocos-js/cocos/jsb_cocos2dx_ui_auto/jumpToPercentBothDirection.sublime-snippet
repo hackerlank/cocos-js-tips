@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[jumpToPercentBothDirection]]></content>
+    <tabTrigger>jumpToPercentBothDirection</tabTrigger>
+    <scope>source.js</scope>
+    <description>jumpToPercentBothDirection</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAntiAliasTexParameters]]></content>
+    <tabTrigger>setAntiAliasTexParameters</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAntiAliasTexParameters</description>
+</snippet>

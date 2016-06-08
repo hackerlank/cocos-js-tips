@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadFromFile]]></content>
+    <tabTrigger>loadFromFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadFromFile</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[turnOnTile]]></content>
+    <tabTrigger>turnOnTile</tabTrigger>
+    <scope>source.js</scope>
+    <description>turnOnTile</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformCallback]]></content>
+    <tabTrigger>setUniformCallback</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUniformCallback</description>
+</snippet>

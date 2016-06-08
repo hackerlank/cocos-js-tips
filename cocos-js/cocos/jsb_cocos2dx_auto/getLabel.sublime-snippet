@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLabel]]></content>
+    <tabTrigger>getLabel</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLabel</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isSwallowTouches]]></content>
+    <tabTrigger>isSwallowTouches</tabTrigger>
+    <scope>source.js</scope>
+    <description>isSwallowTouches</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onTextFieldDeleteBackward]]></content>
+    <tabTrigger>onTextFieldDeleteBackward</tabTrigger>
+    <scope>source.js</scope>
+    <description>onTextFieldDeleteBackward</description>
+</snippet>

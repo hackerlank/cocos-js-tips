@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableParticle]]></content>
+    <tabTrigger>disableParticle</tabTrigger>
+    <scope>source.js</scope>
+    <description>disableParticle</description>
+</snippet>

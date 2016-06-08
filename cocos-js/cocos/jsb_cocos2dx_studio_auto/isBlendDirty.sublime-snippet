@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isBlendDirty]]></content>
+    <tabTrigger>isBlendDirty</tabTrigger>
+    <scope>source.js</scope>
+    <description>isBlendDirty</description>
+</snippet>

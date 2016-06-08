@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSelectedThumbSprite]]></content>
+    <tabTrigger>setSelectedThumbSprite</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSelectedThumbSprite</description>
+</snippet>

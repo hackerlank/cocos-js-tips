@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBitsPerPixelForFormat]]></content>
+    <tabTrigger>getBitsPerPixelForFormat</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBitsPerPixelForFormat</description>
+</snippet>

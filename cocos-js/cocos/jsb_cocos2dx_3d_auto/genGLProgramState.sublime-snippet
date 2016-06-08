@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[genGLProgramState]]></content>
+    <tabTrigger>genGLProgramState</tabTrigger>
+    <scope>source.js</scope>
+    <description>genGLProgramState</description>
+</snippet>

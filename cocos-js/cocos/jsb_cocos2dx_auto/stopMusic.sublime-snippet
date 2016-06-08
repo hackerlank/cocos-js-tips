@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stopMusic]]></content>
+    <tabTrigger>stopMusic</tabTrigger>
+    <scope>source.js</scope>
+    <description>stopMusic</description>
+</snippet>

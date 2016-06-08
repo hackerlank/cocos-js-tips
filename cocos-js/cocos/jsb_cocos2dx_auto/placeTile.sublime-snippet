@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[placeTile]]></content>
+    <tabTrigger>placeTile</tabTrigger>
+    <scope>source.js</scope>
+    <description>placeTile</description>
+</snippet>

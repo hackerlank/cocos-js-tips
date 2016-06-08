@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateOffsetPoint]]></content>
+    <tabTrigger>updateOffsetPoint</tabTrigger>
+    <scope>source.js</scope>
+    <description>updateOffsetPoint</description>
+</snippet>

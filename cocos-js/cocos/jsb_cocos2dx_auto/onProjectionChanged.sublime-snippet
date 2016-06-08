@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onProjectionChanged]]></content>
+    <tabTrigger>onProjectionChanged</tabTrigger>
+    <scope>source.js</scope>
+    <description>onProjectionChanged</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createDirectory]]></content>
+    <tabTrigger>createDirectory</tabTrigger>
+    <scope>source.js</scope>
+    <description>createDirectory</description>
+</snippet>

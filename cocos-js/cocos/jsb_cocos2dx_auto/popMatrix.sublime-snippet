@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[popMatrix]]></content>
+    <tabTrigger>popMatrix</tabTrigger>
+    <scope>source.js</scope>
+    <description>popMatrix</description>
+</snippet>

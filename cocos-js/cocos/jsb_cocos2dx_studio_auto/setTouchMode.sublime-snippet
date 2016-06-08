@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTouchMode]]></content>
+    <tabTrigger>setTouchMode</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTouchMode</description>
+</snippet>

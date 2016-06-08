@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addMesh]]></content>
+    <tabTrigger>addMesh</tabTrigger>
+    <scope>source.js</scope>
+    <description>addMesh</description>
+</snippet>

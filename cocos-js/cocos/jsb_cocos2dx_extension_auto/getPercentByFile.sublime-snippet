@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPercentByFile]]></content>
+    <tabTrigger>getPercentByFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>getPercentByFile</description>
+</snippet>

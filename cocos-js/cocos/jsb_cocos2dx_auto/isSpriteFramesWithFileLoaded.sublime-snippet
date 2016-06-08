@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isSpriteFramesWithFileLoaded]]></content>
+    <tabTrigger>isSpriteFramesWithFileLoaded</tabTrigger>
+    <scope>source.js</scope>
+    <description>isSpriteFramesWithFileLoaded</description>
+</snippet>

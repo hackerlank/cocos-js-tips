@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getIntersectionPoint]]></content>
+    <tabTrigger>getIntersectionPoint</tabTrigger>
+    <scope>source.js</scope>
+    <description>getIntersectionPoint</description>
+</snippet>

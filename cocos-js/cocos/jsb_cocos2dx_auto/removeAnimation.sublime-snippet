@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeAnimation]]></content>
+    <tabTrigger>removeAnimation</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeAnimation</description>
+</snippet>

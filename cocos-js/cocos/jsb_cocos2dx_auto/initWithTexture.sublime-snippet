@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTexture]]></content>
+    <tabTrigger>initWithTexture</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithTexture</description>
+</snippet>

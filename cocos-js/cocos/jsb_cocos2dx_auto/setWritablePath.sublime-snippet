@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setWritablePath]]></content>
+    <tabTrigger>setWritablePath</tabTrigger>
+    <scope>source.js</scope>
+    <description>setWritablePath</description>
+</snippet>

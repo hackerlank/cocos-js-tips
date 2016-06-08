@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBatchNode]]></content>
+    <tabTrigger>getBatchNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBatchNode</description>
+</snippet>

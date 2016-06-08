@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[containPoint]]></content>
+    <tabTrigger>containPoint</tabTrigger>
+    <scope>source.js</scope>
+    <description>containPoint</description>
+</snippet>

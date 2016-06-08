@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getInstance]]></content>
+    <tabTrigger>getInstance</tabTrigger>
+    <scope>source.js</scope>
+    <description>getInstance</description>
+</snippet>

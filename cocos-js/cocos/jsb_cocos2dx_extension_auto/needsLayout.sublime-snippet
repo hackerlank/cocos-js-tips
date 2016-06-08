@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[needsLayout]]></content>
+    <tabTrigger>needsLayout</tabTrigger>
+    <scope>source.js</scope>
+    <description>needsLayout</description>
+</snippet>

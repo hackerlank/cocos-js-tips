@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updatePosition]]></content>
+    <tabTrigger>updatePosition</tabTrigger>
+    <scope>source.js</scope>
+    <description>updatePosition</description>
+</snippet>

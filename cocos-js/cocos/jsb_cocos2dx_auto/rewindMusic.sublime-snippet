@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rewindMusic]]></content>
+    <tabTrigger>rewindMusic</tabTrigger>
+    <scope>source.js</scope>
+    <description>rewindMusic</description>
+</snippet>

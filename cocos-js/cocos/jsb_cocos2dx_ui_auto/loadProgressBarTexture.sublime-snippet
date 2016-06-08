@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadProgressBarTexture]]></content>
+    <tabTrigger>loadProgressBarTexture</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadProgressBarTexture</description>
+</snippet>

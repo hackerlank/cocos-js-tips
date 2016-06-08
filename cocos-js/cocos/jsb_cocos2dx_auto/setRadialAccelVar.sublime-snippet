@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRadialAccelVar]]></content>
+    <tabTrigger>setRadialAccelVar</tabTrigger>
+    <scope>source.js</scope>
+    <description>setRadialAccelVar</description>
+</snippet>

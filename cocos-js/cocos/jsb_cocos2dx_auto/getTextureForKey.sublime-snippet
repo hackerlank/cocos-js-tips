@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTextureForKey]]></content>
+    <tabTrigger>getTextureForKey</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTextureForKey</description>
+</snippet>

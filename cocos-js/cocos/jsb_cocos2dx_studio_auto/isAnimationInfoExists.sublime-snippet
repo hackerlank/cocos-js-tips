@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isAnimationInfoExists]]></content>
+    <tabTrigger>isAnimationInfoExists</tabTrigger>
+    <scope>source.js</scope>
+    <description>isAnimationInfoExists</description>
+</snippet>

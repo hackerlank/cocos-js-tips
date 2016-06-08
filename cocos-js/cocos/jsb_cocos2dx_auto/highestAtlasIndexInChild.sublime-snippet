@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[highestAtlasIndexInChild]]></content>
+    <tabTrigger>highestAtlasIndexInChild</tabTrigger>
+    <scope>source.js</scope>
+    <description>highestAtlasIndexInChild</description>
+</snippet>

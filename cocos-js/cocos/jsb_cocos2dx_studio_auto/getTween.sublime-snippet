@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTween]]></content>
+    <tabTrigger>getTween</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTween</description>
+</snippet>

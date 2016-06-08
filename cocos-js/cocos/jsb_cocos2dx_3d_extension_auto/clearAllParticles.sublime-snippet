@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearAllParticles]]></content>
+    <tabTrigger>clearAllParticles</tabTrigger>
+    <scope>source.js</scope>
+    <description>clearAllParticles</description>
+</snippet>

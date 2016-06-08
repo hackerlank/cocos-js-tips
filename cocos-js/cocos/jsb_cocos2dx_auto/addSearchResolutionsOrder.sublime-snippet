@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addSearchResolutionsOrder]]></content>
+    <tabTrigger>addSearchResolutionsOrder</tabTrigger>
+    <scope>source.js</scope>
+    <description>addSearchResolutionsOrder</description>
+</snippet>

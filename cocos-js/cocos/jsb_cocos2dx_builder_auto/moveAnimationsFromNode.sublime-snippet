@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[moveAnimationsFromNode]]></content>
+    <tabTrigger>moveAnimationsFromNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>moveAnimationsFromNode</description>
+</snippet>

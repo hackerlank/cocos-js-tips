@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[replaceScene]]></content>
+    <tabTrigger>replaceScene</tabTrigger>
+    <scope>source.js</scope>
+    <description>replaceScene</description>
+</snippet>

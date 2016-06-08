@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bold]]></content>
+    <tabTrigger>bold</tabTrigger>
+    <scope>source.js</scope>
+    <description>bold</description>
+</snippet>

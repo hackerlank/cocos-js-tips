@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setupTiles]]></content>
+    <tabTrigger>setupTiles</tabTrigger>
+    <scope>source.js</scope>
+    <description>setupTiles</description>
+</snippet>

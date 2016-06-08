@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCurrentMovementID]]></content>
+    <tabTrigger>getCurrentMovementID</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCurrentMovementID</description>
+</snippet>

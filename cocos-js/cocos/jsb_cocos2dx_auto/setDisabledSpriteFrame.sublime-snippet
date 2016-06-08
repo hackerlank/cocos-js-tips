@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisabledSpriteFrame]]></content>
+    <tabTrigger>setDisabledSpriteFrame</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDisabledSpriteFrame</description>
+</snippet>

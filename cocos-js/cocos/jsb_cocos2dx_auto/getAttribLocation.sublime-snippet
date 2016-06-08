@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAttribLocation]]></content>
+    <tabTrigger>getAttribLocation</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAttribLocation</description>
+</snippet>

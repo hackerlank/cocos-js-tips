@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeFromPhysicsWorld]]></content>
+    <tabTrigger>removeFromPhysicsWorld</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeFromPhysicsWorld</description>
+</snippet>

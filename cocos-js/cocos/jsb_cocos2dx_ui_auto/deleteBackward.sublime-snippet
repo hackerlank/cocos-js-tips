@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[deleteBackward]]></content>
+    <tabTrigger>deleteBackward</tabTrigger>
+    <scope>source.js</scope>
+    <description>deleteBackward</description>
+</snippet>

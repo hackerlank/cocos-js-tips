@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[performFunctionInCocosThread]]></content>
+    <tabTrigger>performFunctionInCocosThread</tabTrigger>
+    <scope>source.js</scope>
+    <description>performFunctionInCocosThread</description>
+</snippet>

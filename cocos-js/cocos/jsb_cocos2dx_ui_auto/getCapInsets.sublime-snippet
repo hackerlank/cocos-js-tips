@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCapInsets]]></content>
+    <tabTrigger>getCapInsets</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCapInsets</description>
+</snippet>

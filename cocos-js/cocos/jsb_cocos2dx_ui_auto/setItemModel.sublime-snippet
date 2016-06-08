@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setItemModel]]></content>
+    <tabTrigger>setItemModel</tabTrigger>
+    <scope>source.js</scope>
+    <description>setItemModel</description>
+</snippet>

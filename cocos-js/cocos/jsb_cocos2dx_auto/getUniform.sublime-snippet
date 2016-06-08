@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUniform]]></content>
+    <tabTrigger>getUniform</tabTrigger>
+    <scope>source.js</scope>
+    <description>getUniform</description>
+</snippet>

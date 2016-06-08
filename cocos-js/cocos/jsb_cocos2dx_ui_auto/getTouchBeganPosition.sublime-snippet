@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTouchBeganPosition]]></content>
+    <tabTrigger>getTouchBeganPosition</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTouchBeganPosition</description>
+</snippet>

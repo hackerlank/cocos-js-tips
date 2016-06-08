@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPopupNotify]]></content>
+    <tabTrigger>setPopupNotify</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPopupNotify</description>
+</snippet>

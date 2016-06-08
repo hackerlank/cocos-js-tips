@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithAnimation]]></content>
+    <tabTrigger>initWithAnimation</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithAnimation</description>
+</snippet>

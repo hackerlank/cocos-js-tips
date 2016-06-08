@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[endToLua]]></content>
+    <tabTrigger>endToLua</tabTrigger>
+    <scope>source.js</scope>
+    <description>endToLua</description>
+</snippet>

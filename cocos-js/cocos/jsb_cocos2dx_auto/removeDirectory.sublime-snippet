@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeDirectory]]></content>
+    <tabTrigger>removeDirectory</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeDirectory</description>
+</snippet>

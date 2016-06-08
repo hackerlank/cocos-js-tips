@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getViewProjectionMatrix]]></content>
+    <tabTrigger>getViewProjectionMatrix</tabTrigger>
+    <scope>source.js</scope>
+    <description>getViewProjectionMatrix</description>
+</snippet>

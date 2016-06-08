@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[switchTo]]></content>
+    <tabTrigger>switchTo</tabTrigger>
+    <scope>source.js</scope>
+    <description>switchTo</description>
+</snippet>

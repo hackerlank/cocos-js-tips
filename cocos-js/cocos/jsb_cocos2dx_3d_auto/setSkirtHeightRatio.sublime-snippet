@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSkirtHeightRatio]]></content>
+    <tabTrigger>setSkirtHeightRatio</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSkirtHeightRatio</description>
+</snippet>

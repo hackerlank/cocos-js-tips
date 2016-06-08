@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisplayFrame]]></content>
+    <tabTrigger>setDisplayFrame</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDisplayFrame</description>
+</snippet>

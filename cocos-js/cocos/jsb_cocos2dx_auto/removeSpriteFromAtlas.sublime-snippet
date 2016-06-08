@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeSpriteFromAtlas]]></content>
+    <tabTrigger>removeSpriteFromAtlas</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeSpriteFromAtlas</description>
+</snippet>

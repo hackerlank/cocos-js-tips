@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setButton]]></content>
+    <tabTrigger>setButton</tabTrigger>
+    <scope>source.js</scope>
+    <description>setButton</description>
+</snippet>

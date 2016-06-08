@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSearchPaths]]></content>
+    <tabTrigger>getSearchPaths</tabTrigger>
+    <scope>source.js</scope>
+    <description>getSearchPaths</description>
+</snippet>

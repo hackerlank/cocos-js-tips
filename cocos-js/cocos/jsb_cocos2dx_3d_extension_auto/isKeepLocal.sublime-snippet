@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isKeepLocal]]></content>
+    <tabTrigger>isKeepLocal</tabTrigger>
+    <scope>source.js</scope>
+    <description>isKeepLocal</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updatePhysicsBodyTransform]]></content>
+    <tabTrigger>updatePhysicsBodyTransform</tabTrigger>
+    <scope>source.js</scope>
+    <description>updatePhysicsBodyTransform</description>
+</snippet>

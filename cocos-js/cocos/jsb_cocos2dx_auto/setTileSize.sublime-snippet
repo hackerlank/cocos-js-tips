@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTileSize]]></content>
+    <tabTrigger>setTileSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTileSize</description>
+</snippet>

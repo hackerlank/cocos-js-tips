@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableOutline]]></content>
+    <tabTrigger>enableOutline</tabTrigger>
+    <scope>source.js</scope>
+    <description>enableOutline</description>
+</snippet>

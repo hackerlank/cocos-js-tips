@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCurSelectedIndex]]></content>
+    <tabTrigger>getCurSelectedIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCurSelectedIndex</description>
+</snippet>

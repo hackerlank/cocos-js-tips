@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDecorativeDisplayByIndex]]></content>
+    <tabTrigger>getDecorativeDisplayByIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>getDecorativeDisplayByIndex</description>
+</snippet>

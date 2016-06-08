@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setReuseGrid]]></content>
+    <tabTrigger>setReuseGrid</tabTrigger>
+    <scope>source.js</scope>
+    <description>setReuseGrid</description>
+</snippet>

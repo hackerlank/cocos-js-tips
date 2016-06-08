@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSequenceDuration]]></content>
+    <tabTrigger>getSequenceDuration</tabTrigger>
+    <scope>source.js</scope>
+    <description>getSequenceDuration</description>
+</snippet>

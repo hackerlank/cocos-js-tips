@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getProcessScale]]></content>
+    <tabTrigger>getProcessScale</tabTrigger>
+    <scope>source.js</scope>
+    <description>getProcessScale</description>
+</snippet>

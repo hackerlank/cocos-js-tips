@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSelectedImage]]></content>
+    <tabTrigger>setSelectedImage</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSelectedImage</description>
+</snippet>

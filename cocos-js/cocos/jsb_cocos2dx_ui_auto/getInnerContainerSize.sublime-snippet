@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getInnerContainerSize]]></content>
+    <tabTrigger>getInnerContainerSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getInnerContainerSize</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[match]]></content>
+    <tabTrigger>match</tabTrigger>
+    <scope>source.js</scope>
+    <description>match</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lookAt]]></content>
+    <tabTrigger>lookAt</tabTrigger>
+    <scope>source.js</scope>
+    <description>lookAt</description>
+</snippet>

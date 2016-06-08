@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[afterAsyncLoad]]></content>
+    <tabTrigger>afterAsyncLoad</tabTrigger>
+    <scope>source.js</scope>
+    <description>afterAsyncLoad</description>
+</snippet>

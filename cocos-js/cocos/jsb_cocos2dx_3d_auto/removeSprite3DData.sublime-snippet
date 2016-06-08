@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeSprite3DData]]></content>
+    <tabTrigger>removeSprite3DData</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeSprite3DData</description>
+</snippet>

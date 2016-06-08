@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getColorSpaceHolder]]></content>
+    <tabTrigger>getColorSpaceHolder</tabTrigger>
+    <scope>source.js</scope>
+    <description>getColorSpaceHolder</description>
+</snippet>

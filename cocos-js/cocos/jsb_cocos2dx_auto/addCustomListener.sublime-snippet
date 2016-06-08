@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addCustomListener]]></content>
+    <tabTrigger>addCustomListener</tabTrigger>
+    <scope>source.js</scope>
+    <description>addCustomListener</description>
+</snippet>

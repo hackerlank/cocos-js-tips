@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSlider]]></content>
+    <tabTrigger>setSlider</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSlider</description>
+</snippet>

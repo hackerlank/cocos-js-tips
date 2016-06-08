@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBlendFunc]]></content>
+    <tabTrigger>setBlendFunc</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBlendFunc</description>
+</snippet>

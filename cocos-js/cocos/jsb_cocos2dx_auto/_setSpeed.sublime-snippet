@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[_setSpeed]]></content>
+    <tabTrigger>_setSpeed</tabTrigger>
+    <scope>source.js</scope>
+    <description>_setSpeed</description>
+</snippet>

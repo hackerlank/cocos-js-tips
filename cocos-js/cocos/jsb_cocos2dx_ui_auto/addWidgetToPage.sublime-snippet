@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addWidgetToPage]]></content>
+    <tabTrigger>addWidgetToPage</tabTrigger>
+    <scope>source.js</scope>
+    <description>addWidgetToPage</description>
+</snippet>

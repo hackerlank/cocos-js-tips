@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithSprites]]></content>
+    <tabTrigger>initWithSprites</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithSprites</description>
+</snippet>

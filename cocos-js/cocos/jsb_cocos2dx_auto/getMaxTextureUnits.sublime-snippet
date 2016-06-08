@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMaxTextureUnits]]></content>
+    <tabTrigger>getMaxTextureUnits</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMaxTextureUnits</description>
+</snippet>

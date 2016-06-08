@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setChildArmature]]></content>
+    <tabTrigger>setChildArmature</tabTrigger>
+    <scope>source.js</scope>
+    <description>setChildArmature</description>
+</snippet>

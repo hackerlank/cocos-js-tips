@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[didNotSelectSelf]]></content>
+    <tabTrigger>didNotSelectSelf</tabTrigger>
+    <scope>source.js</scope>
+    <description>didNotSelectSelf</description>
+</snippet>

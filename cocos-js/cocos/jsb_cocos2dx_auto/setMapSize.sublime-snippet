@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMapSize]]></content>
+    <tabTrigger>setMapSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMapSize</description>
+</snippet>

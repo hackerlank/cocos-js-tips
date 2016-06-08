@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBMFontFilePath]]></content>
+    <tabTrigger>getBMFontFilePath</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBMFontFilePath</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRectForGID]]></content>
+    <tabTrigger>getRectForGID</tabTrigger>
+    <scope>source.js</scope>
+    <description>getRectForGID</description>
+</snippet>

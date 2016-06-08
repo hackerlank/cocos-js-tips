@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithItem]]></content>
+    <tabTrigger>initWithItem</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithItem</description>
+</snippet>

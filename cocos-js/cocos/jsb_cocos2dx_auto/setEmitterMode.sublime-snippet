@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEmitterMode]]></content>
+    <tabTrigger>setEmitterMode</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEmitterMode</description>
+</snippet>

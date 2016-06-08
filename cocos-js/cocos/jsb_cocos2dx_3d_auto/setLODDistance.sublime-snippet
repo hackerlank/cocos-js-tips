@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLODDistance]]></content>
+    <tabTrigger>setLODDistance</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLODDistance</description>
+</snippet>

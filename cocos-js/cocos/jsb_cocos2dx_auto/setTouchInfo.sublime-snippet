@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTouchInfo]]></content>
+    <tabTrigger>setTouchInfo</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTouchInfo</description>
+</snippet>

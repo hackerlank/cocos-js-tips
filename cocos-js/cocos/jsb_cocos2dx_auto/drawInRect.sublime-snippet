@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[drawInRect]]></content>
+    <tabTrigger>drawInRect</tabTrigger>
+    <scope>source.js</scope>
+    <description>drawInRect</description>
+</snippet>

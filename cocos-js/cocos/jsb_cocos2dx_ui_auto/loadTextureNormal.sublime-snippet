@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadTextureNormal]]></content>
+    <tabTrigger>loadTextureNormal</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadTextureNormal</description>
+</snippet>

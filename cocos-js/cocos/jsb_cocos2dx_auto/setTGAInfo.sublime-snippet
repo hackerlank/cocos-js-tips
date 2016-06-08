@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTGAInfo]]></content>
+    <tabTrigger>setTGAInfo</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTGAInfo</description>
+</snippet>

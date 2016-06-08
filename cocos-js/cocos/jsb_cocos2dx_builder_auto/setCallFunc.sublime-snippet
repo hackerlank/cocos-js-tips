@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCallFunc]]></content>
+    <tabTrigger>setCallFunc</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCallFunc</description>
+</snippet>

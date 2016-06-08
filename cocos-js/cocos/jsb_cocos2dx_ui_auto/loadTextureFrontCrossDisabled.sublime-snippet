@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadTextureFrontCrossDisabled]]></content>
+    <tabTrigger>loadTextureFrontCrossDisabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadTextureFrontCrossDisabled</description>
+</snippet>

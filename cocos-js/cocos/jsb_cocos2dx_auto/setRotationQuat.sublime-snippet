@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRotationQuat]]></content>
+    <tabTrigger>setRotationQuat</tabTrigger>
+    <scope>source.js</scope>
+    <description>setRotationQuat</description>
+</snippet>

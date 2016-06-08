@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTextAlignment]]></content>
+    <tabTrigger>getTextAlignment</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTextAlignment</description>
+</snippet>

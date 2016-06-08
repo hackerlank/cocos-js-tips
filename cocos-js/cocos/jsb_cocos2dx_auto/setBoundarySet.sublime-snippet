@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBoundarySet]]></content>
+    <tabTrigger>setBoundarySet</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBoundarySet</description>
+</snippet>

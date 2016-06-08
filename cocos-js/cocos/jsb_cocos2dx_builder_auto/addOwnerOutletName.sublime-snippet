@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addOwnerOutletName]]></content>
+    <tabTrigger>addOwnerOutletName</tabTrigger>
+    <scope>source.js</scope>
+    <description>addOwnerOutletName</description>
+</snippet>

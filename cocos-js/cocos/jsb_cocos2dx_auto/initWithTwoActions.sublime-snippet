@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTwoActions]]></content>
+    <tabTrigger>initWithTwoActions</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithTwoActions</description>
+</snippet>

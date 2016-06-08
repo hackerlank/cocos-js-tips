@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParticleQuota]]></content>
+    <tabTrigger>getParticleQuota</tabTrigger>
+    <scope>source.js</scope>
+    <description>getParticleQuota</description>
+</snippet>

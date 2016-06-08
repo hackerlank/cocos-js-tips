@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createWithSystemFont]]></content>
+    <tabTrigger>createWithSystemFont</tabTrigger>
+    <scope>source.js</scope>
+    <description>createWithSystemFont</description>
+</snippet>

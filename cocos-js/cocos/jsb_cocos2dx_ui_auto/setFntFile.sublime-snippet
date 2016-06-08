@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFntFile]]></content>
+    <tabTrigger>setFntFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>setFntFile</description>
+</snippet>

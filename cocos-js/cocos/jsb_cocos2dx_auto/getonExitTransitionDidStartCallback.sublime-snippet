@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getonExitTransitionDidStartCallback]]></content>
+    <tabTrigger>getonExitTransitionDidStartCallback</tabTrigger>
+    <scope>source.js</scope>
+    <description>getonExitTransitionDidStartCallback</description>
+</snippet>

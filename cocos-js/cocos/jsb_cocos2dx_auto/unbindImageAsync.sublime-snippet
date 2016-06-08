@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unbindImageAsync]]></content>
+    <tabTrigger>unbindImageAsync</tabTrigger>
+    <scope>source.js</scope>
+    <description>unbindImageAsync</description>
+</snippet>

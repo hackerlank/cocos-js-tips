@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getZoomOnTouchDown]]></content>
+    <tabTrigger>getZoomOnTouchDown</tabTrigger>
+    <scope>source.js</scope>
+    <description>getZoomOnTouchDown</description>
+</snippet>

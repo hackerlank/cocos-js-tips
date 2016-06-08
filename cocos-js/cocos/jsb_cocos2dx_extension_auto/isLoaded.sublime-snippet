@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isLoaded]]></content>
+    <tabTrigger>isLoaded</tabTrigger>
+    <scope>source.js</scope>
+    <description>isLoaded</description>
+</snippet>

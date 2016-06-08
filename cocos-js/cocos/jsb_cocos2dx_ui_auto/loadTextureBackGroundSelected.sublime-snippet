@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadTextureBackGroundSelected]]></content>
+    <tabTrigger>loadTextureBackGroundSelected</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadTextureBackGroundSelected</description>
+</snippet>

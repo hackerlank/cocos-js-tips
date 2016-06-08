@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLifeVar]]></content>
+    <tabTrigger>getLifeVar</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLifeVar</description>
+</snippet>

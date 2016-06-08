@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isInertiaScrollEnabled]]></content>
+    <tabTrigger>isInertiaScrollEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isInertiaScrollEnabled</description>
+</snippet>

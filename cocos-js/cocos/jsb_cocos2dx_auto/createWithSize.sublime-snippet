@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createWithSize]]></content>
+    <tabTrigger>createWithSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>createWithSize</description>
+</snippet>

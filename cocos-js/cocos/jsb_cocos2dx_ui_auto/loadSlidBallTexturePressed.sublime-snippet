@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadSlidBallTexturePressed]]></content>
+    <tabTrigger>loadSlidBallTexturePressed</tabTrigger>
+    <scope>source.js</scope>
+    <description>loadSlidBallTexturePressed</description>
+</snippet>

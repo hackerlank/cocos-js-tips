@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[supportsShareableVAO]]></content>
+    <tabTrigger>supportsShareableVAO</tabTrigger>
+    <scope>source.js</scope>
+    <description>supportsShareableVAO</description>
+</snippet>

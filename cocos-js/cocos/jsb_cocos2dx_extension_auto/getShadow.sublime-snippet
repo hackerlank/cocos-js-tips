@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getShadow]]></content>
+    <tabTrigger>getShadow</tabTrigger>
+    <scope>source.js</scope>
+    <description>getShadow</description>
+</snippet>

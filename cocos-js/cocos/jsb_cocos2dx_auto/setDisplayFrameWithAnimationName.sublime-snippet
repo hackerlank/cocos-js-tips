@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDisplayFrameWithAnimationName]]></content>
+    <tabTrigger>setDisplayFrameWithAnimationName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDisplayFrameWithAnimationName</description>
+</snippet>

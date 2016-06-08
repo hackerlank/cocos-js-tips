@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initPerspective]]></content>
+    <tabTrigger>initPerspective</tabTrigger>
+    <scope>source.js</scope>
+    <description>initPerspective</description>
+</snippet>

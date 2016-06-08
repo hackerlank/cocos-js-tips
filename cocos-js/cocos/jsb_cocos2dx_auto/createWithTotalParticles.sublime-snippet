@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createWithTotalParticles]]></content>
+    <tabTrigger>createWithTotalParticles</tabTrigger>
+    <scope>source.js</scope>
+    <description>createWithTotalParticles</description>
+</snippet>

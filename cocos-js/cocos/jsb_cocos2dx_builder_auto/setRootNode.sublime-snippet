@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRootNode]]></content>
+    <tabTrigger>setRootNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>setRootNode</description>
+</snippet>

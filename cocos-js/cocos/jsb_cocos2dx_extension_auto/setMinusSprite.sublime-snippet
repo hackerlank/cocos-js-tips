@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMinusSprite]]></content>
+    <tabTrigger>setMinusSprite</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMinusSprite</description>
+</snippet>

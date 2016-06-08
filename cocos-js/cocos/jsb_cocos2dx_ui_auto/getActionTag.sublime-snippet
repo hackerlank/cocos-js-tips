@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getActionTag]]></content>
+    <tabTrigger>getActionTag</tabTrigger>
+    <scope>source.js</scope>
+    <description>getActionTag</description>
+</snippet>

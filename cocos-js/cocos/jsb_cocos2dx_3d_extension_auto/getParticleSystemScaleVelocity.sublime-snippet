@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParticleSystemScaleVelocity]]></content>
+    <tabTrigger>getParticleSystemScaleVelocity</tabTrigger>
+    <scope>source.js</scope>
+    <description>getParticleSystemScaleVelocity</description>
+</snippet>

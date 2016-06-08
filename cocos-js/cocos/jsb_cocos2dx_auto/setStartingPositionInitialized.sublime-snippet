@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStartingPositionInitialized]]></content>
+    <tabTrigger>setStartingPositionInitialized</tabTrigger>
+    <scope>source.js</scope>
+    <description>setStartingPositionInitialized</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformVec2]]></content>
+    <tabTrigger>setUniformVec2</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUniformVec2</description>
+</snippet>

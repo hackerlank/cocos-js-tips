@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[calculateVertexPoints]]></content>
+    <tabTrigger>calculateVertexPoints</tabTrigger>
+    <scope>source.js</scope>
+    <description>calculateVertexPoints</description>
+</snippet>

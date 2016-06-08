@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createWithFilenames]]></content>
+    <tabTrigger>createWithFilenames</tabTrigger>
+    <scope>source.js</scope>
+    <description>createWithFilenames</description>
+</snippet>

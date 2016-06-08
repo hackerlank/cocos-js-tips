@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getInt]]></content>
+    <tabTrigger>getInt</tabTrigger>
+    <scope>source.js</scope>
+    <description>getInt</description>
+</snippet>

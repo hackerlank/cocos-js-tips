@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCurrentLanguage]]></content>
+    <tabTrigger>getCurrentLanguage</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCurrentLanguage</description>
+</snippet>

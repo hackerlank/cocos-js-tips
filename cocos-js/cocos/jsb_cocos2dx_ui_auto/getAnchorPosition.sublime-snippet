@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAnchorPosition]]></content>
+    <tabTrigger>getAnchorPosition</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAnchorPosition</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[releaseActions]]></content>
+    <tabTrigger>releaseActions</tabTrigger>
+    <scope>source.js</scope>
+    <description>releaseActions</description>
+</snippet>

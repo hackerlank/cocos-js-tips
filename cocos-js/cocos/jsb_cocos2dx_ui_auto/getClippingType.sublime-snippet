@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getClippingType]]></content>
+    <tabTrigger>getClippingType</tabTrigger>
+    <scope>source.js</scope>
+    <description>getClippingType</description>
+</snippet>

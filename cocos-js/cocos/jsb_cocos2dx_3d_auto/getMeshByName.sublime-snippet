@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMeshByName]]></content>
+    <tabTrigger>getMeshByName</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMeshByName</description>
+</snippet>

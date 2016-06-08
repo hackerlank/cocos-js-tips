@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addAttribute]]></content>
+    <tabTrigger>addAttribute</tabTrigger>
+    <scope>source.js</scope>
+    <description>addAttribute</description>
+</snippet>

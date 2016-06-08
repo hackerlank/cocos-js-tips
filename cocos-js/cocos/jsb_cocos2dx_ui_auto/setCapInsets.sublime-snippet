@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCapInsets]]></content>
+    <tabTrigger>setCapInsets</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCapInsets</description>
+</snippet>

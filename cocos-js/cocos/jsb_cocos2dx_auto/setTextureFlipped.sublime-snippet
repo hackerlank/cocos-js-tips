@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTextureFlipped]]></content>
+    <tabTrigger>setTextureFlipped</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTextureFlipped</description>
+</snippet>

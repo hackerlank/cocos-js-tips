@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollToTopLeft]]></content>
+    <tabTrigger>scrollToTopLeft</tabTrigger>
+    <scope>source.js</scope>
+    <description>scrollToTopLeft</description>
+</snippet>

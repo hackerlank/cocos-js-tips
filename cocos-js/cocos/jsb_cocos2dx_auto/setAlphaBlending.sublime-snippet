@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAlphaBlending]]></content>
+    <tabTrigger>setAlphaBlending</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAlphaBlending</description>
+</snippet>

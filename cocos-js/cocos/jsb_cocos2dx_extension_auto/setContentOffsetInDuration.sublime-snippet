@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setContentOffsetInDuration]]></content>
+    <tabTrigger>setContentOffsetInDuration</tabTrigger>
+    <scope>source.js</scope>
+    <description>setContentOffsetInDuration</description>
+</snippet>

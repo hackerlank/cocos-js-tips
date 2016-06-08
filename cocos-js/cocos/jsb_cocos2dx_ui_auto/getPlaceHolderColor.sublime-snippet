@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPlaceHolderColor]]></content>
+    <tabTrigger>getPlaceHolderColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>getPlaceHolderColor</description>
+</snippet>

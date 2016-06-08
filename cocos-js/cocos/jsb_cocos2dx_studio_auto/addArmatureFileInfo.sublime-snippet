@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addArmatureFileInfo]]></content>
+    <tabTrigger>addArmatureFileInfo</tabTrigger>
+    <scope>source.js</scope>
+    <description>addArmatureFileInfo</description>
+</snippet>

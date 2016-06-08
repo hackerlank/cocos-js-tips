@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVisible]]></content>
+    <tabTrigger>setVisible</tabTrigger>
+    <scope>source.js</scope>
+    <description>setVisible</description>
+</snippet>

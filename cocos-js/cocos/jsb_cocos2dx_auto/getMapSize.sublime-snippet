@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMapSize]]></content>
+    <tabTrigger>getMapSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMapSize</description>
+</snippet>

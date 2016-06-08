@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFlippedX]]></content>
+    <tabTrigger>setFlippedX</tabTrigger>
+    <scope>source.js</scope>
+    <description>setFlippedX</description>
+</snippet>

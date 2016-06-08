@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setContentScaleFactor]]></content>
+    <tabTrigger>setContentScaleFactor</tabTrigger>
+    <scope>source.js</scope>
+    <description>setContentScaleFactor</description>
+</snippet>

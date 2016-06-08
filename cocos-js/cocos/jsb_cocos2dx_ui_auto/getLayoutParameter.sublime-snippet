@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLayoutParameter]]></content>
+    <tabTrigger>getLayoutParameter</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLayoutParameter</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setIntensity]]></content>
+    <tabTrigger>setIntensity</tabTrigger>
+    <scope>source.js</scope>
+    <description>setIntensity</description>
+</snippet>

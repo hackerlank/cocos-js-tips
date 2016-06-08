@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMaxDetailMapAmount]]></content>
+    <tabTrigger>setMaxDetailMapAmount</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMaxDetailMapAmount</description>
+</snippet>

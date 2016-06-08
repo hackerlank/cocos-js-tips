@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[changeDisplayWithIndex]]></content>
+    <tabTrigger>changeDisplayWithIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>changeDisplayWithIndex</description>
+</snippet>

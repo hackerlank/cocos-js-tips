@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pollEvents]]></content>
+    <tabTrigger>pollEvents</tabTrigger>
+    <scope>source.js</scope>
+    <description>pollEvents</description>
+</snippet>

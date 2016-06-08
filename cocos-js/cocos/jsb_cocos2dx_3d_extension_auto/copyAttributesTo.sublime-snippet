@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[copyAttributesTo]]></content>
+    <tabTrigger>copyAttributesTo</tabTrigger>
+    <scope>source.js</scope>
+    <description>copyAttributesTo</description>
+</snippet>

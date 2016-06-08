@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setConcave]]></content>
+    <tabTrigger>setConcave</tabTrigger>
+    <scope>source.js</scope>
+    <description>setConcave</description>
+</snippet>

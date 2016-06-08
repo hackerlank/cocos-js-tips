@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRestoreOriginalFrame]]></content>
+    <tabTrigger>getRestoreOriginalFrame</tabTrigger>
+    <scope>source.js</scope>
+    <description>getRestoreOriginalFrame</description>
+</snippet>

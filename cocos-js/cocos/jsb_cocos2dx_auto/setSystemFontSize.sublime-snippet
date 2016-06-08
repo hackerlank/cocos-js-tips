@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setSystemFontSize]]></content>
+    <tabTrigger>setSystemFontSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>setSystemFontSize</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getViewMatrix]]></content>
+    <tabTrigger>getViewMatrix</tabTrigger>
+    <scope>source.js</scope>
+    <description>getViewMatrix</description>
+</snippet>

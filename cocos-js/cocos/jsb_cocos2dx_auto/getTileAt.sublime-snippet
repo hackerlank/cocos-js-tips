@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTileAt]]></content>
+    <tabTrigger>getTileAt</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTileAt</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCascadeColorEnabled]]></content>
+    <tabTrigger>setCascadeColorEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCascadeColorEnabled</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getUserInfo]]></content>
+    <tabTrigger>getUserInfo</tabTrigger>
+    <scope>source.js</scope>
+    <description>getUserInfo</description>
+</snippet>

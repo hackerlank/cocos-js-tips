@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableGlow]]></content>
+    <tabTrigger>enableGlow</tabTrigger>
+    <scope>source.js</scope>
+    <description>enableGlow</description>
+</snippet>

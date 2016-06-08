@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[convertToNodeSpaceAR]]></content>
+    <tabTrigger>convertToNodeSpaceAR</tabTrigger>
+    <scope>source.js</scope>
+    <description>convertToNodeSpaceAR</description>
+</snippet>

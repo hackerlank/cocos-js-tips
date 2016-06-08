@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCustomProperty]]></content>
+    <tabTrigger>getCustomProperty</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCustomProperty</description>
+</snippet>

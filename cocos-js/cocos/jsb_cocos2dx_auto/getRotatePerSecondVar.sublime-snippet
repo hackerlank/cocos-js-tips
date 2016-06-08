@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getRotatePerSecondVar]]></content>
+    <tabTrigger>getRotatePerSecondVar</tabTrigger>
+    <scope>source.js</scope>
+    <description>getRotatePerSecondVar</description>
+</snippet>

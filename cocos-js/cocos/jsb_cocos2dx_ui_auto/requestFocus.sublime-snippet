@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[requestFocus]]></content>
+    <tabTrigger>requestFocus</tabTrigger>
+    <scope>source.js</scope>
+    <description>requestFocus</description>
+</snippet>

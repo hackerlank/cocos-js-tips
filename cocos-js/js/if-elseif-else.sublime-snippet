@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+if (${1:conditions}){
+	${2:--todo}
+}else if (${3:conditions}){
+	${4:--todo}
+}else{
+	${5:--todo}
+}
+]]></content>
+	<tabTrigger>ifee</tabTrigger>
+	<scope>source.js</scope>
+    <description>if-elseif-else</description>
+</snippet>

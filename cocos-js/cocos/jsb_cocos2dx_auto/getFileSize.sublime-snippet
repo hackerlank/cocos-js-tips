@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFileSize]]></content>
+    <tabTrigger>getFileSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>getFileSize</description>
+</snippet>

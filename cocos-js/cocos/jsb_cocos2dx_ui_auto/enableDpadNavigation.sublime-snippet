@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableDpadNavigation]]></content>
+    <tabTrigger>enableDpadNavigation</tabTrigger>
+    <scope>source.js</scope>
+    <description>enableDpadNavigation</description>
+</snippet>

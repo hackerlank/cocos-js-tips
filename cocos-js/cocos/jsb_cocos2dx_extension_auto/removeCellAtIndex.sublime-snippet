@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeCellAtIndex]]></content>
+    <tabTrigger>removeCellAtIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeCellAtIndex</description>
+</snippet>

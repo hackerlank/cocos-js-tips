@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLayerOrientation]]></content>
+    <tabTrigger>setLayerOrientation</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLayerOrientation</description>
+</snippet>

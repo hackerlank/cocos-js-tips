@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getAmplitudeRate]]></content>
+    <tabTrigger>getAmplitudeRate</tabTrigger>
+    <scope>source.js</scope>
+    <description>getAmplitudeRate</description>
+</snippet>

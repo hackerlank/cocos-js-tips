@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getIndex]]></content>
+    <tabTrigger>getIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>getIndex</description>
+</snippet>

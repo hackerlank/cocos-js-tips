@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isTouchEnabled]]></content>
+    <tabTrigger>isTouchEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isTouchEnabled</description>
+</snippet>

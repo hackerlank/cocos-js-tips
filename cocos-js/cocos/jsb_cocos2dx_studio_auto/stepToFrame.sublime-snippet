@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stepToFrame]]></content>
+    <tabTrigger>stepToFrame</tabTrigger>
+    <scope>source.js</scope>
+    <description>stepToFrame</description>
+</snippet>

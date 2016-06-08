@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getIdx]]></content>
+    <tabTrigger>getIdx</tabTrigger>
+    <scope>source.js</scope>
+    <description>getIdx</description>
+</snippet>

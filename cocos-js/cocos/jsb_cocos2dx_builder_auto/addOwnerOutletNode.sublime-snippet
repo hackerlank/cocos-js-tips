@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addOwnerOutletNode]]></content>
+    <tabTrigger>addOwnerOutletNode</tabTrigger>
+    <scope>source.js</scope>
+    <description>addOwnerOutletNode</description>
+</snippet>

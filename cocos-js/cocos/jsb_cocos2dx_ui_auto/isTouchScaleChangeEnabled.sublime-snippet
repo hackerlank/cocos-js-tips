@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isTouchScaleChangeEnabled]]></content>
+    <tabTrigger>isTouchScaleChangeEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isTouchScaleChangeEnabled</description>
+</snippet>

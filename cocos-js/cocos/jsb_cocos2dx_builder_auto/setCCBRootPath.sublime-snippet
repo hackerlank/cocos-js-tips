@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCCBRootPath]]></content>
+    <tabTrigger>setCCBRootPath</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCCBRootPath</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBackgroundSpriteForState]]></content>
+    <tabTrigger>getBackgroundSpriteForState</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBackgroundSpriteForState</description>
+</snippet>

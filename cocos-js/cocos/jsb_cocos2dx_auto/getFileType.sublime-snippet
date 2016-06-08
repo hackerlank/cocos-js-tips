@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFileType]]></content>
+    <tabTrigger>getFileType</tabTrigger>
+    <scope>source.js</scope>
+    <description>getFileType</description>
+</snippet>

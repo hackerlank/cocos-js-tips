@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getZEye]]></content>
+    <tabTrigger>getZEye</tabTrigger>
+    <scope>source.js</scope>
+    <description>getZEye</description>
+</snippet>

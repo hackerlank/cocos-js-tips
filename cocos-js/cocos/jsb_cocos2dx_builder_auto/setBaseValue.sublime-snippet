@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBaseValue]]></content>
+    <tabTrigger>setBaseValue</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBaseValue</description>
+</snippet>

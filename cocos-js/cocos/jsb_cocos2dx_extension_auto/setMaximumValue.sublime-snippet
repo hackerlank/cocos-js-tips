@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMaximumValue]]></content>
+    <tabTrigger>setMaximumValue</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMaximumValue</description>
+</snippet>

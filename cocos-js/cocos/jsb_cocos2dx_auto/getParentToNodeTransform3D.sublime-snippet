@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParentToNodeTransform3D]]></content>
+    <tabTrigger>getParentToNodeTransform3D</tabTrigger>
+    <scope>source.js</scope>
+    <description>getParentToNodeTransform3D</description>
+</snippet>

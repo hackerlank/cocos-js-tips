@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAnimationName]]></content>
+    <tabTrigger>setAnimationName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAnimationName</description>
+</snippet>

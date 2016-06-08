@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setActionManager]]></content>
+    <tabTrigger>setActionManager</tabTrigger>
+    <scope>source.js</scope>
+    <description>setActionManager</description>
+</snippet>

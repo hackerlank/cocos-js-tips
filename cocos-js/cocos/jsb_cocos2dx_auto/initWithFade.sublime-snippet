@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithFade]]></content>
+    <tabTrigger>initWithFade</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithFade</description>
+</snippet>

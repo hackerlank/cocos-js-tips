@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setProgressSprite]]></content>
+    <tabTrigger>setProgressSprite</tabTrigger>
+    <scope>source.js</scope>
+    <description>setProgressSprite</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addFrame]]></content>
+    <tabTrigger>addFrame</tabTrigger>
+    <scope>source.js</scope>
+    <description>addFrame</description>
+</snippet>

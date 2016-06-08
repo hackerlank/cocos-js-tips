@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setResolutionScale]]></content>
+    <tabTrigger>setResolutionScale</tabTrigger>
+    <scope>source.js</scope>
+    <description>setResolutionScale</description>
+</snippet>

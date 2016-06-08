@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getValueVectorFromFile]]></content>
+    <tabTrigger>getValueVectorFromFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>getValueVectorFromFile</description>
+</snippet>

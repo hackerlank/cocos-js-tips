@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMidpoint]]></content>
+    <tabTrigger>setMidpoint</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMidpoint</description>
+</snippet>

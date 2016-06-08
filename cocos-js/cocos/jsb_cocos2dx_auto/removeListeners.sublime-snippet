@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removeListeners]]></content>
+    <tabTrigger>removeListeners</tabTrigger>
+    <scope>source.js</scope>
+    <description>removeListeners</description>
+</snippet>

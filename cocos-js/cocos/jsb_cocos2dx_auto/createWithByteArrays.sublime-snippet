@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createWithByteArrays]]></content>
+    <tabTrigger>createWithByteArrays</tabTrigger>
+    <scope>source.js</scope>
+    <description>createWithByteArrays</description>
+</snippet>

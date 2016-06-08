@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sphericalRadius]]></content>
+    <tabTrigger>sphericalRadius</tabTrigger>
+    <scope>source.js</scope>
+    <description>sphericalRadius</description>
+</snippet>

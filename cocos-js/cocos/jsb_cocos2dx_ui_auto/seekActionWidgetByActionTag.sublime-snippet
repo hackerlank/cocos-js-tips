@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[seekActionWidgetByActionTag]]></content>
+    <tabTrigger>seekActionWidgetByActionTag</tabTrigger>
+    <scope>source.js</scope>
+    <description>seekActionWidgetByActionTag</description>
+</snippet>

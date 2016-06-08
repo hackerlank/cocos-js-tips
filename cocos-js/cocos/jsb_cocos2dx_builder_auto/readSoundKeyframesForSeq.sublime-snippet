@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[readSoundKeyframesForSeq]]></content>
+    <tabTrigger>readSoundKeyframesForSeq</tabTrigger>
+    <scope>source.js</scope>
+    <description>readSoundKeyframesForSeq</description>
+</snippet>

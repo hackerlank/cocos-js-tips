@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clearStencil]]></content>
+    <tabTrigger>clearStencil</tabTrigger>
+    <scope>source.js</scope>
+    <description>clearStencil</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addCCSEventListener]]></content>
+    <tabTrigger>addCCSEventListener</tabTrigger>
+    <scope>source.js</scope>
+    <description>addCCSEventListener</description>
+</snippet>

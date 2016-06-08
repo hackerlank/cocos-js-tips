@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVertexSizeInBytes]]></content>
+    <tabTrigger>getVertexSizeInBytes</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVertexSizeInBytes</description>
+</snippet>

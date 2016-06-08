@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPVRImagesHavePremultipliedAlpha]]></content>
+    <tabTrigger>setPVRImagesHavePremultipliedAlpha</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPVRImagesHavePremultipliedAlpha</description>
+</snippet>

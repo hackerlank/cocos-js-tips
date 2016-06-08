@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[removePage]]></content>
+    <tabTrigger>removePage</tabTrigger>
+    <scope>source.js</scope>
+    <description>removePage</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setEmissionRate]]></content>
+    <tabTrigger>setEmissionRate</tabTrigger>
+    <scope>source.js</scope>
+    <description>setEmissionRate</description>
+</snippet>

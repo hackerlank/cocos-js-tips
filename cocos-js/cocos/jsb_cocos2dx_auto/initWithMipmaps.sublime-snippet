@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithMipmaps]]></content>
+    <tabTrigger>initWithMipmaps</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithMipmaps</description>
+</snippet>

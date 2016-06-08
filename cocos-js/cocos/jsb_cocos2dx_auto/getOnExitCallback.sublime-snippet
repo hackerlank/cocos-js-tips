@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOnExitCallback]]></content>
+    <tabTrigger>getOnExitCallback</tabTrigger>
+    <scope>source.js</scope>
+    <description>getOnExitCallback</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPercentOnlyEnabled]]></content>
+    <tabTrigger>setPercentOnlyEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPercentOnlyEnabled</description>
+</snippet>

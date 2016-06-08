@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[transformTile]]></content>
+    <tabTrigger>transformTile</tabTrigger>
+    <scope>source.js</scope>
+    <description>transformTile</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVisitingCamera]]></content>
+    <tabTrigger>getVisitingCamera</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVisitingCamera</description>
+</snippet>

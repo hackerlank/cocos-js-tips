@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBottomBoundary]]></content>
+    <tabTrigger>getBottomBoundary</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBottomBoundary</description>
+</snippet>

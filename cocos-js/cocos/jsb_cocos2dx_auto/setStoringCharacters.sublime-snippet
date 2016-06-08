@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setStoringCharacters]]></content>
+    <tabTrigger>setStoringCharacters</tabTrigger>
+    <scope>source.js</scope>
+    <description>setStoringCharacters</description>
+</snippet>

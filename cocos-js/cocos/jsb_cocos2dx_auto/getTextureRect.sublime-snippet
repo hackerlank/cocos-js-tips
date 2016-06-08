@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTextureRect]]></content>
+    <tabTrigger>getTextureRect</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTextureRect</description>
+</snippet>

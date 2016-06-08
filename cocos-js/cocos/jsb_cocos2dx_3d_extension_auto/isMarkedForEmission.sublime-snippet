@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isMarkedForEmission]]></content>
+    <tabTrigger>isMarkedForEmission</tabTrigger>
+    <scope>source.js</scope>
+    <description>isMarkedForEmission</description>
+</snippet>

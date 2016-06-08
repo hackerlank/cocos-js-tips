@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isPercentWidthEnabled]]></content>
+    <tabTrigger>isPercentWidthEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isPercentWidthEnabled</description>
+</snippet>

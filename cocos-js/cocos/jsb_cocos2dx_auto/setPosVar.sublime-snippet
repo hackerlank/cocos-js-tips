@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPosVar]]></content>
+    <tabTrigger>setPosVar</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPosVar</description>
+</snippet>

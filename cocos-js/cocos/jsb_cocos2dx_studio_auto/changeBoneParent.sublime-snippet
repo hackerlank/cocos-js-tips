@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[changeBoneParent]]></content>
+    <tabTrigger>changeBoneParent</tabTrigger>
+    <scope>source.js</scope>
+    <description>changeBoneParent</description>
+</snippet>

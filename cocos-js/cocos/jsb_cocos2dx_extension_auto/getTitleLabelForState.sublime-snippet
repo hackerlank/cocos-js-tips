@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTitleLabelForState]]></content>
+    <tabTrigger>getTitleLabelForState</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTitleLabelForState</description>
+</snippet>

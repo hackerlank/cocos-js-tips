@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getWeight]]></content>
+    <tabTrigger>getWeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>getWeight</description>
+</snippet>

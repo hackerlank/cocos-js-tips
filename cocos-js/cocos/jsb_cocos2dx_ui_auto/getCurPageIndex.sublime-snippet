@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCurPageIndex]]></content>
+    <tabTrigger>getCurPageIndex</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCurPageIndex</description>
+</snippet>

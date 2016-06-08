@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRelativeName]]></content>
+    <tabTrigger>setRelativeName</tabTrigger>
+    <scope>source.js</scope>
+    <description>setRelativeName</description>
+</snippet>

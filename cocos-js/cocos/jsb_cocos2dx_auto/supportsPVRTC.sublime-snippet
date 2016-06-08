@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[supportsPVRTC]]></content>
+    <tabTrigger>supportsPVRTC</tabTrigger>
+    <scope>source.js</scope>
+    <description>supportsPVRTC</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBackGroundImage]]></content>
+    <tabTrigger>setBackGroundImage</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBackGroundImage</description>
+</snippet>

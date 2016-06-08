@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithCallback]]></content>
+    <tabTrigger>initWithCallback</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithCallback</description>
+</snippet>

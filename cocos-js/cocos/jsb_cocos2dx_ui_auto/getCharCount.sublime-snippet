@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCharCount]]></content>
+    <tabTrigger>getCharCount</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCharCount</description>
+</snippet>

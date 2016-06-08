@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[insertQuadFromSprite]]></content>
+    <tabTrigger>insertQuadFromSprite</tabTrigger>
+    <scope>source.js</scope>
+    <description>insertQuadFromSprite</description>
+</snippet>

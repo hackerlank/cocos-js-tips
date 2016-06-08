@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTileSet]]></content>
+    <tabTrigger>setTileSet</tabTrigger>
+    <scope>source.js</scope>
+    <description>setTileSet</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getLetter]]></content>
+    <tabTrigger>getLetter</tabTrigger>
+    <scope>source.js</scope>
+    <description>getLetter</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setCurrentFrame]]></content>
+    <tabTrigger>setCurrentFrame</tabTrigger>
+    <scope>source.js</scope>
+    <description>setCurrentFrame</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setOwner]]></content>
+    <tabTrigger>setOwner</tabTrigger>
+    <scope>source.js</scope>
+    <description>setOwner</description>
+</snippet>

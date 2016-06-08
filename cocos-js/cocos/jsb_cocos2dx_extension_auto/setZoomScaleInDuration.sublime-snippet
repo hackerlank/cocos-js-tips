@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setZoomScaleInDuration]]></content>
+    <tabTrigger>setZoomScaleInDuration</tabTrigger>
+    <scope>source.js</scope>
+    <description>setZoomScaleInDuration</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getIndexBuffer]]></content>
+    <tabTrigger>getIndexBuffer</tabTrigger>
+    <scope>source.js</scope>
+    <description>getIndexBuffer</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTimes]]></content>
+    <tabTrigger>initWithTimes</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithTimes</description>
+</snippet>

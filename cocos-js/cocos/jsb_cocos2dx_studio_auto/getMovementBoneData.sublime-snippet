@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMovementBoneData]]></content>
+    <tabTrigger>getMovementBoneData</tabTrigger>
+    <scope>source.js</scope>
+    <description>getMovementBoneData</description>
+</snippet>

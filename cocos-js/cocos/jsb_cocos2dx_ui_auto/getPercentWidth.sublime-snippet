@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getPercentWidth]]></content>
+    <tabTrigger>getPercentWidth</tabTrigger>
+    <scope>source.js</scope>
+    <description>getPercentWidth</description>
+</snippet>

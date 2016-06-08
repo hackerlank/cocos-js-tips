@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pushScene]]></content>
+    <tabTrigger>pushScene</tabTrigger>
+    <scope>source.js</scope>
+    <description>pushScene</description>
+</snippet>

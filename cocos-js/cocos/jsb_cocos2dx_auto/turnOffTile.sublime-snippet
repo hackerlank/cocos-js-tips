@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[turnOffTile]]></content>
+    <tabTrigger>turnOffTile</tabTrigger>
+    <scope>source.js</scope>
+    <description>turnOffTile</description>
+</snippet>

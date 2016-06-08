@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUserObject]]></content>
+    <tabTrigger>setUserObject</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUserObject</description>
+</snippet>

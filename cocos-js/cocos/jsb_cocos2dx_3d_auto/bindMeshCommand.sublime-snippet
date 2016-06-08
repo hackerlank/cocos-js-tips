@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bindMeshCommand]]></content>
+    <tabTrigger>bindMeshCommand</tabTrigger>
+    <scope>source.js</scope>
+    <description>bindMeshCommand</description>
+</snippet>

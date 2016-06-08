@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setUniformMat4]]></content>
+    <tabTrigger>setUniformMat4</tabTrigger>
+    <scope>source.js</scope>
+    <description>setUniformMat4</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[popToSceneStackLevel]]></content>
+    <tabTrigger>popToSceneStackLevel</tabTrigger>
+    <scope>source.js</scope>
+    <description>popToSceneStackLevel</description>
+</snippet>

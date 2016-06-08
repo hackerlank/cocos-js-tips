@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[jumpToRight]]></content>
+    <tabTrigger>jumpToRight</tabTrigger>
+    <scope>source.js</scope>
+    <description>jumpToRight</description>
+</snippet>

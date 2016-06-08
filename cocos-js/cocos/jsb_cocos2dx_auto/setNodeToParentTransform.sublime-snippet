@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNodeToParentTransform]]></content>
+    <tabTrigger>setNodeToParentTransform</tabTrigger>
+    <scope>source.js</scope>
+    <description>setNodeToParentTransform</description>
+</snippet>

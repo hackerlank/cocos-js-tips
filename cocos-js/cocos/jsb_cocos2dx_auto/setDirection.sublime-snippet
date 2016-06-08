@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setDirection]]></content>
+    <tabTrigger>setDirection</tabTrigger>
+    <scope>source.js</scope>
+    <description>setDirection</description>
+</snippet>

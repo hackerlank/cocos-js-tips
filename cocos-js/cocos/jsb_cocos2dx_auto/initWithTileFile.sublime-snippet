@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithTileFile]]></content>
+    <tabTrigger>initWithTileFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithTileFile</description>
+</snippet>

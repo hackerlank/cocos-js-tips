@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setForceDepthWrite]]></content>
+    <tabTrigger>setForceDepthWrite</tabTrigger>
+    <scope>source.js</scope>
+    <description>setForceDepthWrite</description>
+</snippet>

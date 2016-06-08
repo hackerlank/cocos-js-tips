@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCurrentDecorativeDisplay]]></content>
+    <tabTrigger>getCurrentDecorativeDisplay</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCurrentDecorativeDisplay</description>
+</snippet>

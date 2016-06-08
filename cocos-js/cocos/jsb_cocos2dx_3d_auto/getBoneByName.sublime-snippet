@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBoneByName]]></content>
+    <tabTrigger>getBoneByName</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBoneByName</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ignoreAnchorPointForPosition]]></content>
+    <tabTrigger>ignoreAnchorPointForPosition</tabTrigger>
+    <scope>source.js</scope>
+    <description>ignoreAnchorPointForPosition</description>
+</snippet>

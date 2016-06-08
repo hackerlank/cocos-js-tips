@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isPositionPercentYEnabled]]></content>
+    <tabTrigger>isPositionPercentYEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>isPositionPercentYEnabled</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAlpha]]></content>
+    <tabTrigger>setAlpha</tabTrigger>
+    <scope>source.js</scope>
+    <description>setAlpha</description>
+</snippet>

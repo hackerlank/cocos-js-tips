@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isIgnoreContentAdaptWithSize]]></content>
+    <tabTrigger>isIgnoreContentAdaptWithSize</tabTrigger>
+    <scope>source.js</scope>
+    <description>isIgnoreContentAdaptWithSize</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCosOuterAngle]]></content>
+    <tabTrigger>getCosOuterAngle</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCosOuterAngle</description>
+</snippet>

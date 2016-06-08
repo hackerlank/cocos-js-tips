@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getBone]]></content>
+    <tabTrigger>getBone</tabTrigger>
+    <scope>source.js</scope>
+    <description>getBone</description>
+</snippet>

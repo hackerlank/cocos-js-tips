@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setKeepMatrix]]></content>
+    <tabTrigger>setKeepMatrix</tabTrigger>
+    <scope>source.js</scope>
+    <description>setKeepMatrix</description>
+</snippet>

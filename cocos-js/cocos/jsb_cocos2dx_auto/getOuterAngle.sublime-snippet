@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getOuterAngle]]></content>
+    <tabTrigger>getOuterAngle</tabTrigger>
+    <scope>source.js</scope>
+    <description>getOuterAngle</description>
+</snippet>

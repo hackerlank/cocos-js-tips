@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getManifestFileUrl]]></content>
+    <tabTrigger>getManifestFileUrl</tabTrigger>
+    <scope>source.js</scope>
+    <description>getManifestFileUrl</description>
+</snippet>

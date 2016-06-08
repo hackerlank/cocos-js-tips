@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[unscheduleAll]]></content>
+    <tabTrigger>unscheduleAll</tabTrigger>
+    <scope>source.js</scope>
+    <description>unscheduleAll</description>
+</snippet>

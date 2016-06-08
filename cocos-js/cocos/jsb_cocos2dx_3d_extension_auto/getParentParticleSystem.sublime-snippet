@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getParentParticleSystem]]></content>
+    <tabTrigger>getParentParticleSystem</tabTrigger>
+    <scope>source.js</scope>
+    <description>getParentParticleSystem</description>
+</snippet>

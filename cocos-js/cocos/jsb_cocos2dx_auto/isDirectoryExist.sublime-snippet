@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isDirectoryExist]]></content>
+    <tabTrigger>isDirectoryExist</tabTrigger>
+    <scope>source.js</scope>
+    <description>isDirectoryExist</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVertexRect]]></content>
+    <tabTrigger>setVertexRect</tabTrigger>
+    <scope>source.js</scope>
+    <description>setVertexRect</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initWithLabelAndBackgroundSprite]]></content>
+    <tabTrigger>initWithLabelAndBackgroundSprite</tabTrigger>
+    <scope>source.js</scope>
+    <description>initWithLabelAndBackgroundSprite</description>
+</snippet>

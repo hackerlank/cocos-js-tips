@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setMode]]></content>
+    <tabTrigger>setMode</tabTrigger>
+    <scope>source.js</scope>
+    <description>setMode</description>
+</snippet>

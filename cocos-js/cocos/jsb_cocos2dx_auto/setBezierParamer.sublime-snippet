@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setBezierParamer]]></content>
+    <tabTrigger>setBezierParamer</tabTrigger>
+    <scope>source.js</scope>
+    <description>setBezierParamer</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[playWithNames]]></content>
+    <tabTrigger>playWithNames</tabTrigger>
+    <scope>source.js</scope>
+    <description>playWithNames</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[changeLayoutSystemActiveState]]></content>
+    <tabTrigger>changeLayoutSystemActiveState</tabTrigger>
+    <scope>source.js</scope>
+    <description>changeLayoutSystemActiveState</description>
+</snippet>

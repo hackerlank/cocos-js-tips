@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateTransform]]></content>
+    <tabTrigger>updateTransform</tabTrigger>
+    <scope>source.js</scope>
+    <description>updateTransform</description>
+</snippet>

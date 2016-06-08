@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVersionFileUrl]]></content>
+    <tabTrigger>getVersionFileUrl</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVersionFileUrl</description>
+</snippet>

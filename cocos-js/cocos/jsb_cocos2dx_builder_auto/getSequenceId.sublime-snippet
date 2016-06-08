@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getSequenceId]]></content>
+    <tabTrigger>getSequenceId</tabTrigger>
+    <scope>source.js</scope>
+    <description>getSequenceId</description>
+</snippet>

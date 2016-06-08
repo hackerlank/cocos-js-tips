@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getCameraMask]]></content>
+    <tabTrigger>getCameraMask</tabTrigger>
+    <scope>source.js</scope>
+    <description>getCameraMask</description>
+</snippet>

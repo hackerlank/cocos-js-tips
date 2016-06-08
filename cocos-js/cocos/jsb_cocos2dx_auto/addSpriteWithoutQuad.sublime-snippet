@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[addSpriteWithoutQuad]]></content>
+    <tabTrigger>addSpriteWithoutQuad</tabTrigger>
+    <scope>source.js</scope>
+    <description>addSpriteWithoutQuad</description>
+</snippet>

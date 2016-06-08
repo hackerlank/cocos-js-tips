@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getVertexShaderLog]]></content>
+    <tabTrigger>getVertexShaderLog</tabTrigger>
+    <scope>source.js</scope>
+    <description>getVertexShaderLog</description>
+</snippet>

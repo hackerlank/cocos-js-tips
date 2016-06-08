@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setLoops]]></content>
+    <tabTrigger>setLoops</tabTrigger>
+    <scope>source.js</scope>
+    <description>setLoops</description>
+</snippet>

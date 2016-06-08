@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getFloat]]></content>
+    <tabTrigger>getFloat</tabTrigger>
+    <scope>source.js</scope>
+    <description>getFloat</description>
+</snippet>

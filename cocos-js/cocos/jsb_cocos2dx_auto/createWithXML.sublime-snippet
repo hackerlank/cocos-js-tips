@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[createWithXML]]></content>
+    <tabTrigger>createWithXML</tabTrigger>
+    <scope>source.js</scope>
+    <description>createWithXML</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[preloadEffect]]></content>
+    <tabTrigger>preloadEffect</tabTrigger>
+    <scope>source.js</scope>
+    <description>preloadEffect</description>
+</snippet>

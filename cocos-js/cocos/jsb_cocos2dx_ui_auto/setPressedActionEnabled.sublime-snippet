@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPressedActionEnabled]]></content>
+    <tabTrigger>setPressedActionEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPressedActionEnabled</description>
+</snippet>

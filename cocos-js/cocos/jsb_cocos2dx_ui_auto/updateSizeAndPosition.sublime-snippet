@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateSizeAndPosition]]></content>
+    <tabTrigger>updateSizeAndPosition</tabTrigger>
+    <scope>source.js</scope>
+    <description>updateSizeAndPosition</description>
+</snippet>

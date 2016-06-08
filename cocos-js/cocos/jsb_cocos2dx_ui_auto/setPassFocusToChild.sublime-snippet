@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setPassFocusToChild]]></content>
+    <tabTrigger>setPassFocusToChild</tabTrigger>
+    <scope>source.js</scope>
+    <description>setPassFocusToChild</description>
+</snippet>

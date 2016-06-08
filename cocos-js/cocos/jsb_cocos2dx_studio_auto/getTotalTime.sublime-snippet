@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTotalTime]]></content>
+    <tabTrigger>getTotalTime</tabTrigger>
+    <scope>source.js</scope>
+    <description>getTotalTime</description>
+</snippet>

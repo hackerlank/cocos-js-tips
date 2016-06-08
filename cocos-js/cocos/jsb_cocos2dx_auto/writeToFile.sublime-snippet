@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[writeToFile]]></content>
+    <tabTrigger>writeToFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>writeToFile</description>
+</snippet>
