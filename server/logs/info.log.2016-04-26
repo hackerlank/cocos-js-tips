@@ -1,0 +1,72 @@
+[32m[I 160426 19:17:52 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:46:29 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:46:35 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:46:46 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:47:04 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:47:18 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:47:25 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:47:30 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:47:41 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:48:23 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:48:45 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:48:52 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:48:54 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:49:17 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:49:22 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:49:30 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[31m[E 160427 09:49:32 web:1498](B[m Uncaught exception POST /A6ksi (127.0.0.1)
+    HttpRequest(protocol='http', host='127.0.0.1:8001', method='POST', uri='/A6ksi', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Content-Length': '78', 'Host': '127.0.0.1:8001', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded', 'Connection': 'keep-alive', 'Accept': '*/*', 'User-Agent': 'python-requests/2.5.3 CPython/2.7.10 Darwin/15.0.0'})
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado-4.2-py2.7-macosx-10.11-intel.egg/tornado/web.py", line 1415, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/jiank/work/kimech/server/apps/handlers/admin.py", line 186, in post
+        raise e
+    AttributeError: 'User' object has no attribute 'user'
+[32m[I 160427 09:49:56 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:49:59 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:50:11 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 09:53:09 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:22:05 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:22:14 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:22:16 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[31m[E 160427 10:22:18 web:1498](B[m Uncaught exception POST /A6ksi (127.0.0.1)
+    HttpRequest(protocol='http', host='127.0.0.1:8001', method='POST', uri='/A6ksi', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Content-Length': '82', 'Host': '127.0.0.1:8001', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded', 'Connection': 'keep-alive', 'Accept': '*/*', 'User-Agent': 'python-requests/2.5.3 CPython/2.7.10 Darwin/15.0.0'})
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado-4.2-py2.7-macosx-10.11-intel.egg/tornado/web.py", line 1415, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/jiank/work/kimech/server/apps/handlers/admin.py", line 170, in post
+        raise e
+      File "<string>", line 1
+        target_user.110000001
+                            ^
+    SyntaxError: unexpected EOF while parsing
+[32m[I 160427 10:22:44 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:25:48 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:25:52 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:26:03 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:26:10 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:26:24 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:30:42 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:30:45 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:31:42 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:32:06 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[31m[E 160427 10:35:56 web:1498](B[m Uncaught exception POST /A6ksi (127.0.0.1)
+    HttpRequest(protocol='http', host='127.0.0.1:8001', method='POST', uri='/A6ksi', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Content-Length': '124', 'Host': '127.0.0.1:8001', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded', 'Connection': 'keep-alive', 'Accept': '*/*', 'User-Agent': 'python-requests/2.5.3 CPython/2.7.10 Darwin/15.0.0'})
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado-4.2-py2.7-macosx-10.11-intel.egg/tornado/web.py", line 1415, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/jiank/work/kimech/server/apps/handlers/admin.py", line 179, in post
+        raise e
+    AttributeError: 'User' object has no attribute 'user'
+[32m[I 160427 10:37:20 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[31m[E 160427 10:37:23 web:1498](B[m Uncaught exception POST /A6ksi (127.0.0.1)
+    HttpRequest(protocol='http', host='127.0.0.1:8001', method='POST', uri='/A6ksi', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Content-Length': '124', 'Host': '127.0.0.1:8001', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded', 'Connection': 'keep-alive', 'Accept': '*/*', 'User-Agent': 'python-requests/2.5.3 CPython/2.7.10 Darwin/15.0.0'})
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado-4.2-py2.7-macosx-10.11-intel.egg/tornado/web.py", line 1415, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/jiank/work/kimech/server/apps/handlers/admin.py", line 181, in post
+        raise e
+    AttributeError: 'User' object has no attribute 'user'
+[32m[I 160427 10:37:43 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 10:37:47 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[32m[I 160427 11:26:17 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server

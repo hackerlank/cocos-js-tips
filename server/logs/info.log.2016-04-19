@@ -1,0 +1,21 @@
+[W 160419 15:44:10 web:1495] 404 POST /game/player/2 (127.0.0.1): not found
+[E 160419 15:47:03 web:1498] Uncaught exception POST /A6ksi (127.0.0.1)
+    HttpRequest(protocol='http', host='127.0.0.1:8000', method='POST', uri='/A6ksi', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Content-Length': '64', 'Host': '127.0.0.1:8000', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded', 'Connection': 'keep-alive', 'Accept': '*/*', 'User-Agent': 'python-requests/2.5.3 CPython/2.7.10 Darwin/15.0.0'})
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado-4.2-py2.7-macosx-10.11-intel.egg/tornado/web.py", line 1415, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/jiank/work/kimech/server/apps/handlers/admin.py", line 146, in post
+        if not DEBUG and not _check_admin_ip_in_whitelist(self):
+    NameError: global name 'DEBUG' is not defined
+[E 160419 15:47:23 web:1498] Uncaught exception POST /A6ksi (127.0.0.1)
+    HttpRequest(protocol='http', host='127.0.0.1:8000', method='POST', uri='/A6ksi', version='HTTP/1.1', remote_ip='127.0.0.1', headers={'Content-Length': '64', 'Host': '127.0.0.1:8000', 'Accept-Encoding': 'gzip, deflate', 'Content-Type': 'application/x-www-form-urlencoded', 'Connection': 'keep-alive', 'Accept': '*/*', 'User-Agent': 'python-requests/2.5.3 CPython/2.7.10 Darwin/15.0.0'})
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado-4.2-py2.7-macosx-10.11-intel.egg/tornado/web.py", line 1415, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/jiank/work/kimech/server/apps/handlers/admin.py", line 146, in post
+        if not DEBUG and not _check_admin_ip_in_whitelist(self):
+    NameError: global name 'DEBUG' is not defined
+[I 160419 15:47:54 autoreload:204] /Users/jiank/work/kimech/server/apps/handlers/admin.py modified; restarting server
+[I 160419 21:43:46 autoreload:204] /Users/jiank/work/kimech/server/apps/configs/game_config/act_detail_cfg.py modified; restarting server
+[32m[I 160421 20:21:11 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/configs/activity_config.py modified; restarting server
+[32m[I 160421 20:21:20 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/configs/activity_config.py modified; restarting server

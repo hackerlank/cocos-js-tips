@@ -1,0 +1,87 @@
+[20160524 10:52:27] ip:192.168.1.105 api:platform.version args:{} len:191 utime:20.35ms
+[20160524 10:52:31] ip:192.168.1.105 api:platform.auth args:{} len:13 utime:1.71ms
+[20160524 10:52:35] ip:192.168.1.105 api:platform.express args:{} len:1843 utime:19.19ms
+[20160524 10:52:38] ip:192.168.1.105 api:game.login args:{} len:2718 utime:32.88ms
+[20160524 10:52:40] ip:192.168.1.105 id:110007466 api:system.heartbeat args:{} len:3527 utime:11.16ms
+[20160524 10:52:40] ip:192.168.1.105 id:110007466 api:activity.info args:{} len:1299 utime:17.40ms
+[20160524 10:52:52] ip:192.168.1.105 api:debug args:{'msg': '\xe5\x86\x85\xe5\xae\xb9', 'receiver': '110007466', 'sender': '\xe5\x8f\x91\xe9\x80\x81\xe8\x80\x85', 'attachments': '{120997:50}', 'title': '\xe6\xa0\x87\xe9\xa2\x98'} len:11 utime:4.38ms
+[20160524 10:52:53] ip:192.168.1.105 id:110007466 api:mail.info args:{} len:242 utime:4.21ms
+[20160524 10:52:54] ip:192.168.1.105 id:110007466 api:mail.get_attachments args:{'mail_ids': '[11000015765,]'} len:14 utime:5.32ms
+[20160524 10:52:59] ip:192.168.1.105 id:110007466 api:package.use args:{'items': '{120997:50}'} len:46 utime:6.90ms
+[20160524 10:53:03] ip:192.168.1.105 id:110007466 api:worldboss.info args:{} len:194 utime:22.88ms
+[20160524 10:54:51] ip:192.168.1.105 api:platform.version args:{} len:191 utime:2.27ms
+[20160524 10:54:54] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:3.41ms
+[20160524 10:54:55] ip:192.168.1.105 api:game.login args:{} len:3500 utime:9.70ms
+[20160524 10:54:57] ip:192.168.1.105 id:110007466 api:system.heartbeat args:{} len:128 utime:23.47ms
+[20160524 10:54:57] ip:192.168.1.105 id:110007466 api:activity.info args:{} len:1299 utime:16.12ms
+[20160524 10:54:59] ip:192.168.1.105 id:110007466 api:worldboss.info args:{} len:10137 utime:27.83ms status: 500
+[20160524 10:55:30] ip:192.168.1.105 id:110007466 api:worldboss.info args:{} len:10101 utime:14.96ms status: 500
+[20160524 10:55:54] ip:192.168.1.105 id:110007466 api:worldboss.info args:{} len:194 utime:16.32ms
+[20160524 10:57:15] ip:192.168.1.105 api:platform.version args:{} len:191 utime:14.49ms
+[20160524 10:57:18] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:3.02ms
+[20160524 10:57:19] ip:192.168.1.105 api:game.login args:{} len:3500 utime:22.03ms
+[20160524 10:57:21] ip:192.168.1.105 id:110007466 api:system.heartbeat args:{} len:128 utime:25.33ms
+[20160524 10:57:21] ip:192.168.1.105 id:110007466 api:activity.info args:{} len:1299 utime:39.33ms
+[20160524 10:57:25] ip:192.168.1.105 id:110007466 api:worldboss.info args:{} len:194 utime:7.89ms
+[20160524 11:43:35] ip:192.168.1.105 api:platform.version args:{} len:191 utime:8.30ms
+[20160524 11:43:38] ip:192.168.1.105 api:platform.auth args:{} len:13 utime:2.32ms
+[20160524 11:43:42] ip:192.168.1.105 api:platform.express args:{} len:1843 utime:17.37ms
+[20160524 11:43:43] ip:192.168.1.105 api:game.login args:{} len:2718 utime:45.83ms
+[20160524 11:43:45] ip:192.168.1.105 id:110007467 api:system.heartbeat args:{} len:3527 utime:25.15ms
+[20160524 11:43:45] ip:192.168.1.105 id:110007467 api:activity.info args:{} len:1299 utime:16.07ms
+[20160524 11:43:56] ip:192.168.1.105 api:debug args:{'msg': '\xe5\x86\x85\xe5\xae\xb9', 'receiver': '110007467', 'sender': '\xe5\x8f\x91\xe9\x80\x81\xe8\x80\x85', 'attachments': '{120997:50}', 'title': '\xe6\xa0\x87\xe9\xa2\x98'} len:11 utime:1.94ms
+[20160524 11:43:57] ip:192.168.1.105 id:110007467 api:mail.info args:{} len:242 utime:16.29ms
+[20160524 11:43:58] ip:192.168.1.105 id:110007467 api:mail.get_attachments args:{'mail_ids': '[11000015766,]'} len:14 utime:5.03ms
+[20160524 11:44:04] ip:192.168.1.105 id:110007467 api:package.use args:{'items': '{120997:50}'} len:46 utime:6.23ms
+[20160524 11:44:08] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:6.79ms
+[20160524 11:46:56] ip:192.168.1.105 api:platform.version args:{} len:191 utime:2.77ms
+[20160524 11:46:59] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:3.47ms
+[20160524 11:46:59] ip:192.168.1.105 api:game.login args:{} len:3500 utime:11.89ms
+[20160524 11:47:01] ip:192.168.1.105 id:110007467 api:system.heartbeat args:{} len:128 utime:23.68ms
+[20160524 11:47:01] ip:192.168.1.105 id:110007467 api:activity.info args:{} len:1299 utime:20.36ms
+[20160524 11:49:02] ip:192.168.1.105 api:platform.version args:{} len:191 utime:10.49ms
+[20160524 11:49:05] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:4.05ms
+[20160524 11:49:06] ip:192.168.1.105 api:game.login args:{} len:3500 utime:10.45ms
+[20160524 11:49:08] ip:192.168.1.105 id:110007467 api:system.heartbeat args:{} len:128 utime:11.90ms
+[20160524 11:49:08] ip:192.168.1.105 id:110007467 api:activity.info args:{} len:1299 utime:26.31ms
+[20160524 11:54:13] ip:192.168.1.105 api:platform.version args:{} len:191 utime:13.79ms
+[20160524 11:55:10] ip:192.168.1.105 api:platform.version args:{} len:191 utime:21.84ms
+[20160524 11:55:13] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:2.42ms
+[20160524 11:55:14] ip:192.168.1.105 api:game.login args:{} len:3500 utime:16.19ms
+[20160524 11:55:16] ip:192.168.1.105 id:110007467 api:system.heartbeat args:{} len:128 utime:28.77ms
+[20160524 11:55:16] ip:192.168.1.105 id:110007467 api:activity.info args:{} len:1299 utime:19.37ms
+[20160524 11:55:23] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:17.69ms
+[20160524 11:55:58] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:18.35ms
+[20160524 11:57:15] ip:192.168.1.105 api:platform.version args:{} len:191 utime:15.32ms
+[20160524 11:57:18] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:2.82ms
+[20160524 11:57:32] ip:192.168.1.105 api:game.login args:{} len:3500 utime:10.12ms
+[20160524 11:57:34] ip:192.168.1.105 id:110007467 api:system.heartbeat args:{} len:128 utime:8.05ms
+[20160524 11:57:34] ip:192.168.1.105 id:110007467 api:activity.info args:{} len:1299 utime:20.35ms
+[20160524 11:57:43] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:4.65ms
+[20160524 11:58:11] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:3.02ms
+[20160524 12:34:59] ip:192.168.1.105 api:platform.version args:{} len:191 utime:13.64ms
+[20160524 12:35:03] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:3.72ms
+[20160524 12:35:15] ip:192.168.1.105 api:game.login args:{} len:3500 utime:10.76ms
+[20160524 12:35:17] ip:192.168.1.105 id:110007467 api:system.heartbeat args:{} len:128 utime:30.47ms
+[20160524 12:35:17] ip:192.168.1.105 id:110007467 api:activity.info args:{} len:1299 utime:17.25ms
+[20160524 12:35:19] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:4.23ms
+[20160524 12:35:38] ip:192.168.1.105 api:platform.version args:{} len:191 utime:11.66ms
+[20160524 12:35:41] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:3.32ms
+[20160524 12:35:53] ip:192.168.1.105 api:game.login args:{} len:3500 utime:10.89ms
+[20160524 12:35:55] ip:192.168.1.105 id:110007467 api:system.heartbeat args:{} len:128 utime:25.18ms
+[20160524 12:35:55] ip:192.168.1.105 id:110007467 api:activity.info args:{} len:1299 utime:17.22ms
+[20160524 12:35:57] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:4.27ms
+[20160524 12:51:23] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:17.64ms
+[20160524 12:51:43] ip:192.168.1.105 api:platform.version args:{} len:191 utime:18.59ms
+[20160524 12:51:46] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:2.55ms
+[20160524 12:51:46] ip:192.168.1.105 api:game.login args:{} len:3500 utime:14.58ms
+[20160524 12:51:48] ip:192.168.1.105 id:110007467 api:system.heartbeat args:{} len:128 utime:30.65ms
+[20160524 12:51:49] ip:192.168.1.105 id:110007467 api:activity.info args:{} len:1299 utime:33.64ms
+[20160524 12:51:50] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:3.87ms
+[20160524 13:04:47] ip:192.168.1.105 api:platform.version args:{} len:191 utime:13.51ms
+[20160524 13:04:50] ip:192.168.1.105 api:platform.auth args:{} len:1822 utime:3.62ms
+[20160524 13:04:51] ip:192.168.1.105 api:game.login args:{} len:3500 utime:9.09ms
+[20160524 13:04:53] ip:192.168.1.105 id:110007467 api:system.heartbeat args:{} len:128 utime:14.31ms
+[20160524 13:04:53] ip:192.168.1.105 id:110007467 api:activity.info args:{} len:1299 utime:17.37ms
+[20160524 13:04:57] ip:192.168.1.105 id:110007467 api:worldboss.info args:{} len:194 utime:16.20ms
+[20160526 12:06:36] ip:127.0.0.1 api: args:{} len:12 utime:2.49ms

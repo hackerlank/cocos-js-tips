@@ -1,0 +1,71 @@
+#!/bin/bash
+
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+ROOTDIR=`cd $(dirname $0); pwd`
+
+FILE_LIST1="apps libs logs statistics torngas templates start.sh"
+FILE_LIST2="settings scripts runserver.py"
+
+case "$1" in
+    dev)
+        GAME_SERVER_HOST="root@120.92.4.217"
+        GAME_SERVER_DIR="/xtzj/xtzj"
+        ;;
+    *)
+        echo $"usage: sh deploy {ios|android|whwj} {rsync|start|stop|restart}"
+        exit 1
+esac
+
+rsync_src() {
+    rsync -rvz -c --delete --exclude="*.log*" --exclude="*.py" --exclude=".DS_Store" --progress $FILE_LIST1 $GAME_SERVER_HOST:$GAME_SERVER_DIR
+    rsync -rvz -c --delete --exclude=".DS_Store" --progress $FILE_LIST2 $GAME_SERVER_HOST:$GAME_SERVER_DIR
+}
+
+remote_start_server() {
+    ssh $GAME_SERVER_HOST "
+    cd $GAME_SERVER_DIR &&
+    sh start.sh prod start &&
+    echo 'start server success.'"
+}
+
+remote_stop_server() {
+    ssh $GAME_SERVER_HOST "
+    cd $GAME_SERVER_DIR &&
+    sh start.sh prod stop &&
+    echo 'stop server success.'"
+}
+
+remote_restart_server() {
+    ssh $GAME_SERVER_HOST "
+    cd $GAME_SERVER_DIR &&
+    sh start.sh prod restart &&
+    echo 'restart server success.'"
+}
+
+case "$2" in
+    rsync)
+        # 清楚历史 *.pyc 文件
+        find $ROOTDIR -iname "*.pyc" -exec rm -f {} \;
+
+        # 编译新的 *.pyc 文件
+        python -m compileall apps
+        python -m compileall libs
+        python -m compileall torngas
+        python -m compileall statistics
+
+        rsync_src
+        ;;
+    start)
+        remote_start_server
+        ;;
+    stop)
+        remote_stop_server
+        ;;
+    restart)
+        remote_restart_server
+        ;;
+    *)
+        echo $"usage: sh deploy {ios|android|whwj} {rsync|start|stop|restart}"
+        exit 1
+esac

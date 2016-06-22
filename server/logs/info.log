@@ -1,0 +1,35 @@
+[32m[I 160524 10:52:25 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/services/worldboss.py modified; restarting server
+[31m[E 160524 10:54:59 web:1498](B[m Uncaught exception POST /game/api (192.168.1.105)
+    HttpRequest(protocol='http', host='192.168.1.104:8000', method='POST', uri='/game/api', version='HTTP/1.1', remote_ip='192.168.1.105', headers={'Content-Length': '21', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Host': '192.168.1.104:8000', 'Accept': '*/*', 'User-Agent': 'transformer%20Mac/1 CFNetwork/760.4.2 Darwin/15.4.0 (x86_64)', 'Connection': 'keep-alive', 'Cookie': 'user_cookie_chain="2|1:0|10:1464058495|17:user_cookie_chain|132:YWlkPTA1MjQxMDUyMzU4NjEmdWlkPTExMDAwNzQ2NiZwZj1ERVYmc2lkPTEmdHM9MTQ2NDA1ODQ5NSZ0b2tlbj02NmJkM2VmMDkxYzM1MzVmOWVhMGZhMDAxY2IwMmY5Nw==|86c15e8b26bc52959e1bb254879781dd375cd3af6a3ad9516a2fb477a8a2810a"; expires=Thu, 23 Jun 2016 02:54:55 GMT; Path=/', 'Content-Type': 'application/x-www-form-urlencoded'})
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado-4.2-py2.7-macosx-10.11-intel.egg/tornado/web.py", line 1415, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/jiank/work/kimech/server/apps/handlers/game.py", line 112, in post
+        result = gateway.process(request_context)
+      File "/Users/jiank/work/kimech/server/libs/rklib/web/logic.py", line 113, in process
+        func(reuqest_ctx)
+      File "/Users/jiank/work/kimech/server/apps/logics/worldboss.py", line 39, in info
+        data["info"] = build_boss_info_s2c(BossService.get(ki_user.sid))
+      File "/Users/jiank/work/kimech/server/apps/services/worldboss.py", line 63, in get
+        elif common_helper(data["update"], 21):
+    TypeError: 'module' object is not callable
+[32m[I 160524 10:55:24 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/services/worldboss.py modified; restarting server
+[32m[I 160524 10:55:25 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/services/worldboss.py modified; restarting server
+[31m[E 160524 10:55:30 web:1498](B[m Uncaught exception POST /game/api (192.168.1.105)
+    HttpRequest(protocol='http', host='192.168.1.104:8000', method='POST', uri='/game/api', version='HTTP/1.1', remote_ip='192.168.1.105', headers={'Content-Length': '21', 'Accept-Language': 'zh-cn', 'Accept-Encoding': 'gzip, deflate', 'Host': '192.168.1.104:8000', 'Accept': '*/*', 'User-Agent': 'transformer%20Mac/1 CFNetwork/760.4.2 Darwin/15.4.0 (x86_64)', 'Connection': 'keep-alive', 'Cookie': 'user_cookie_chain="2|1:0|10:1464058495|17:user_cookie_chain|132:YWlkPTA1MjQxMDUyMzU4NjEmdWlkPTExMDAwNzQ2NiZwZj1ERVYmc2lkPTEmdHM9MTQ2NDA1ODQ5NSZ0b2tlbj02NmJkM2VmMDkxYzM1MzVmOWVhMGZhMDAxY2IwMmY5Nw==|86c15e8b26bc52959e1bb254879781dd375cd3af6a3ad9516a2fb477a8a2810a"; expires=Thu, 23 Jun 2016 02:54:55 GMT; Path=/', 'Content-Type': 'application/x-www-form-urlencoded'})
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado-4.2-py2.7-macosx-10.11-intel.egg/tornado/web.py", line 1415, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/jiank/work/kimech/server/apps/handlers/game.py", line 112, in post
+        result = gateway.process(request_context)
+      File "/Users/jiank/work/kimech/server/libs/rklib/web/logic.py", line 113, in process
+        func(reuqest_ctx)
+      File "/Users/jiank/work/kimech/server/apps/logics/worldboss.py", line 39, in info
+        data["info"] = build_boss_info_s2c(BossService.get(ki_user.sid))
+      File "/Users/jiank/work/kimech/server/apps/services/worldboss.py", line 65, in get
+        elif common_helper(data["update"], 21):
+    TypeError: 'module' object is not callable
+[32m[I 160524 10:55:48 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/services/worldboss.py modified; restarting server
+[32m[I 160524 10:55:50 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/services/worldboss.py modified; restarting server
+[32m[I 160524 10:59:50 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/configs/game_config/arena_mail_award_cfg.py modified; restarting server
+[32m[I 160524 11:01:29 autoreload:204](B[m /Users/jiank/work/kimech/server/apps/configs/game_config/__init__.py modified; restarting server

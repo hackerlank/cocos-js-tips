@@ -1,0 +1,752 @@
+[20160519 10:17:41] ip:127.0.0.1 api: args:{} len:12 utime:1.36ms
+[20160519 10:18:43] ip:127.0.0.1 api:hero.pick args:{'ptype': '1'} len:12 utime:0.86ms
+[20160519 10:19:14] ip:127.0.0.1 api:hero.pick args:{'ptype': '1'} len:12 utime:1.41ms
+[20160519 10:19:22] ip:127.0.0.1 api:hero.pick args:{'ptype': '1'} len:12 utime:1.90ms
+[20160519 10:19:37] ip:127.0.0.1 api:platform.version args:{} len:200 utime:5.11ms
+[20160519 10:20:28] ip:127.0.0.1 api:platform.express args:{} len:359 utime:5.49ms
+[20160519 10:22:44] ip:127.0.0.1 api:game.login args:{} len:2689 utime:48.71ms
+[20160519 10:23:31] ip:127.0.0.1 api:game.login args:{} len:2689 utime:12.28ms
+[20160519 10:24:04] ip:127.0.0.1 api:hero.pick args:{'ptype': '3'} len:12 utime:0.51ms
+[20160519 10:24:33] ip:127.0.0.1 api:hero.pick args:{'ptype': '3'} len:12 utime:0.70ms
+[20160519 10:26:25] ip:127.0.0.1 id:110000002 api:hero.pick args:{'ptype': '3'} len:60 utime:11.24ms
+[20160519 10:26:54] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:10593 utime:12.27ms status: 500
+[20160519 10:27:58] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:9999 utime:14.49ms status: 500
+[20160519 10:28:09] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:9714 utime:22.46ms status: 500
+[20160519 10:30:19] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:9729 utime:20.32ms status: 500
+[20160519 10:31:37] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:9843 utime:20.81ms status: 500
+[20160519 10:32:34] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:295 utime:11.12ms
+[20160519 10:35:37] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:9714 utime:22.28ms status: 500
+[20160519 10:35:51] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:9778 utime:22.35ms status: 500
+[20160519 10:35:59] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:281 utime:13.47ms
+[20160519 10:36:41] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:281 utime:15.32ms
+[20160519 10:39:12] ip:127.0.0.1 id:110000002 api:worldboss.rank args:{'start': '1', 'stop': '10', 'rtype': '1'} len:12 utime:2.63ms
+[20160519 10:39:18] ip:127.0.0.1 id:110000002 api:worldboss.rank args:{'start': '1', 'end': '10', 'rtype': '1'} len:11 utime:6.80ms
+[20160519 10:39:39] ip:127.0.0.1 id:110000002 api:worldboss.rank args:{'start': '1', 'end': '10', 'rtype': '1'} len:63 utime:6.19ms
+[20160519 10:39:48] ip:127.0.0.1 id:110000002 api:worldboss.rank args:{'start': '1', 'end': '10', 'rtype': '2'} len:63 utime:2.75ms
+[20160519 10:39:51] ip:127.0.0.1 id:110000002 api:worldboss.rank args:{'start': '1', 'end': '10', 'rtype': '3'} len:10209 utime:13.27ms status: 500
+[20160519 10:40:17] ip:127.0.0.1 id:110000002 api:worldboss.rank args:{'start': '1', 'end': '10', 'rtype': '3'} len:63 utime:7.35ms
+[20160519 10:40:25] ip:127.0.0.1 id:110000002 api:worldboss.rank args:{'start': '1', 'end': '10', 'rtype': '4'} len:63 utime:2.80ms
+[20160519 10:41:17] ip:127.0.0.1 id:110000002 api:worldboss.encourage args:{} len:13 utime:7.45ms
+[20160519 10:41:48] ip:127.0.0.1 id:110000002 api:worldboss.encourage args:{} len:14 utime:12.13ms
+[20160519 10:41:57] ip:127.0.0.1 id:110000002 api:worldboss.info args:{} len:281 utime:8.66ms
+[20160519 10:42:33] ip:127.0.0.1 id:110000002 api:worldboss.support args:{'uid': '110000002'} len:14 utime:6.43ms
+[20160519 10:42:44] ip:127.0.0.1 id:110000002 api:worldboss.support args:{'uid': '110000002'} len:14 utime:10.88ms
+[20160519 11:43:55] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'fight': '{100005:123,100025:123}'} len:14 utime:19.49ms
+[20160519 11:44:21] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'fight': '{100005:123,100025:123}'} len:14 utime:8.67ms
+[20160519 11:44:37] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'fight': '{100005:123,100025:123}'} len:13 utime:11.63ms
+[20160519 11:45:05] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'fight': '{100005:123,100025:123}'} len:13 utime:8.37ms
+[20160519 11:46:15] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '100000', 'fight': '{100005:123,100025:123}'} len:13 utime:10.60ms
+[20160519 11:47:41] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'fight': '{100005:123,100025:123}'} len:281 utime:8.83ms
+[20160519 11:47:48] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'fight': '{100005:123,100025:123}'} len:14 utime:3.28ms
+[20160519 11:48:12] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'fight': '{100005:123,100025:123}'} len:13 utime:9.57ms
+[20160519 11:48:17] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'fight': '{100005:123,100025:123}'} len:281 utime:3.02ms
+[20160519 11:48:22] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'fight': '{100005:123,100025:123}'} len:13 utime:7.80ms
+[20160519 11:49:00] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'fight': '{100005:644,100025:622}'} len:14 utime:6.40ms
+[20160519 11:49:12] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '1000'} len:8995 utime:12.48ms status: 500
+[20160519 11:49:48] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '1000'} len:9147 utime:18.45ms status: 500
+[20160519 11:50:15] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '1000'} len:14 utime:9.54ms
+[20160519 11:51:55] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '1000'} len:13 utime:2.32ms
+[20160519 11:52:06] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '100000', 'fight': '{100005:123,100025:123}'} len:14 utime:2.65ms
+[20160519 11:52:34] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '100000', 'fight': '{100005:123,100025:123}'} len:14 utime:8.16ms
+[20160519 11:52:53] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '100000', 'fight': '{100005:123,100025:123}'} len:14 utime:10.49ms
+[20160519 11:54:05] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'dmg': '100000', 'fight': '{100005:123,100025:123}'} len:290 utime:15.34ms
+[20160519 11:54:09] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '100000', 'fight': '{100005:123,100025:123}'} len:13 utime:6.48ms
+[20160519 11:54:27] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '100000', 'fight': '{100005:644,100025:622}'} len:14 utime:6.21ms
+[20160519 11:54:31] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '100000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.95ms
+[20160519 11:54:35] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '100000', 'fight': '{100005:644,100025:622}'} len:13 utime:2.59ms
+[20160519 11:54:40] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '100000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.59ms
+[20160519 11:55:54] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '100000', 'fight': '{100005:644,100025:622}'} len:14 utime:14.07ms
+[20160519 11:55:57] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '100000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.90ms
+[20160519 11:56:26] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '100000', 'fight': '{100005:644,100025:622}'} len:13 utime:3.13ms
+[20160519 11:56:35] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '100000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.09ms
+[20160519 11:56:55] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.86ms
+[20160519 11:56:56] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.26ms
+[20160519 11:56:57] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.38ms
+[20160519 11:56:58] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:9.09ms
+[20160519 11:56:58] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:9.22ms
+[20160519 11:56:59] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:5.57ms
+[20160519 11:57:03] ip:127.0.0.1 id:110000002 api:worldboss.fight args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.74ms
+[20160519 11:57:09] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.45ms
+[20160519 11:57:32] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:6.23ms
+[20160519 11:57:33] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.36ms
+[20160519 11:57:33] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.46ms
+[20160519 11:57:33] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.01ms
+[20160519 11:57:34] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.97ms
+[20160519 11:57:34] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.06ms
+[20160519 11:57:34] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.57ms
+[20160519 11:57:34] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:5.03ms
+[20160519 11:57:34] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.78ms
+[20160519 11:57:34] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:4.14ms
+[20160519 11:57:35] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.16ms
+[20160519 11:57:35] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:4.30ms
+[20160519 11:57:35] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:4.06ms
+[20160519 11:57:35] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.75ms
+[20160519 11:57:35] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.76ms
+[20160519 11:57:36] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.45ms
+[20160519 11:57:36] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:4.71ms
+[20160519 11:57:36] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:4.22ms
+[20160519 11:57:36] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.95ms
+[20160519 11:57:36] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:5.27ms
+[20160519 11:57:37] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.81ms
+[20160519 11:57:37] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.62ms
+[20160519 11:57:37] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.40ms
+[20160519 11:57:37] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.66ms
+[20160519 11:57:37] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:6.30ms
+[20160519 11:57:37] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:6.60ms
+[20160519 11:57:38] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.50ms
+[20160519 11:57:38] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.06ms
+[20160519 11:57:38] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:5.00ms
+[20160519 11:57:38] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.27ms
+[20160519 11:57:38] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.37ms
+[20160519 11:57:38] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.11ms
+[20160519 11:57:53] ip:127.0.0.1 id:110000002 api:worldboss.cleancd args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.20ms
+[20160519 11:58:02] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.71ms
+[20160519 11:58:19] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:6.39ms
+[20160519 11:58:19] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:4.97ms
+[20160519 11:58:20] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:2.57ms
+[20160519 11:58:20] ip:127.0.0.1 id:110000002 api:worldboss.enter args:{'dmg': '10000000', 'fight': '{100005:644,100025:622}'} len:14 utime:3.26ms
+[20160519 12:30:23] ip:127.0.0.1 id:110000002 api:worldboss.support args:{'uid': '110000002'} len:14 utime:21.24ms
+[20160519 12:30:26] ip:127.0.0.1 id:110000002 api:worldboss.support args:{'uid': '110000002'} len:14 utime:4.55ms
+[20160519 12:30:27] ip:127.0.0.1 id:110000002 api:worldboss.support args:{'uid': '110000002'} len:14 utime:3.05ms
+[20160519 12:30:28] ip:127.0.0.1 id:110000002 api:worldboss.support args:{'uid': '110000002'} len:14 utime:2.74ms
+[20160519 12:30:49] ip:127.0.0.1 id:110000002 api:worldboss.support args:{'uid': '110000002'} len:9738 utime:24.63ms status: 500
+[20160519 12:31:01] ip:127.0.0.1 id:110000002 api:worldboss.support args:{'uid': '110000002'} len:14 utime:11.71ms
+[20160519 14:05:37] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:27.02ms
+[20160519 14:20:02] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:7.69ms
+[20160519 14:20:05] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.45ms
+[20160519 14:20:06] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:4.14ms
+[20160519 14:20:07] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.73ms
+[20160519 14:20:08] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.11ms
+[20160519 14:20:09] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.85ms
+[20160519 14:20:10] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.82ms
+[20160519 14:20:12] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:6.55ms
+[20160519 14:20:13] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.70ms
+[20160519 14:20:13] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.14ms
+[20160519 14:20:13] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.13ms
+[20160519 14:20:14] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.14ms
+[20160519 14:20:14] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.84ms
+[20160519 14:20:14] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.84ms
+[20160519 14:20:14] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.22ms
+[20160519 14:20:14] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.69ms
+[20160519 14:20:15] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:5.08ms
+[20160519 14:20:15] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.43ms
+[20160519 14:20:15] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.85ms
+[20160519 14:20:15] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.63ms
+[20160519 14:20:15] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:6.97ms
+[20160519 14:20:15] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.10ms
+[20160519 14:20:16] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.65ms
+[20160519 14:20:16] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:4.35ms
+[20160519 14:20:16] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.19ms
+[20160519 14:20:16] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.70ms
+[20160519 14:20:17] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.93ms
+[20160519 14:20:17] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.50ms
+[20160519 14:20:17] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.01ms
+[20160519 14:20:17] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.79ms
+[20160519 14:20:17] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.78ms
+[20160519 14:20:18] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:4.45ms
+[20160519 14:20:18] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.25ms
+[20160519 14:20:18] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.01ms
+[20160519 14:20:18] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.89ms
+[20160519 14:20:18] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.68ms
+[20160519 14:20:19] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.40ms
+[20160519 14:20:19] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:2.74ms
+[20160519 14:20:19] ip:127.0.0.1 id:110000002 api:worldboss.info args:{'uid': '110000002'} len:352 utime:3.74ms
+[20160521 10:23:25] ip:192.168.1.108 api: args:{} len:12 utime:1.74ms
+[20160521 10:38:02] ip:192.168.1.122 api:platform.version args:{} len:13 utime:1.71ms
+[20160521 10:38:08] ip:192.168.1.122 api:platform.version args:{} len:13 utime:1.10ms
+[20160521 10:38:13] ip:192.168.1.122 api:platform.version args:{} len:13 utime:1.09ms
+[20160521 10:38:43] ip:192.168.1.122 api:platform.version args:{} len:13 utime:2.16ms
+[20160521 10:39:04] ip:192.168.1.122 api:platform.version args:{} len:13 utime:2.39ms
+[20160521 10:39:18] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.66ms
+[20160521 10:39:39] ip:192.168.1.122 api:platform.version args:{} len:191 utime:1.74ms
+[20160521 10:39:47] ip:192.168.1.122 api:platform.express args:{} len:1838 utime:4.20ms
+[20160521 10:40:48] ip:192.168.1.122 api:platform.version args:{} len:191 utime:3.57ms
+[20160521 10:40:52] ip:192.168.1.122 api:platform.auth args:{} len:1814 utime:3.35ms
+[20160521 10:41:30] ip:192.168.1.122 api:platform.version args:{} len:191 utime:4.14ms
+[20160521 10:41:34] ip:192.168.1.122 api:platform.auth args:{} len:1814 utime:3.45ms
+[20160521 10:42:44] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.77ms
+[20160521 10:42:48] ip:192.168.1.122 api:platform.auth args:{} len:1814 utime:3.91ms
+[20160521 10:43:42] ip:192.168.1.122 api:platform.version args:{} len:191 utime:1.38ms
+[20160521 10:43:47] ip:192.168.1.122 api:platform.auth args:{} len:1814 utime:3.38ms
+[20160521 10:47:12] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.86ms
+[20160521 10:47:16] ip:192.168.1.122 api:platform.auth args:{} len:1814 utime:3.53ms
+[20160521 10:47:18] ip:192.168.1.122 api:platform.auth args:{} len:1814 utime:3.30ms
+[20160521 10:48:35] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.63ms
+[20160521 10:48:39] ip:192.168.1.122 api:platform.auth args:{} len:1819 utime:3.60ms
+[20160521 10:48:41] ip:192.168.1.122 api:game.login args:{} len:2718 utime:43.38ms
+[20160521 10:49:07] ip:192.168.1.122 api:platform.version args:{} len:191 utime:1.12ms
+[20160521 10:49:11] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.37ms
+[20160521 10:49:12] ip:192.168.1.122 api:game.login args:{} len:2718 utime:12.17ms
+[20160521 10:49:42] ip:192.168.1.122 api:platform.version args:{} len:191 utime:1.45ms
+[20160521 10:49:46] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.77ms
+[20160521 10:49:49] ip:192.168.1.122 api:game.login args:{} len:2718 utime:10.66ms
+[20160521 10:53:28] ip:192.168.1.122 api:platform.version args:{} len:191 utime:1.42ms
+[20160521 10:53:32] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.34ms
+[20160521 10:53:38] ip:192.168.1.122 api:game.login args:{} len:2718 utime:10.77ms
+[20160521 11:04:02] ip:192.168.1.122 api:platform.version args:{} len:191 utime:1.95ms
+[20160521 11:06:25] ip:192.168.1.122 api:platform.version args:{} len:191 utime:1.42ms
+[20160521 11:06:31] ip:192.168.1.122 api:platform.express args:{} len:1843 utime:4.12ms
+[20160521 11:06:33] ip:192.168.1.122 api:game.login args:{} len:2712 utime:21.52ms
+[20160521 11:06:40] ip:192.168.1.122 id:110007456 api:system.heartbeat args:{} len:3527 utime:11.90ms
+[20160521 11:06:41] ip:192.168.1.122 id:110007456 api:activity.info args:{} len:1285 utime:5.04ms
+[20160521 11:06:46] ip:192.168.1.122 id:110007456 api:hero.pick args:{'ptype': '3'} len:60 utime:8.12ms
+[20160521 11:07:57] ip:192.168.1.122 id:110007456 api:system.heartbeat args:{} len:296 utime:8.81ms
+[20160521 11:08:42] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.87ms
+[20160521 11:08:46] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.47ms
+[20160521 11:08:48] ip:192.168.1.122 api:game.login args:{} len:28648 utime:21.98ms
+[20160521 11:08:59] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:3531 utime:46.22ms
+[20160521 11:09:00] ip:192.168.1.122 id:110000528 api:activity.info args:{} len:1291 utime:5.03ms
+[20160521 11:09:05] ip:192.168.1.122 id:110000528 api:mail.info args:{} len:1070 utime:5.46ms
+[20160521 11:09:27] ip:192.168.1.122 id:110000528 api:chat.info args:{'start': '1', 'end': '5', 'ctype': '1'} len:1111 utime:6.75ms
+[20160521 11:09:35] ip:192.168.1.122 id:110000528 api:chat.info args:{'start': '1', 'end': '5', 'ctype': '4'} len:33 utime:3.61ms
+[20160521 11:09:37] ip:192.168.1.122 id:110000528 api:chat.info args:{'start': '1', 'end': '1', 'ctype': '4'} len:33 utime:3.59ms
+[20160521 11:09:38] ip:192.168.1.122 id:110000528 api:chat.info args:{'start': '1', 'end': '5', 'ctype': '1'} len:1111 utime:5.47ms
+[20160521 11:09:50] ip:192.168.1.122 id:110000528 api:mall.pick args:{'ptype': '1'} len:54 utime:7.59ms
+[20160521 11:09:58] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:8.87ms
+[20160521 11:12:53] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.57ms
+[20160521 11:12:57] ip:192.168.1.122 id:110000528 api:activity.online_awards args:{} len:14 utime:4.26ms
+[20160521 11:13:02] ip:192.168.1.122 id:110000528 api:sign.sign args:{} len:14 utime:6.40ms
+[20160521 11:13:08] ip:192.168.1.122 id:110000528 api:task.daily_submit args:{'task_id': '440022'} len:14 utime:6.36ms
+[20160521 11:13:12] ip:192.168.1.122 id:110000528 api:task.daily_submit args:{'task_id': '440021'} len:14 utime:4.74ms
+[20160521 11:14:15] ip:192.168.1.122 id:110000528 api:equip.weak args:{'position': '1', 'hero_id': '100020'} len:13 utime:5.43ms
+[20160521 11:14:33] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:5.42ms
+[20160521 11:14:34] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:5.10ms
+[20160521 11:14:34] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:5.09ms
+[20160521 11:14:35] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.86ms
+[20160521 11:14:35] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.68ms
+[20160521 11:14:36] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.78ms
+[20160521 11:14:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.89ms
+[20160521 11:14:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.79ms
+[20160521 11:14:38] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.83ms
+[20160521 11:14:38] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.76ms
+[20160521 11:14:39] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.80ms
+[20160521 11:14:39] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.79ms
+[20160521 11:14:39] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.79ms
+[20160521 11:14:39] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.80ms
+[20160521 11:14:39] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.76ms
+[20160521 11:14:40] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.70ms
+[20160521 11:14:40] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.76ms
+[20160521 11:14:40] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.78ms
+[20160521 11:14:40] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.74ms
+[20160521 11:14:41] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.81ms
+[20160521 11:14:41] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.91ms
+[20160521 11:14:41] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.85ms
+[20160521 11:14:41] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.77ms
+[20160521 11:14:41] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.83ms
+[20160521 11:14:42] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.88ms
+[20160521 11:14:42] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.82ms
+[20160521 11:14:42] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.81ms
+[20160521 11:14:42] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.73ms
+[20160521 11:14:43] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.73ms
+[20160521 11:14:43] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.90ms
+[20160521 11:14:43] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.80ms
+[20160521 11:14:43] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.76ms
+[20160521 11:14:43] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.73ms
+[20160521 11:14:44] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.79ms
+[20160521 11:14:44] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.81ms
+[20160521 11:14:44] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.84ms
+[20160521 11:14:44] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.79ms
+[20160521 11:15:07] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.74ms
+[20160521 11:15:08] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100008'} len:13 utime:4.90ms
+[20160521 11:15:16] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.03ms
+[20160521 11:15:17] ip:192.168.1.122 id:110000528 api:mail.info args:{} len:1070 utime:4.24ms
+[20160521 11:15:19] ip:192.168.1.122 id:110000528 api:chat.info args:{'start': '1', 'end': '5', 'ctype': '1'} len:1111 utime:5.33ms
+[20160521 11:16:17] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:8.72ms
+[20160521 11:16:28] ip:192.168.1.122 id:110000528 api:hero.pick args:{'ptype': '1'} len:60 utime:5.30ms
+[20160521 11:16:37] ip:192.168.1.122 id:110000528 api:task.daily_submit args:{'task_id': '440020'} len:14 utime:3.22ms
+[20160521 11:17:17] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.68ms
+[20160521 11:18:01] ip:192.168.1.122 id:110000528 api:mail.info args:{} len:1070 utime:4.35ms
+[20160521 11:18:17] ip:192.168.1.122 id:110000528 api:task.daily_submit args:{'task_id': '440000'} len:14 utime:5.24ms
+[20160521 11:18:22] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.17ms
+[20160521 11:18:31] ip:192.168.1.122 id:110000528 api:mail.info args:{} len:1070 utime:4.31ms
+[20160521 11:18:57] ip:192.168.1.122 id:110000528 api:trial.info args:{} len:14555 utime:362.98ms
+[20160521 11:19:01] ip:192.168.1.122 id:110000528 api:array.update args:{'array': '[100004,100011,100012,100001,100005,0]', 'atype': '3'} len:14 utime:62.73ms
+[20160521 11:19:19] ip:192.168.1.122 id:110000528 api:trial.info args:{} len:14618 utime:12.18ms
+[20160521 11:19:23] ip:192.168.1.122 id:110000528 api:array.update args:{'array': '[100004,100011,100012,100001,100005,0]', 'atype': '3'} len:14 utime:20.63ms
+[20160521 11:19:29] ip:192.168.1.122 id:110000528 api:rank.get args:{'start': '1', 'stop': '4', 'rtype': '7'} len:54 utime:5.50ms
+[20160521 11:19:32] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:8.70ms
+[20160521 11:19:41] ip:192.168.1.122 id:110000528 api:task.daily_submit args:{'task_id': '440009'} len:14 utime:4.49ms
+[20160521 11:20:05] ip:192.168.1.122 id:110000528 api:trial.info args:{} len:14618 utime:12.14ms
+[20160521 11:20:09] ip:192.168.1.122 id:110000528 api:array.update args:{'array': '[100004,100011,100012,100001,100005,0]', 'atype': '3'} len:14 utime:20.96ms
+[20160521 11:20:22] ip:192.168.1.122 id:110000528 api:array.update args:{'array': '[100001,100002,100004,100003,100005,100011]', 'atype': '1'} len:14 utime:4.04ms
+[20160521 11:21:15] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:8.81ms
+[20160521 11:21:17] ip:192.168.1.122 id:110000528 api:arena.info args:{} len:1829 utime:10.58ms
+[20160521 11:21:28] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200100', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:19.70ms
+[20160521 11:22:31] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200100', 'star': '3'} len:138 utime:11.06ms
+[20160521 11:22:47] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.00ms
+[20160521 11:22:50] ip:192.168.1.122 id:110000528 api:act_mission.info args:{'mtype': '1'} len:386 utime:8.42ms
+[20160521 11:22:58] ip:192.168.1.122 id:110000528 api:act_mission.enter args:{'mission_id': '250002', 'fight': '{"100004":12353,"100002":8327,"100001":11869,"100003":7833,"100011":7212,"100005":7874}'} len:13 utime:16.83ms
+[20160521 11:24:35] ip:192.168.1.122 id:110000528 api:act_mission.past args:{'mission_id': '250002', 'star': '3', 'hurt_percent': '1.0103580621792005', 'hurt': '327745'} len:67 utime:6.23ms
+[20160521 11:27:06] ip:192.168.1.122 id:110000528 api:act_mission.info args:{'mtype': '1'} len:406 utime:7.05ms
+[20160521 11:29:11] ip:192.168.1.122 id:110000528 api:act_mission.info args:{'mtype': '2'} len:386 utime:45.32ms
+[20160521 11:30:53] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.16ms
+[20160521 11:35:36] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.10ms
+[20160521 11:41:49] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:120.53ms
+[20160521 12:23:00] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:50.35ms
+[20160521 12:24:00] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:14.36ms
+[20160521 12:25:01] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:57.74ms
+[20160521 12:26:01] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:58.50ms
+[20160521 12:27:02] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:53.17ms
+[20160521 12:28:02] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:52.57ms
+[20160521 12:29:03] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:53.29ms
+[20160521 12:30:03] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:51.44ms
+[20160521 12:31:04] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:48.09ms
+[20160521 12:32:04] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:53.25ms
+[20160521 12:33:05] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:54.73ms
+[20160521 12:34:05] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:53.85ms
+[20160521 12:35:06] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:80.94ms
+[20160521 12:36:06] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.61ms
+[20160521 12:37:07] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.29ms
+[20160521 12:38:07] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.19ms
+[20160521 12:39:08] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.71ms
+[20160521 12:40:08] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.79ms
+[20160521 12:41:09] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.14ms
+[20160521 12:42:10] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.75ms
+[20160521 12:43:10] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:12.58ms
+[20160521 12:44:10] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.54ms
+[20160521 12:45:11] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.84ms
+[20160521 12:46:11] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.86ms
+[20160521 12:47:12] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.94ms
+[20160521 12:48:12] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.67ms
+[20160521 12:49:13] ip:192.168.1.122 api:system.heartbeat args:{} len:12312 utime:17.82ms status: 500
+[20160521 12:50:14] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.75ms
+[20160521 12:51:14] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.26ms
+[20160521 12:52:14] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.62ms
+[20160521 12:53:15] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.86ms
+[20160521 12:54:15] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.77ms
+[20160521 12:55:16] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:8.76ms
+[20160521 12:56:17] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.58ms
+[20160521 12:57:17] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.90ms
+[20160521 12:58:18] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:13.53ms
+[20160521 12:59:21] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:12.17ms
+[20160521 13:00:06] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:10.95ms
+[20160521 13:00:09] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.97ms
+[20160521 13:00:10] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.16ms
+[20160521 13:00:11] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.74ms
+[20160521 13:00:18] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:7.18ms
+[20160521 13:00:20] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:4.57ms
+[20160521 13:00:28] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:8.71ms
+[20160521 13:00:30] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.82ms
+[20160521 13:00:31] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.92ms
+[20160521 13:00:32] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.46ms
+[20160521 13:00:33] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.98ms
+[20160521 13:00:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.64ms
+[20160521 13:00:40] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.64ms
+[20160521 13:00:42] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.83ms
+[20160521 13:00:42] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.98ms
+[20160521 13:00:43] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.98ms
+[20160521 13:01:03] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:7.09ms
+[20160521 13:01:04] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.13ms
+[20160521 13:01:05] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.88ms
+[20160521 13:01:05] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:7.50ms
+[20160521 13:01:06] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.79ms
+[20160521 13:01:07] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.48ms
+[20160521 13:01:07] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.75ms
+[20160521 13:01:56] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:8.46ms
+[20160521 13:03:00] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:10.07ms
+[20160521 13:03:04] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.72ms
+[20160521 13:03:35] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:23.74ms status: 500
+[20160521 13:03:41] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:8.16ms
+[20160521 13:04:18] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:8.36ms
+[20160521 13:04:21] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.12ms
+[20160521 13:04:23] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.22ms
+[20160521 13:05:18] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:12224 utime:13.11ms status: 500
+[20160521 13:05:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:8.21ms
+[20160521 13:05:40] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.76ms
+[20160521 13:06:00] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:14.68ms status: 500
+[20160521 13:06:12] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:14.01ms status: 500
+[20160521 13:06:15] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.90ms status: 500
+[20160521 13:06:23] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:14.19ms status: 500
+[20160521 13:07:39] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:13.51ms status: 500
+[20160521 13:07:52] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.25ms status: 500
+[20160521 13:07:53] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.50ms status: 500
+[20160521 13:07:54] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.29ms status: 500
+[20160521 13:08:14] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:13.19ms status: 500
+[20160521 13:09:13] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:11.57ms status: 500
+[20160521 13:09:26] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:12.69ms status: 500
+[20160521 13:09:32] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.70ms status: 500
+[20160521 13:09:32] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.67ms status: 500
+[20160521 13:09:33] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.68ms status: 500
+[20160521 13:09:37] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:14.21ms status: 500
+[20160521 13:09:38] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:11.62ms status: 500
+[20160521 13:09:39] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.85ms status: 500
+[20160521 13:09:40] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.61ms status: 500
+[20160521 13:09:41] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.60ms status: 500
+[20160521 13:09:41] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.06ms status: 500
+[20160521 13:10:44] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13219 utime:13.82ms status: 500
+[20160521 13:11:14] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:14797 utime:14.14ms status: 500
+[20160521 13:11:27] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:13.83ms status: 500
+[20160521 13:11:31] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:11.84ms status: 500
+[20160521 13:11:31] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.90ms status: 500
+[20160521 13:11:32] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.72ms status: 500
+[20160521 13:11:32] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.43ms status: 500
+[20160521 13:11:47] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:13.16ms status: 500
+[20160521 13:11:49] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.27ms status: 500
+[20160521 13:11:50] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.79ms status: 500
+[20160521 13:12:03] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:13.84ms status: 500
+[20160521 13:12:05] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.82ms status: 500
+[20160521 13:12:06] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.34ms status: 500
+[20160521 13:12:07] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.27ms status: 500
+[20160521 13:12:13] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:12.74ms status: 500
+[20160521 13:12:15] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.08ms status: 500
+[20160521 13:12:16] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.99ms status: 500
+[20160521 13:12:17] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.15ms status: 500
+[20160521 13:12:17] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.78ms status: 500
+[20160521 13:12:18] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.63ms status: 500
+[20160521 13:21:28] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:13.52ms status: 500
+[20160521 13:21:46] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:12.68ms status: 500
+[20160521 13:22:11] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:12.19ms status: 500
+[20160521 13:22:14] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.75ms status: 500
+[20160521 13:22:17] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.91ms status: 500
+[20160521 13:22:18] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.37ms status: 500
+[20160521 13:22:19] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.26ms status: 500
+[20160521 13:22:20] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.59ms status: 500
+[20160521 13:22:23] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:8.34ms status: 500
+[20160521 13:22:25] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.95ms status: 500
+[20160521 13:22:26] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.38ms status: 500
+[20160521 13:22:38] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.16ms status: 500
+[20160521 13:22:40] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.36ms status: 500
+[20160521 13:22:41] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.16ms status: 500
+[20160521 13:25:02] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.76ms status: 500
+[20160521 13:25:35] ip:192.168.1.122 api:hero.intensify args:{'items': '{120002:5}', 'hero_id': '100019'} len:11419 utime:11.48ms status: 500
+[20160521 13:25:47] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:10}', 'hero_id': '100019'} len:11419 utime:9.70ms status: 500
+[20160521 13:25:55] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:7}', 'hero_id': '100019'} len:11419 utime:9.84ms status: 500
+[20160521 13:26:20] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.56ms status: 500
+[20160521 13:26:56] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.17ms status: 500
+[20160521 13:26:57] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.40ms status: 500
+[20160521 13:26:57] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:10.77ms status: 500
+[20160521 13:26:57] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.90ms status: 500
+[20160521 13:26:57] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:8.95ms status: 500
+[20160521 13:26:58] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:8.12ms status: 500
+[20160521 13:26:58] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:9.70ms status: 500
+[20160521 13:27:00] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:8}', 'hero_id': '100019'} len:11419 utime:9.59ms status: 500
+[20160521 13:27:38] ip:192.168.1.122 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:11419 utime:14.86ms status: 500
+[20160521 13:28:02] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:8.65ms
+[20160521 13:28:12] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:7.31ms
+[20160521 13:28:15] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.87ms
+[20160521 13:28:16] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.04ms
+[20160521 13:28:16] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.98ms
+[20160521 13:28:17] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.01ms
+[20160521 13:28:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:53.57ms
+[20160521 13:28:39] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.30ms
+[20160521 13:28:40] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:5.70ms
+[20160521 13:28:41] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.28ms
+[20160521 13:28:42] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.05ms
+[20160521 13:28:43] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.38ms
+[20160521 13:28:44] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:48.57ms
+[20160521 13:36:12] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:24.44ms
+[20160521 13:36:14] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.34ms
+[20160521 13:36:15] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.09ms
+[20160521 13:36:25] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:22.55ms
+[20160521 13:36:27] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:20.33ms
+[20160521 13:36:28] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:6.45ms
+[20160521 13:36:29] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:19.43ms
+[20160521 13:36:32] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100019'} len:13 utime:19.36ms
+[20160521 13:39:34] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:25.09ms
+[20160521 13:39:39] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200101', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:33.10ms
+[20160521 13:40:15] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200101', 'star': '3'} len:138 utime:33.13ms
+[20160521 13:40:40] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200102', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:9.00ms
+[20160521 13:41:31] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200102', 'star': '3'} len:138 utime:10.72ms
+[20160521 13:41:56] ip:192.168.1.122 id:110000528 api:mission.mission_award args:{'mission_id': '200102', 'award_type': '1'} len:13 utime:6.14ms
+[20160521 13:42:01] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200103', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:6.63ms
+[20160521 13:42:47] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200103', 'star': '3'} len:130 utime:9.22ms
+[20160521 14:18:06] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:12.59ms
+[20160521 15:04:39] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.90ms
+[20160521 15:04:43] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.86ms
+[20160521 15:04:45] ip:192.168.1.122 api:game.login args:{} len:28963 utime:45.34ms
+[20160521 15:04:56] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:12812 utime:22.35ms status: 500
+[20160521 15:05:25] ip:192.168.1.122 api:platform.version args:{} len:191 utime:3.11ms
+[20160521 15:05:29] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.62ms
+[20160521 15:05:31] ip:192.168.1.122 api:game.login args:{} len:28963 utime:26.60ms
+[20160521 15:05:44] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:11770 utime:25.81ms status: 500
+[20160521 15:06:44] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:11770 utime:20.98ms status: 500
+[20160521 15:07:44] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:12595 utime:39.07ms status: 500
+[20160521 15:08:44] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:12595 utime:31.81ms status: 500
+[20160521 15:09:45] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:12063 utime:33.49ms status: 500
+[20160521 15:10:45] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:32.26ms
+[20160521 15:10:45] ip:192.168.1.122 id:110000528 api:activity.info args:{} len:1291 utime:10.81ms
+[20160521 15:11:46] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:27.54ms
+[20160521 15:12:42] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.40ms
+[20160521 15:12:46] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.64ms
+[20160521 15:12:48] ip:192.168.1.122 api:game.login args:{} len:7671 utime:22.36ms status: 500
+[20160521 15:12:54] ip:192.168.1.122 api:game.login args:{} len:7671 utime:19.37ms status: 500
+[20160521 15:13:13] ip:192.168.1.122 api:game.login args:{} len:9064 utime:26.16ms status: 500
+[20160521 15:14:55] ip:192.168.1.122 api:game.login args:{} len:9064 utime:26.21ms status: 500
+[20160521 15:15:19] ip:192.168.1.122 api:game.login args:{} len:9016 utime:67.37ms status: 500
+[20160521 15:15:34] ip:192.168.1.122 api:game.login args:{} len:9008 utime:24.51ms status: 500
+[20160521 15:16:37] ip:192.168.1.122 api:game.login args:{} len:9053 utime:24.53ms status: 500
+[20160521 15:16:48] ip:192.168.1.122 api:game.login args:{} len:9064 utime:24.91ms status: 500
+[20160521 15:17:18] ip:192.168.1.122 api:game.login args:{} len:9008 utime:27.03ms status: 500
+[20160521 15:17:41] ip:192.168.1.122 api:game.login args:{} len:8996 utime:25.69ms status: 500
+[20160521 15:17:57] ip:192.168.1.122 api:game.login args:{} len:9015 utime:26.03ms status: 500
+[20160521 15:18:05] ip:192.168.1.122 api:game.login args:{} len:28963 utime:33.43ms
+[20160521 15:18:16] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:27.73ms
+[20160521 15:18:16] ip:192.168.1.122 id:110000528 api:activity.info args:{} len:1291 utime:7.93ms
+[20160521 15:18:45] ip:192.168.1.122 id:110000528 api:mission.chapter_award args:{'chapter_id': '11', 'star': '10', 'chapter_type': '1'} len:13 utime:22.96ms
+[20160521 15:19:29] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200068', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:21.02ms
+[20160521 15:19:56] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200068', 'star': '3'} len:130 utime:28.67ms
+[20160521 15:20:24] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:24.41ms
+[20160521 15:20:38] ip:192.168.1.122 id:110000528 api:task.daily_submit args:{'task_id': '440017'} len:14 utime:9.35ms
+[20160521 15:20:42] ip:192.168.1.122 id:110000528 api:task.daily_submit args:{'task_id': '440008'} len:14 utime:5.82ms
+[20160521 15:21:16] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200102', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:8.06ms
+[20160521 15:22:03] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200102', 'star': '3'} len:146 utime:17.40ms
+[20160521 15:23:25] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200103', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:11508 utime:18.93ms status: 500
+[20160521 15:24:30] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200103', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:20.30ms
+[20160521 15:25:15] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200103', 'star': '3'} len:146 utime:12.00ms
+[20160521 15:25:49] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200102', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:13.24ms
+[20160521 15:26:37] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200102', 'star': '3'} len:138 utime:10.04ms
+[20160521 15:26:43] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200104', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:18.84ms
+[20160521 15:27:24] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200104', 'star': '3'} len:146 utime:9.11ms
+[20160521 15:27:29] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.37ms
+[20160521 15:28:30] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.22ms
+[20160521 15:29:30] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.61ms
+[20160521 15:30:30] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.15ms
+[20160521 15:31:31] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.63ms
+[20160521 15:32:31] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.44ms
+[20160521 15:33:32] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.94ms
+[20160521 15:34:32] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.89ms
+[20160521 15:35:33] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:11.34ms
+[20160521 15:36:33] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.97ms
+[20160521 15:37:33] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.74ms
+[20160521 15:38:34] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.05ms
+[20160521 15:39:35] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.50ms
+[20160521 15:40:35] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.41ms
+[20160521 15:41:35] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.80ms
+[20160521 15:42:35] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.67ms
+[20160521 15:43:36] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.50ms
+[20160521 15:44:36] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.61ms
+[20160521 15:45:37] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:12.20ms
+[20160521 15:46:37] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:12.67ms
+[20160521 15:47:38] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:9.71ms
+[20160521 15:48:38] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:8.66ms
+[20160521 15:49:38] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.20ms
+[20160521 15:53:04] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:12.28ms
+[20160521 15:53:32] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200105', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:12141 utime:19.86ms status: 500
+[20160521 15:54:10] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200105', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:12347 utime:31.04ms status: 500
+[20160521 15:54:33] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200105', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:25.42ms
+[20160521 15:55:32] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200105', 'star': '3'} len:155 utime:12.76ms
+[20160521 15:55:38] ip:192.168.1.122 id:110000528 api:mission.mission_award args:{'mission_id': '200105', 'award_type': '1'} len:13 utime:5.36ms
+[20160521 15:55:42] ip:192.168.1.122 id:110000528 api:mission.enter args:{'mission_id': '200106', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:6.11ms
+[20160521 15:56:28] ip:192.168.1.122 id:110000528 api:mission.past args:{'mission_id': '200106', 'star': '3'} len:138 utime:8.51ms
+[20160521 15:56:34] ip:192.168.1.122 id:110000528 api:mission.chapter_award args:{'chapter_id': '11', 'star': '20', 'chapter_type': '1'} len:13 utime:5.19ms
+[20160521 15:56:36] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.02ms
+[20160521 15:57:03] ip:192.168.1.122 id:110000528 api:mall.info args:{'mtype': '5'} len:172 utime:6.28ms
+[20160521 15:57:17] ip:192.168.1.122 id:110000528 api:mall.buy args:{'mtype': '5', 'item_tag': '50163'} len:14 utime:27.01ms
+[20160521 16:03:07] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.62ms
+[20160521 16:03:09] ip:192.168.1.122 id:110000528 api:arena.info args:{} len:1829 utime:12.89ms
+[20160521 16:03:17] ip:192.168.1.122 id:110000528 api:arena.fighter_data args:{'fighter_id': '110000985'} len:4651 utime:9.50ms
+[20160521 16:03:19] ip:192.168.1.122 id:110000528 api:arena.fight args:{} len:14 utime:16.12ms
+[20160521 16:03:19] ip:192.168.1.122 id:110000528 api:arena.info args:{} len:1829 utime:9.96ms
+[20160521 16:03:33] ip:192.168.1.122 id:110000528 api:arena.fighter_data args:{'fighter_id': '110000639'} len:4640 utime:8.28ms
+[20160521 16:03:35] ip:192.168.1.122 id:110000528 api:arena.fight args:{} len:14 utime:5.92ms
+[20160521 16:03:35] ip:192.168.1.122 id:110000528 api:arena.info args:{} len:1836 utime:8.93ms
+[20160521 16:04:13] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:8.97ms
+[20160521 16:04:19] ip:192.168.1.122 id:110000528 api:arena.info args:{} len:1836 utime:10.39ms
+[20160521 16:04:50] ip:192.168.1.122 id:110000528 api:arena.fight args:{} len:14 utime:17.52ms
+[20160521 16:04:50] ip:192.168.1.122 id:110000528 api:arena.info args:{} len:1824 utime:9.95ms
+[20160521 16:06:09] ip:192.168.1.122 id:110000528 api:arena.fight args:{} len:14 utime:17.31ms
+[20160521 16:06:09] ip:192.168.1.122 id:110000528 api:arena.info args:{} len:1834 utime:11.31ms
+[20160521 16:11:26] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:27.20ms
+[20160521 16:11:35] ip:192.168.1.122 id:110000528 api:task.daily_submit args:{'task_id': '440004'} len:14 utime:21.33ms
+[20160521 16:11:44] ip:192.168.1.122 id:110000528 api:task.daily_submit args:{'task_id': '440018'} len:14 utime:22.13ms
+[20160521 16:11:54] ip:192.168.1.122 id:110000528 api:hero.pick args:{'ptype': '3'} len:60 utime:22.09ms
+[20160521 16:12:20] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:22.48ms
+[20160521 16:12:22] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:19.12ms
+[20160521 16:12:22] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.69ms
+[20160521 16:12:23] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:5.80ms
+[20160521 16:12:24] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:19.07ms
+[20160521 16:12:24] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.40ms
+[20160521 16:12:25] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.59ms
+[20160521 16:12:25] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.70ms
+[20160521 16:12:26] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:18.58ms
+[20160521 16:12:26] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.77ms
+[20160521 16:12:27] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.70ms
+[20160521 16:12:27] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.66ms
+[20160521 16:12:28] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:18.36ms
+[20160521 16:12:28] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.69ms
+[20160521 16:12:32] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:23.65ms
+[20160521 16:12:33] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.85ms
+[20160521 16:12:33] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.22ms
+[20160521 16:12:33] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.68ms
+[20160521 16:12:34] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:18.17ms
+[20160521 16:12:34] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.10ms
+[20160521 16:12:34] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.67ms
+[20160521 16:12:34] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:5.71ms
+[20160521 16:12:35] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.94ms
+[20160521 16:12:35] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:5.67ms
+[20160521 16:12:35] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:5.29ms
+[20160521 16:12:35] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.83ms
+[20160521 16:12:36] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:19.48ms
+[20160521 16:12:36] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.64ms
+[20160521 16:12:36] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.93ms
+[20160521 16:12:36] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.57ms
+[20160521 16:12:36] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:5.18ms
+[20160521 16:12:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:5.09ms
+[20160521 16:12:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.78ms
+[20160521 16:12:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.38ms
+[20160521 16:12:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.86ms
+[20160521 16:12:37] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.55ms
+[20160521 16:12:38] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:18.05ms
+[20160521 16:12:38] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.67ms
+[20160521 16:12:38] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.86ms
+[20160521 16:12:38] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.64ms
+[20160521 16:12:38] ip:192.168.1.122 id:110000528 api:hero.intensify args:{'items': '{120000:1}', 'hero_id': '100012'} len:13 utime:4.72ms
+[20160521 16:22:38] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:10.56ms
+[20160521 16:22:46] ip:192.168.1.122 id:110000528 api:array.update args:{'array': '[100001,100002,100004,100003,100005,100011]', 'atype': '1'} len:9931 utime:19.42ms status: 500
+[20160521 16:23:16] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.52ms
+[20160521 16:23:20] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.08ms
+[20160521 16:23:22] ip:192.168.1.122 api:game.login args:{} len:3354 utime:23.33ms
+[20160521 16:23:30] ip:192.168.1.122 id:110007456 api:system.heartbeat args:{} len:128 utime:15.98ms
+[20160521 16:23:30] ip:192.168.1.122 id:110007456 api:activity.info args:{} len:1285 utime:5.10ms
+[20160521 16:24:05] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.68ms
+[20160521 16:24:09] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.51ms
+[20160521 16:24:11] ip:192.168.1.122 api:game.login args:{} len:29163 utime:33.99ms
+[20160521 16:24:22] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:25.73ms
+[20160521 16:24:23] ip:192.168.1.122 id:110000528 api:activity.info args:{} len:1293 utime:5.08ms
+[20160521 16:24:35] ip:192.168.1.122 id:110000528 api:array.update args:{'array': '[100001,100002,100004,100003,100005,100011]', 'atype': '1'} len:9895 utime:16.29ms status: 500
+[20160521 16:25:14] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.27ms
+[20160521 16:25:18] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.75ms
+[20160521 16:25:19] ip:192.168.1.122 api:game.login args:{} len:29163 utime:30.60ms
+[20160521 16:25:31] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:8.81ms
+[20160521 16:25:32] ip:192.168.1.122 id:110000528 api:activity.info args:{} len:1293 utime:4.91ms
+[20160521 16:25:37] ip:192.168.1.122 id:110000528 api:array.update args:{'array': '[100001,100002,100004,100003,100005,100011]', 'atype': '1'} len:9919 utime:13.24ms status: 500
+[20160521 16:27:08] ip:192.168.1.122 api:platform.version args:{} len:191 utime:2.54ms
+[20160521 16:27:12] ip:192.168.1.122 api:platform.auth args:{} len:1822 utime:3.33ms
+[20160521 16:27:14] ip:192.168.1.122 api:game.login args:{} len:29163 utime:30.24ms
+[20160521 16:27:25] ip:192.168.1.122 id:110000528 api:system.heartbeat args:{} len:132 utime:8.77ms
+[20160521 16:27:26] ip:192.168.1.122 id:110000528 api:activity.info args:{} len:1293 utime:4.92ms
+[20160521 16:27:37] ip:192.168.1.122 id:110000528 api:array.update args:{'array': '[100001,100002,100004,100003,100005,100011]', 'atype': '1'} len:14 utime:4.44ms
+[20160523 16:00:33] ip:192.168.1.114 api:platform.version args:{} len:191 utime:14.36ms
+[20160523 16:00:37] ip:192.168.1.114 api:platform.auth args:{} len:13 utime:8.62ms
+[20160523 16:00:41] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:4.19ms
+[20160523 16:03:20] ip:192.168.1.114 api:platform.version args:{} len:191 utime:14.44ms
+[20160523 16:03:23] ip:192.168.1.114 api:platform.auth args:{} len:1819 utime:3.68ms
+[20160523 16:03:24] ip:192.168.1.114 api:game.login args:{} len:29149 utime:52.18ms
+[20160523 16:03:27] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:21.28ms
+[20160523 16:03:28] ip:192.168.1.114 id:110000528 api:activity.info args:{} len:1307 utime:20.06ms
+[20160523 16:03:42] ip:192.168.1.114 id:110000528 api:mission.hangup args:{'mission_id': '200105', 'htimes': '1'} len:134 utime:13.27ms
+[20160523 16:03:44] ip:192.168.1.114 id:110000528 api:mission.enter args:{'mission_id': '200105', 'fight': '{"100001":11869,"100002":8327,"100004":12353,"100003":7833,"100005":7874,"100011":7212}'} len:13 utime:5.18ms
+[20160523 16:04:42] ip:192.168.1.114 id:110000528 api:user.buy_gold args:{'type': '1'} len:55 utime:46.50ms
+[20160523 16:04:45] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:22.43ms
+[20160523 16:05:46] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:34.58ms
+[20160523 16:06:56] ip:192.168.1.114 api:platform.version args:{} len:191 utime:7.44ms
+[20160523 16:07:20] ip:192.168.1.114 api:platform.version args:{} len:191 utime:10.43ms
+[20160523 16:07:24] ip:192.168.1.114 api:platform.auth args:{} len:1819 utime:3.82ms
+[20160523 16:07:26] ip:192.168.1.114 api:game.login args:{} len:29151 utime:21.91ms
+[20160523 16:07:32] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:40.43ms
+[20160523 16:07:32] ip:192.168.1.114 id:110000528 api:activity.info args:{} len:1309 utime:20.19ms
+[20160523 16:14:21] ip:192.168.1.114 id:110000528 api:user.buy_gold args:{'type': '1'} len:55 utime:48.73ms
+[20160523 16:20:30] ip:192.168.1.114 api:platform.version args:{} len:191 utime:19.28ms
+[20160523 16:20:34] ip:192.168.1.114 api:platform.auth args:{} len:1819 utime:4.09ms
+[20160523 16:20:34] ip:192.168.1.114 api:game.login args:{} len:29151 utime:21.78ms
+[20160523 16:20:38] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:27.18ms
+[20160523 16:20:39] ip:192.168.1.114 id:110000528 api:activity.info args:{} len:1309 utime:30.76ms
+[20160523 16:24:25] ip:192.168.1.114 api:platform.version args:{} len:191 utime:12.68ms
+[20160523 16:24:31] ip:192.168.1.114 api:platform.version args:{} len:191 utime:1.70ms
+[20160523 16:24:35] ip:192.168.1.114 api:platform.auth args:{} len:1819 utime:3.52ms
+[20160523 16:24:35] ip:192.168.1.114 api:game.login args:{} len:29151 utime:35.24ms
+[20160523 16:24:38] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:39.10ms
+[20160523 16:24:39] ip:192.168.1.114 id:110000528 api:activity.info args:{} len:1309 utime:19.34ms
+[20160523 16:24:46] ip:192.168.1.114 id:110000528 api:mission.hangup args:{'mission_id': '200106', 'htimes': '1'} len:142 utime:166.49ms
+[20160523 16:25:07] ip:192.168.1.114 id:110000528 api:user.buy_gold args:{'type': '1'} len:55 utime:40.27ms
+[20160523 16:33:57] ip:192.168.1.114 api:platform.version args:{} len:191 utime:14.71ms
+[20160523 16:34:31] ip:192.168.1.114 api:platform.version args:{} len:191 utime:13.69ms
+[20160523 16:34:34] ip:192.168.1.114 api:platform.auth args:{} len:1819 utime:3.48ms
+[20160523 16:34:36] ip:192.168.1.114 api:game.login args:{} len:29151 utime:26.84ms
+[20160523 16:34:40] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:33.84ms
+[20160523 16:34:40] ip:192.168.1.114 id:110000528 api:activity.info args:{} len:1309 utime:17.24ms
+[20160523 16:35:40] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:44.94ms
+[20160523 16:36:41] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:38.99ms
+[20160523 16:37:41] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:36.31ms
+[20160523 16:38:42] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:27.39ms
+[20160523 16:39:42] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:36.19ms
+[20160523 16:40:43] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:40.68ms
+[20160523 16:41:43] ip:192.168.1.114 id:110000528 api:system.heartbeat args:{} len:132 utime:24.58ms
+[20160523 17:11:26] ip:192.168.1.114 api:platform.version args:{} len:191 utime:2.43ms
+[20160523 17:11:30] ip:192.168.1.114 api:platform.auth args:{} len:13 utime:8.42ms
+[20160523 17:11:32] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:3.98ms
+[20160523 17:11:33] ip:192.168.1.114 api:game.login args:{} len:2713 utime:32.09ms
+[20160523 17:11:37] ip:192.168.1.114 id:110007457 api:system.heartbeat args:{} len:3527 utime:17.81ms
+[20160523 17:11:41] ip:192.168.1.114 id:110007457 api:activity.info args:{} len:1299 utime:126.91ms
+[20160523 17:12:29] ip:192.168.1.114 api:platform.version args:{} len:191 utime:13.99ms
+[20160523 17:12:32] ip:192.168.1.114 api:platform.auth args:{} len:1822 utime:3.62ms
+[20160523 17:50:26] ip:192.168.1.114 api:platform.version args:{} len:191 utime:3.00ms
+[20160523 17:50:31] ip:192.168.1.114 api:platform.auth args:{} len:13 utime:2.22ms
+[20160523 17:50:33] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:5.10ms
+[20160523 17:50:35] ip:192.168.1.114 api:game.login args:{} len:11 utime:26.36ms
+[20160523 17:51:17] ip:192.168.1.114 api:game.login args:{} len:2713 utime:27.58ms
+[20160523 17:51:20] ip:192.168.1.114 id:110007458 api:system.heartbeat args:{} len:3527 utime:22.99ms
+[20160523 17:51:20] ip:192.168.1.114 id:110007458 api:activity.info args:{} len:1299 utime:17.23ms
+[20160523 17:52:03] ip:192.168.1.114 api:platform.version args:{} len:191 utime:1.67ms
+[20160523 17:52:07] ip:192.168.1.114 api:platform.auth args:{} len:1822 utime:3.15ms
+[20160523 17:52:13] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:7.80ms
+[20160523 17:52:14] ip:192.168.1.114 api:game.login args:{} len:9842 utime:22.63ms status: 500
+[20160523 17:52:58] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:16.77ms
+[20160523 17:52:59] ip:192.168.1.114 api:game.login args:{} len:2707 utime:26.76ms
+[20160523 17:53:02] ip:192.168.1.114 id:110007460 api:system.heartbeat args:{} len:3527 utime:12.66ms
+[20160523 17:53:02] ip:192.168.1.114 id:110007460 api:activity.info args:{} len:1299 utime:17.93ms
+[20160523 17:53:04] ip:192.168.1.114 id:110007460 api:mail.info args:{} len:241 utime:17.22ms
+[20160523 17:54:03] ip:192.168.1.114 id:110007460 api:system.heartbeat args:{} len:128 utime:20.68ms
+[20160523 17:54:49] ip:192.168.1.114 api:platform.version args:{} len:191 utime:14.04ms
+[20160523 17:54:53] ip:192.168.1.114 api:platform.auth args:{} len:1822 utime:2.55ms
+[20160523 17:54:54] ip:192.168.1.114 api:game.login args:{} len:2709 utime:18.55ms
+[20160523 17:55:33] ip:192.168.1.114 api:platform.version args:{} len:191 utime:11.76ms
+[20160523 17:55:37] ip:192.168.1.114 api:platform.auth args:{} len:1822 utime:2.04ms
+[20160523 17:55:43] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:3.69ms
+[20160523 17:55:44] ip:192.168.1.114 api:game.login args:{} len:2707 utime:20.84ms
+[20160523 17:55:48] ip:192.168.1.114 id:110007461 api:system.heartbeat args:{} len:3527 utime:27.63ms
+[20160523 17:55:48] ip:192.168.1.114 id:110007461 api:activity.info args:{} len:1299 utime:20.07ms
+[20160523 17:55:49] ip:192.168.1.114 id:110007461 api:mail.info args:{} len:241 utime:19.64ms
+[20160523 17:56:47] ip:192.168.1.114 id:110007461 api:system.heartbeat args:{} len:128 utime:28.89ms
+[20160523 17:56:59] ip:192.168.1.114 api:platform.version args:{} len:191 utime:4.26ms
+[20160523 17:57:03] ip:192.168.1.114 api:platform.auth args:{} len:1822 utime:3.55ms
+[20160523 17:57:04] ip:192.168.1.114 api:game.login args:{} len:2709 utime:20.37ms
+[20160523 17:57:07] ip:192.168.1.114 id:110007461 api:system.heartbeat args:{} len:128 utime:22.32ms
+[20160523 17:57:11] ip:192.168.1.114 api:platform.version args:{} len:191 utime:13.90ms
+[20160523 17:57:14] ip:192.168.1.114 api:platform.auth args:{} len:1822 utime:6.00ms
+[20160523 17:57:20] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:18.33ms
+[20160523 17:57:21] ip:192.168.1.114 api:game.login args:{} len:2713 utime:21.74ms
+[20160523 17:57:23] ip:192.168.1.114 id:110007462 api:system.heartbeat args:{} len:3527 utime:25.36ms
+[20160523 17:57:23] ip:192.168.1.114 id:110007462 api:activity.info args:{} len:1299 utime:15.29ms
+[20160523 17:58:24] ip:192.168.1.114 id:110007462 api:system.heartbeat args:{} len:128 utime:20.99ms
+[20160523 17:59:24] ip:192.168.1.114 id:110007462 api:system.heartbeat args:{} len:128 utime:23.63ms
+[20160523 18:00:19] ip:192.168.1.114 api:platform.version args:{} len:191 utime:12.50ms
+[20160523 18:00:23] ip:192.168.1.114 api:platform.auth args:{} len:1822 utime:3.74ms
+[20160523 18:00:28] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:19.73ms
+[20160523 18:00:29] ip:192.168.1.114 api:game.login args:{} len:10729 utime:25.13ms status: 500
+[20160523 18:01:01] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:18.22ms
+[20160523 18:01:02] ip:192.168.1.114 api:game.login args:{} len:2713 utime:34.14ms
+[20160523 18:01:04] ip:192.168.1.114 id:110007464 api:system.heartbeat args:{} len:3527 utime:25.09ms
+[20160523 18:01:04] ip:192.168.1.114 id:110007464 api:activity.info args:{} len:1299 utime:24.68ms
+[20160523 18:01:06] ip:192.168.1.114 id:110007464 api:mail.info args:{} len:736 utime:16.83ms
+[20160523 18:01:16] ip:192.168.1.114 id:110007464 api:mail.get_attachments args:{'mail_ids': '[11000015762]'} len:14 utime:7.97ms
+[20160523 18:01:25] ip:192.168.1.114 api:platform.version args:{} len:191 utime:11.05ms
+[20160523 18:01:28] ip:192.168.1.114 api:platform.auth args:{} len:1822 utime:3.29ms
+[20160523 18:01:29] ip:192.168.1.114 api:game.login args:{} len:2754 utime:10.70ms
+[20160523 18:01:31] ip:192.168.1.114 id:110007464 api:system.heartbeat args:{} len:128 utime:19.31ms
+[20160523 18:01:31] ip:192.168.1.114 id:110007464 api:activity.info args:{} len:1299 utime:19.07ms
+[20160523 18:01:32] ip:192.168.1.114 id:110007464 api:mail.info args:{} len:750 utime:20.12ms
+[20160523 18:01:45] ip:192.168.1.114 id:110007464 api:mail.info args:{} len:750 utime:4.05ms
+[20160523 18:02:04] ip:192.168.1.114 id:110007464 api:mail.info args:{} len:750 utime:16.87ms
+[20160523 18:02:07] ip:192.168.1.114 id:110007464 api:mail.get_attachments args:{'mail_ids': '[11000015759]'} len:14 utime:8.03ms
+[20160523 18:02:17] ip:192.168.1.114 id:110007464 api:mail.info args:{} len:766 utime:20.52ms
+[20160523 18:12:05] ip:192.168.1.114 api:platform.version args:{} len:191 utime:3.32ms
+[20160523 18:12:08] ip:192.168.1.114 api:platform.auth args:{} len:1822 utime:3.66ms
+[20160523 18:12:13] ip:192.168.1.114 api:platform.express args:{} len:1843 utime:13.54ms
+[20160523 18:12:14] ip:192.168.1.114 api:game.login args:{} len:2713 utime:26.71ms
+[20160523 18:12:16] ip:192.168.1.114 id:110007465 api:system.heartbeat args:{} len:3527 utime:29.93ms
+[20160523 18:12:16] ip:192.168.1.114 id:110007465 api:activity.info args:{} len:1299 utime:8.35ms
+[20160523 18:12:18] ip:192.168.1.114 id:110007465 api:mail.info args:{} len:216 utime:16.64ms
+[20160523 18:12:24] ip:192.168.1.114 id:110007465 api:mail.get_attachments args:{'mail_ids': '[11000015763]'} len:14 utime:6.54ms
+[20160523 18:12:38] ip:192.168.1.114 id:110007465 api:vip.info args:{} len:60 utime:13.82ms
+[20160523 18:12:53] ip:192.168.1.114 api:debug args:{'msg': '\xe5\x86\x85\xe5\xae\xb9', 'receiver': '110007465', 'sender': '\xe5\x8f\x91\xe9\x80\x81\xe8\x80\x85', 'attachments': '{120997:100}', 'title': '\xe6\xa0\x87\xe9\xa2\x98'} len:11 utime:1.71ms
+[20160523 18:12:54] ip:192.168.1.114 id:110007465 api:mail.info args:{} len:419 utime:16.76ms
+[20160523 18:12:56] ip:192.168.1.114 id:110007465 api:mail.get_attachments args:{'mail_ids': '[11000015764]'} len:14 utime:5.15ms
+[20160523 18:13:04] ip:192.168.1.114 id:110007465 api:package.use args:{'items': '{120997:100}'} len:46 utime:7.32ms
+[20160523 18:13:09] ip:192.168.1.114 id:110007465 api:task.daily_submit args:{'task_id': '440020'} len:14 utime:6.55ms
+[20160523 18:13:11] ip:192.168.1.114 id:110007465 api:task.daily_submit args:{'task_id': '440002'} len:14 utime:5.63ms
+[20160523 18:13:13] ip:192.168.1.114 id:110007465 api:task.daily_submit args:{'task_id': '440000'} len:14 utime:5.18ms
+[20160523 18:13:16] ip:192.168.1.114 id:110007465 api:system.heartbeat args:{} len:128 utime:25.27ms
+[20160523 18:13:18] ip:192.168.1.114 id:110007465 api:activity.award args:{'index': '1', 'act_id': '2003'} len:14 utime:5.25ms
+[20160523 18:13:23] ip:192.168.1.114 id:110007465 api:activity.award args:{'index': '1', 'act_id': '2002'} len:14 utime:5.22ms
+[20160523 18:14:17] ip:192.168.1.114 id:110007465 api:system.heartbeat args:{} len:128 utime:18.15ms
